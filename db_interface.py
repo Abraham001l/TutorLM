@@ -13,7 +13,8 @@ def load_env_vars():
     return REST_url, wev_api_key
 
 # ---------- Connect To Client ----------
-def connect_to_client(REST_url, wev_api_key):
+def connect_to_client():
+    REST_url, wev_api_key = load_env_vars()
     client = weaviate.connect_to_weaviate_cloud(
         cluster_url=REST_url,
         auth_credentials=Auth.api_key(wev_api_key),
@@ -32,6 +33,10 @@ def create_collection(client, collection_name):
     )
     return db
 
+# ---------- Get Collection ----------
+def get_collection(client, collection_name):
+    return client.collections.get(collection_name)
+
 # ---------- Adding Data ----------
 def add_data(db, data, keys):
     with db.batch.dynamic() as batch:
@@ -46,6 +51,11 @@ def query_data(db, query, limit):
         limit=limit
     )
     return response
+
+# ---------- Print Data ----------
+def print_data(data):
+    for obj in data.objects:
+        print(json.dumps(obj.properties, indent=2))
 
 # ---------- Close Client ----------
 def close_client(client):
