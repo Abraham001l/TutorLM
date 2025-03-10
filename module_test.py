@@ -1,4 +1,4 @@
-from db_interface import *
+from db_pipeline import *
 import json
 
 client = connect_to_client()
