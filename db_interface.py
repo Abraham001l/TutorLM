@@ -40,6 +40,7 @@ def get_collection(client, collection_name):
 # ---------- Adding Data ----------
 def add_data(db, data, keys):
     with db.batch.dynamic() as batch:
+        # looping throw data to add to batch
         for d in data:
             obj = {key:d[key] for key in keys}
             batch.add_object(obj)
