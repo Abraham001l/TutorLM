@@ -1,5 +1,6 @@
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_ollama import OllamaEmbeddings
+from db_pipeline import add_data
 
 # ---------- Ollama Encoder ----------
 def chunk(text):
@@ -13,3 +14,8 @@ def chunk(text):
     docs = text_splitter.create_documents([text])
     docs = [doc.page_content for doc in docs]
     return docs
+
+def chunks_to_db(db, chunks):
+    chunks = [{'content':chunk} for chunk in chunks]
+    add_data(db, chunks, ['content'])
+
