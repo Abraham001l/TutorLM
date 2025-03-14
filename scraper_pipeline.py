@@ -3,7 +3,10 @@ import time
 from dotenv import load_dotenv
 import os
 from filelock import FileLock
+from bs4 import BeautifulSoup
+import asyncio
 
+# ---------- Scheduler Class ----------
 class Scheduler:
     def __init__(self):
         load_dotenv()
@@ -37,9 +40,7 @@ class Scheduler:
         # Try to get html
         html = self.fetch_html(url)
         return html
-
-
-        
+ 
     # ---------- Add To Queue Function ----------
     def add_to_queue(self, url):
         # Attempt to get lock
@@ -60,4 +61,69 @@ class Scheduler:
         while (self.active_threads>=5):
             time.sleep(1000)
 
+# ---------- Crawler Class ----------
+class Crawler:
+    def __init__(self, url, keywords, schd, gen):
+        self.url = url
+        self.keywords = keywords
+        self.schd = schd
+        self.gen = gen
+    
+    # ---------- Crawl Function ----------
+    async def crawl(self):
+        # List to Store scraped content
+        scraped_content = []
 
+        # Attempt to get the html
+        try:
+            html = self.schd.request_url(self.url)
+        except Exception:
+            return scraped_content
+        
+        # Check if content is valuable
+        if not self.is_valuable(html):
+            return scraped_content
+        
+        # Scrape html
+        # TODO
+        dummy_scrape = self.url
+
+        # Extract links to crawl & purge bad links
+        branch_urls = self.extract_urls(html)
+        self.purge_bad_urls(branch_urls)
+
+        # Explore url branches
+        crawler_objs = [Crawler(url,self.keywords,
+                                self.schd,self.gen+1) for url in branch_urls]
+        branch_content = await asyncio.gather(*[crawler.crawl() for crawler in crawler_objs])
+        
+        # Adding all content to scraped_content & returning it
+        scraped_content.extend([dummy_scrape, branch_content])
+        return scraped_content
+
+    # ---------- HTML Value Check Function ----------
+    def is_valuable(self, html):
+        for word in self.keywords:
+            if word in html:
+                return True
+        return False
+    
+    # ---------- Extract Links Function ----------
+    def extract_urls(self, html):
+        soup = BeautifulSoup(html, 'html.parser')
+        urls = [url.get('href') for url in soup.find_all('a')]
+        return urls
+    
+    # ---------- Purge Bad Links Function ----------
+    def purge_bad_urls(self, urls):
+        # Purging already visited urls & urls with google.
+        i = 0
+        while i < len(urls):
+            url = urls[i]
+            if (url in self.schd.scraped_urls) or ('google.' in url):
+                urls.pop(i)
+                i -= 1
+            i += 1
+
+def create_google_query_url(query, n_results, n_start):
+    return f'https://www.google.com/search?q={query}&start={n_start}&num={n_results}&tbm=nws&hl=en&lr=en'
