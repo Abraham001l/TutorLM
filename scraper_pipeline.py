@@ -38,47 +38,8 @@ class Scheduler:
         # Add to scraped urls
         self.scraped_urls.append(url)
 
-        # # Add to queue
-        # self.add_to_queue(url)
-
-        # # Wait for free slot
-        # self.get_free_slot(url)
-
         async with self.semaphore:
             return await self.fetch_html(url)
-
-        # Update active threads & remove from queue
-        # self.active_threads += 1
-        # self.queue.pop(0)
-
-        # # Try to get html
-        # html = self.fetch_html(url)
-        # self.active_threads -= 1
-        # return html
- 
-    # ---------- Add To Queue Function ----------
-    def add_to_queue(self, url):
-        print('attempting to get in queue')
-        # Attempt to get lock
-        lock = FileLock('queue_lock.txt.lock', timeout=5)
-        try:
-            with lock:
-                self.queue.append(url)
-        except Exception:
-            self.add_to_queue(url)
-    
-    # ---------- Get Free Slot Function ----------
-    def get_free_slot(self, url):
-        # Wait until at the front of the queue
-        while (self.queue.index(url)>0):
-            print('attempting to get in the front of the line')
-            time.sleep(1)
-        
-        # Wait until thread opens
-        while (self.active_threads>=5):
-            print(self.active_threads)
-            print('attempting to get an active thread')
-            time.sleep(1)
 
 # ---------- Crawler Class ----------
 class Crawler:
