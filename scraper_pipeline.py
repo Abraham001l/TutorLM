@@ -69,6 +69,11 @@ class Crawler:
         # TODO
         dummy_scrape = self.url
 
+        # Limiting generations
+        if self.gen == 3:
+            scraped_content.extend([dummy_scrape, []])
+            return scraped_content
+
         # Extract links to crawl & purge bad links
         branch_urls = self.extract_urls(html)
         self.purge_bad_urls(branch_urls)
