@@ -1,3 +1,4 @@
+import crawl4ai.html2text
 import requests
 import time
 from dotenv import load_dotenv
@@ -8,6 +9,9 @@ import asyncio
 import aiohttp
 import ssl
 from aiolimiter import AsyncLimiter
+import crawl4ai
+
+
 
 # ---------- Scheduler Class ----------
 class Scheduler:
@@ -43,11 +47,12 @@ class Scheduler:
 
 # ---------- Crawler Class ----------
 class Crawler:
-    def __init__(self, url, keywords, schd, gen):
+    def __init__(self, url, keywords, schd, gen, html2text):
         self.url = url
         self.keywords = keywords
         self.schd = schd
         self.gen = gen
+        self.html2text = html2text
     
     # ---------- Crawl Function ----------
     async def crawl(self):
@@ -66,12 +71,11 @@ class Crawler:
             return scraped_content
         
         # Scrape html
-        # TODO
-        dummy_scrape = self.url
+        scrape = self.html2text.handle(html)
 
         # Limiting generations
         if self.gen == 3:
-            scraped_content.extend([dummy_scrape, []])
+            scraped_content.extend([scrape, []])
             return scraped_content
 
         # Extract links to crawl & purge bad links
@@ -80,11 +84,11 @@ class Crawler:
 
         # Explore url branches
         crawler_objs = [Crawler(url,self.keywords,
-                                self.schd,self.gen+1) for url in branch_urls]
+                                self.schd,self.gen+1, self.html2text) for url in branch_urls]
         branch_content = await asyncio.gather(*[crawler.crawl() for crawler in crawler_objs])
         
         # Adding all content to scraped_content & returning it
-        scraped_content.extend([dummy_scrape, branch_content])
+        scraped_content.extend([scrape, branch_content])
         return scraped_content
 
     # ---------- HTML Value Check Function ----------
