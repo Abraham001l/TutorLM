@@ -1,0 +1,584 @@
+__
+
+  * Insights Blog
+
+-- Browse All Articles -- Physics Articles Physics Tutorials Physics Guides
+Physics FAQ Math Articles Math Tutorials Math Guides Math FAQ Education
+Articles Education Guides Bio/Chem Articles Technology Guides Computer Science
+Tutorials
+
+  * Forums
+
+Intro Physics Homework Help Advanced Physics Homework Help Precalculus
+Homework Help Calculus Homework Help Bio/Chem Homework Help Engineering
+Homework Help
+
+  * Trending
+
+  * Featured Threads
+
+Log in Register
+
+__ What's new
+
+  * Intro Physics Homework Help
+
+  * Advanced Physics Homework Help
+
+  * Precalculus Homework Help
+
+  * Calculus Homework Help
+
+  * Bio/Chem Homework Help
+
+  * Engineering Homework Help
+
+Menu
+
+Log in
+
+* * *
+
+Register
+
+* * *
+
+Navigation
+
+More options
+
+Contact us
+
+Close Menu
+
+JavaScript is disabled. For a better experience, please enable JavaScript in
+your browser before proceeding.
+
+You are using an out of date browser. It may not display this or other
+websites correctly.  
+You should upgrade or use an alternative browser.
+
+  * Forums
+  * Homework Help
+  * Introductory Physics Homework Help
+
+# Friction Ramp Problem (I'm challenging a score received on a test)
+
+  *   * __ Thread starter shankman
+  * __ Start date Oct 26, 2009
+  * 
+
+__ Tags
+
+     Friction  Ramp  Test 
+
+  * Oct 26, 2009
+
+  * __
+  * #1 
+
+shankman __
+
+__
+
+     4 
+
+__
+
+     0
+
+Hello! First time, long time!  
+  
+This is kind of a long post. I did what I could to keep it clear. TYIA!  
+  
+I was marked totally wrong on a test question and I think I may have been
+correct. I'm trying to get my ducks in a row before I ask the professor to
+review this with/for me. Everyone in the class seems to have gotten different
+answers so I don't have anything to compare it to.  
+  
+I believe that in this system, there is no acceleration because the friction
+is too great. This calculator I found online agrees with my answers:  
+http://hyperphysics.phy-astr.gsu.edu/hbasees/incpl2.html#c1  
+  
+Any thoughts or advice would be helpful.  
+  
+Please, help me stick it to the man! Or, keep me from making a jerk out of
+myself.
+
+## Homework Statement
+
+  
+The hanging 300g mass is connected to a 500g mass on a 35 degree downwards
+incline by an ideal string/pulley arrangement. Calculate the acceleration of
+the masses and the tension in the string when the system is released. The
+friction coefficient between the 500g mass and the ramp is Mk=.150.  
+  
+Here is a picture of the situation:  
+
+  
+m1=500g  
+m2=300g
+
+## Homework Equations
+
+  
+F=ma  
+w=mg  
+N=mg(cos@) <----- @=theta  
+Force parallel to ramp = mg(sin@)  
+Friction=(N)(Mk)
+
+## The Attempt at a Solution
+
+  
+For the 500g block:  
+W = (.5)(9.8) = 4.9N  
+N = (.5)(9.8)(cos35) = 4.01N  
+Force parallel to ramp = (.5)(9.8)(sin35) = 2.81N  
+Friction on ramp = (4.01)(.150) = .601N  
+  
+For the 300g (hanging) block:  
+W = (.3)(9.8) = 2.94N  
+  
+OK, if we were totally frictionless we would get: Fnet = 2.94 - 2.81 = .13N
+towards the hanging 300g block. This means:  
+.13N = (.8kg)a  
+a = .1625 m/s^2  
+  
+But, we have friction and friction works against _any_ motion. I believe that
+in this system, the friction is too great to overcome with these masses. We
+are in the zone where the blocks will not move.  
+  
+Since the system wants to move towards the 300g mass, friction opposes it:  
+Fnet = 2.94N – 2.81N - .601N = -.471N  
+  
+Therefore, it will not accelerate towards the 300g hanging mass because the
+friction is too great.  
+  
+AND, I just don’t get to add the friction as a force going down the hill and
+say:  
+Fnet = 2.81N + .601N – 2.94N = .471N  
+  
+This due to the fact that the friction would then _oppose_ the downhill motion
+and bring me back to the first situation.  
+_  
+Therefore, we have too much friction in this system.  
+  
+Am I correct in my logic and reasoning?_  
+  
+Since there is no movement, the Tensions are equal to the weights of the
+masses.  
+T1 = 2.81N  
+T2 = 2.94N
+
+
+
+Last edited: Oct 26, 2009
+
+Physics news on Phys.org
+
+  * When systems suddenly tip: New insights into hard-to-predict transitions
+  * Meters closer, miles faster: A novel cryogenic in-memory computing scheme to bridge AI with quantum computing
+  * Patterned spintronic emitter enables room-temperature THz polarization control for wireless and biomedical applications
+
+  * Oct 26, 2009
+
+  * __
+  * #2 
+
+rock.freak667
+
+__Homework Helper
+
+__
+
+     6,221 
+
+__
+
+     31
+
+Mass 1  
+  
+down the plane  
+  
+  
+[tex]m_1a = m_1 gsin\theta - \mu mgcos\theta -T[/tex]  
+  
+  
+  
+hanging mass  
+  
+[tex]m_2 a = T-m_2 g[/tex]  
+  
+  
+  
+Solve. I don't think there would be too much friction. But I don't have a
+calculator at hand to check it.
+
+
+
+  * Oct 26, 2009
+
+  * __
+  * #3 
+
+shankman __
+
+__
+
+     4 
+
+__
+
+     0
+
+Hello! Thanks for responding.  
+  
+I get that. But, I don't think this is a problem where you can just plug the
+numbers into the formula. I think it's one of those special cases where you
+have intermediate values that prevent acceleration.  
+  
+With no friction:  
+a = [(m2)g-(m1)(g)(sin@)] / [m1+m2]  
+  
+with numbers  
+a = [(.3)(9.8) - (.5)(9.8)(sin35)] / [.5 +.3]  
+a = .1618  
+  
+When we add friction:  
+a = [(m2)g-(m1)(g)(sin@) - (Mu)(m1)(g)(cos@)] / [m1+m2]  
+  
+With numbers  
+a = [(.3)(9.8) - (.5)(9.8)(sin35) - (.15)(.5)(9.8)(cos 35)] / [.5 +.3]  
+a = -.591  
+  
+The _magnitude_ of the acceleration increases when you add friction. Plus the
+acceleration changes directions. _I don 't see how that is possible._ That's
+why I think this is in the intermediate range where the weights don't overcome
+friction.  
+  
+Do you see the point I'm trying to make? Is this correct?  
+  
+Or, am I just crazy?
+
+
+
+  * Oct 27, 2009
+
+  * __
+  * #4 
+
+PhanthomJay
+
+__Science Advisor
+
+__Homework Helper
+
+__Gold Member
+
+__
+
+     7,201 
+
+__
+
+     530
+
+No, you are quite sane. I tended to agree with rockfreak until I cranked out
+the numbers. In problems such as these, depending on the values, the mass on
+the ramp could move up the plane, down the plane, or stand still. You have to
+work it out, as you did. In this case, there is just enough static friction
+force available to keep the system still (in equilibrium), where the
+**static** friction force on the mass on the ramp is **less than**(mu_s)N.
+Your tension calculation is wrong, however; the tension on both sides of the
+pulley must be the same, whether the masses are moving or still. Don't forget
+that there is still some static friction acting on the mass on the ramp.
+
+
+
+  * Oct 28, 2009
+
+  * __
+  * #5 
+
+shankman __
+
+__
+
+     4 
+
+__
+
+     0
+
+Thanks for your help!  
+  
+UPDATE:  
+I talked to the professor. She said that the _only_ time there is zero
+movement is when the frictional force is _equal to_ (not greater than) the
+forces creating movement. If there is any difference, there is movement
+acceleration.  
+  
+So, no extra points for me.  
+  
+Honestly, I don't buy this explanation because it entirely negates the idea
+that friction could hold something in place. I was under the impression that
+friction always against _any_ motion. Not just against the direction of the
+initial tug.  
+  
+For example, by her logic, if I have my initial situation but with Mk=.95 (say
+it's covered in velcro), the block would fly down the the ramp at 32.23 m/s^2
+(I did the math). Obviously, this does not happen.  
+  
+Hmmm... maybe I'll try her one more time with this example.
+
+
+
+  * Oct 28, 2009
+
+  * __
+  * #6 
+
+willem2
+
+__
+
+     2,127 
+
+__
+
+     391
+
+You're entirely correct. There's no need to solve rock.freak667's equations if
+the friction force is too great for movement, nor is it valid because the
+maximum of the friction force is [itex] -\mu m g cos \theta [/itex], the force
+can be smaller.
+
+
+
+  * Oct 28, 2009
+
+  * __
+  * #7 
+
+shankman __
+
+__
+
+     4 
+
+__
+
+     0
+
+Exactly!  
+  
+My professor is essentially saying that the force of friction between the
+block and ramp is _exceeding_ the other force on the block. Therefore, the
+force of friction is causing the block to move. This is impossible; the
+frictional force cannot do this.  
+  
+At least I _feel_ vindicated even if my grade didn't change.  
+  
+I think I'll let this rest now... that is unless at the end of the semester,
+I'm 1% from the next letter grade.  
+  
+Thanks for your input.
+
+
+
+  * Mar 30, 2010
+
+  * __
+  * #8 
+
+sickle
+
+__
+
+     12 
+
+__
+
+     0
+
+lol i feel for you shankman...  
+  
+you got a pretty stupid prof lol  
+  
+sound like my high school physics teacher...
+
+
+
+### Similar threads
+
+How Does a Speck of Dust Affect the Motion of a Box on an Inclined Ramp?
+
+  * Nov 6, 2016
+
+Replies
+
+    33 
+
+Views
+
+    3K
+
+Tension force and acceleration Problem
+
+  * Dec 8, 2018
+
+Replies
+
+    1 
+
+Views
+
+    2K
+
+Static & Kinetic Friction + An Applied Force on an Inclined Ramp
+
+  * Feb 5, 2013
+
+Replies
+
+    13 
+
+Views
+
+    4K
+
+Finding the coefficient of friction on a ramp
+
+  * May 1, 2013
+
+Replies
+
+    3 
+
+Views
+
+    10K
+
+Solving the Ramp Problem: Calculating Force & Friction
+
+  * Nov 21, 2011
+
+Replies
+
+    20 
+
+Views
+
+    52K
+
+Calculating Acceleration for a Warehouse Ramp Pulley System with Friction
+
+  * Oct 15, 2009
+
+Replies
+
+    5 
+
+Views
+
+    5K
+
+Ramp Problem, Friction, Find Theta
+
+  * Sep 16, 2012
+
+Replies
+
+    1 
+
+Views
+
+    4K
+
+Two ramps, one friction, one frictionless
+
+  * Mar 18, 2011
+
+Replies
+
+    17 
+
+Views
+
+    4K
+
+How Does Spring Compression Relate to Ramp Angle and Friction in Equilibrium?
+
+  * Jun 19, 2012
+
+Replies
+
+    5 
+
+Views
+
+    2K
+
+Pulley and Mass on an Inclined Ramp
+
+  * Jun 21, 2009
+
+Replies
+
+    3 
+
+Views
+
+    4K
+
+Share:
+
+__ Share
+
+  * Forums
+  * Homework Help
+  * Introductory Physics Homework Help
+
+### Hot Threads
+
+  * How do you Calculate Ampacity of a Conductor Geometry? 
+
+  * Are there two downward forces acting on the pivot of the rotating rod? 
+
+  * Rotating ring on a rough surface- but with a twist 
+
+  * Just looking for confirmation for a torque calculation 
+
+  * Find speed of CoM after collision between ball and "square structure"
+
+### Recent Insights
+
+  * Insights Why Vector Spaces Explain The World: A Historical Perspective 
+
+  * Insights Groups, The Path from a Simple Concept to Mysterious Results 
+
+  * Insights A Possible AI Modern Video Codec 
+
+  * Insights Beyond the Tidal Bulge 
+
+  * Insights The Many Faces of Topology 
+
+  * Insights Brownian Motions and Quantifying Randomness in Physical Systems 
+
+  * Change width 
+
+  * Contact
+  * About
+  * Terms
+  * Privacy
+  * Help
+  * __RSS
+
+2025 © Physics Forums, All Rights Reserved
+
+__Back
+
+__Top
+

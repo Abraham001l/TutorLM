@@ -1,0 +1,256 @@
+Start a Wiki
+
+Sign In
+
+Don't have an account?
+
+Register
+
+* * *
+
+Sign In
+
+Math & Physics Problems Wikia
+
+  * Explore
+
+    * Main Page
+    * Discuss
+    * All Pages
+    * Community
+    * Interactive Maps
+    * Recent Blog Posts
+
+  * Popular pages
+
+    * Most visited articles
+
+      * Volume of the Paraboloid
+      * Springs in Series and Parallel
+      * Ideological Subversion Interview
+      * Uneven U-Tube
+      * Mean Density of Earth
+      * Stopped Pipe and Open Pipe
+      * Linearizing Power Functions
+
+    * Ancient puzzles
+    * Physics
+    * History of Math
+    * Resources
+
+  * Community
+
+    * Recent blog posts
+    * Forum
+
+Sign In
+
+Don't have an account?
+
+Register
+
+* * *
+
+Sign In
+
+Explore
+
+Fan Central
+
+Current
+
+Advertisement
+
+Skip to content
+
+Math & Physics Problems Wiki
+
+520
+
+pages
+
+  * Explore
+
+    * Main Page
+    * Discuss
+    * All Pages
+    * Community
+    * Interactive Maps
+    * Recent Blog Posts
+
+  * Popular pages
+
+    * Most visited articles
+
+      * Volume of the Paraboloid
+      * Springs in Series and Parallel
+      * Ideological Subversion Interview
+      * Uneven U-Tube
+      * Mean Density of Earth
+      * Stopped Pipe and Open Pipe
+      * Linearizing Power Functions
+
+    * Ancient puzzles
+    * Physics
+    * History of Math
+    * Resources
+
+  * Community
+
+    * Recent blog posts
+    * Forum
+
+in: Forces, Mechanics, Physics, Statics
+
+#  Block on a Ramp
+
+Sign in to edit
+
+  * History 
+  * Purge 
+  * Talk (0) 
+
+## **Problem**[]
+
+Figure 1
+
+The free-body diagram (Figure 1) illustrates a block of mass  m {\displaystyle
+m} that is stationary on a ramp (inclined plane). The angle of inclination is
+α {\displaystyle \alpha} , and the coefficient of static friction is  μ s
+{\displaystyle {\mu}_{s} } .
+
+  
+**Part 1:** Identify the forces  F 1 , F 2 , F 3 {\displaystyle F_1, F_2, F_3}
+on the free-body diagram.
+
+**Part 2:** Determine the formula for calculating the largest angle in which
+the block will remain stationary.
+
+**Part 3:** If the coefficient of static friction is 0.8, what is the maximum
+angle  α {\displaystyle \alpha} ?
+
+  
+
+## **Solution**[]
+
+**Part 1**
+
+F 1 {\displaystyle F_1} is the gravitational force  F g {\displaystyle F_g} .
+
+F 2 {\displaystyle F_2} is the normal force  F N {\displaystyle F_N} .
+
+F 3 {\displaystyle F_3 } is the static friction force  F f s {\displaystyle
+{F}_{fs} } .
+
+**Part 2**
+
+Organize the forces in this problem in two directions: perpendicular to the
+ramp and parallel to the ramp. Then write the equations of motion  F n e t = m
+a {\displaystyle {F}_{net} = ma } . Note that the gravitational force needs to
+be resolved into each component. The perpendicular component is  F g ⊥ = m g
+cos ⁡ ( α ) {\displaystyle {F}_{g\perp} = mg\cos{(\alpha)} } . The parallel
+component is  F g ∥ = m g sin ⁡ ( α ) {\displaystyle {F}_{g\parallel} =
+mg\sin{(\alpha)} } .
+
+_**Perpendicular**_      F n e t ⊥ = m a ⊥ F N − F g ⊥ = m a ⊥ {\displaystyle
+\begin{align} {F}_{net\perp} = m{a}_{\perp} \\\\[5 pt] F_N - {F}_{g\perp} =
+m{a}_{\perp} \end{align} }
+
+Since the block is stationary in the perpendicular direction, the acceleration
+in the perpendicular direction is zero:       F N − F g cos ⁡ ( α ) = 0 F N =
+m g cos ⁡ ( α ) . {\displaystyle \begin{align} F_N - F_g \cos{(\alpha)} = 0
+\\\\[5pt] F_N = mg \cos{(\alpha)}. \end{align} }
+
+_**Parallel**_      F n e t ∥ = m a ∥ F f s − F g ∥ = m a ∥ {\displaystyle
+\begin{align} {F}_{net\parallel} = m{a}_{\parallel} \\\\[5 pt] {F}_{fs} -
+{F}_{g\parallel} = m{a}_{\parallel} \end{align} }
+
+Since the block is also stationary in the parallel direction, the acceleration
+in the parallel direction is zero:       F f s − F g sin ⁡ ( α ) = 0.
+{\displaystyle {F}_{fs} - F_g \sin{(\alpha)} = 0. }
+
+The maximum static friction is calculated using the formula  F f s = μ s F N
+{\displaystyle {F}_{fs} = {\mu}_{s} F_N } ; thus,       μ s m g cos ⁡ ( α ) =
+m g sin ⁡ ( α ) . {\displaystyle {\mu}_{s} mg \cos{(\alpha)} = mg
+\sin{(\alpha)}. }
+
+Solving for the coefficient of static friction  μ s {\displaystyle {\mu}_{s} }
+yields       μ s = sin ⁡ ( α ) cos ⁡ ( α ) . {\displaystyle {\mu}_{s} =
+\frac{\sin{(\alpha)}}{\cos{(\alpha)}}. }
+
+and since  tan ⁡ ( α ) = sin ⁡ ( α ) cos ⁡ ( α ) {\displaystyle \tan(\alpha) =
+\frac{\sin{(\alpha)}}{\cos{(\alpha)}} } , the equation is equivalent to
+μ s = tan ⁡ ( α ) . {\displaystyle {\mu}_{s} = \tan(\alpha). }
+
+Finally, solving for the angle  α {\displaystyle \alpha} gives       α = tan −
+1 ( μ s ) . {\displaystyle \alpha = {\tan}^{-1}{({\mu}_{s})}. }
+
+**Part 3**
+
+If the coefficient of static friction is 0.8,       α = tan − 1 ( 0.8 ) α =
+38.66 ∘ . {\displaystyle \begin{align} \alpha &= {\tan}^{-1}{(0.8)} \\\\[5 pt]
+\alpha &= {38.66}^{\circ}. \end{align} }
+
+  
+
+Categories
+
+  * Categories: 
+  * Forces
+  * Mechanics
+  * Physics
+  * Statics
+
+Community content is available under CC-BY-SA unless otherwise noted.
+
+Advertisement
+
+##
+
+### Explore properties
+
+  * Fandom 
+  * Muthead 
+  * Fanatical 
+
+### Follow Us
+
+  *   *   *   *   * 
+
+### Overview
+
+  * What is Fandom? 
+  * About 
+  * Careers 
+  * Press 
+  * Contact 
+  * Terms of Use 
+  * Privacy Policy 
+  * Digital Services Act 
+  * Global Sitemap 
+  * Local Sitemap 
+  * 
+
+### Community
+
+  * Community Central 
+  * Support 
+  * Help 
+
+### Advertise
+
+  * Media Kit 
+  * Contact 
+
+### Fandom Apps
+
+Take your favorite fandoms with you and never miss a beat.
+
+  *   * 
+
+Math & Physics Problems Wikia is a FANDOM Lifestyle Community.
+
+View Mobile Site
+
+Follow on IG TikTok Join Fan Lab
+

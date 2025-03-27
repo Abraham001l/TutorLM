@@ -1,0 +1,320 @@
+Articles
+
+## Article Categories
+
+close
+
+TechnologyAcademics & The ArtsHome, Auto, & HobbiesBody, Mind, &
+SpiritBusiness, Careers, & Money
+
+Books
+
+## Book Categories
+
+close
+
+TechnologyAcademics & The ArtsHome, Auto, & HobbiesBody, Mind, &
+SpiritBusiness, Careers, & Money
+
+Collections
+
+## Collections
+
+Explore all collections
+
+close
+
+BYOB (Be Your Own Boss)Be a Rad DadCareer ShiftingContemplating the CosmosFor
+Those Seeking Peace of MindFor the Aspiring AficionadoFor the Budding Cannabis
+EnthusiastFor the College BoundFor the Exam-Season CrammerFor the Game Day
+Prepper
+
+Custom Solutions
+
+Log in
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+  * Article Categories
+
+  * Book Categories
+
+  * Collections
+
+  * Custom Solutions
+  * Log In
+
+  * Main Menu
+
+  * ## Article Categories
+
+  * Technology
+  * Academics & The Arts
+  * Home, Auto, & Hobbies
+  * Body, Mind, & Spirit
+  * Business, Careers, & Money
+  * Log In
+
+  * Main Menu
+
+  * ## Book Categories
+
+  * Technology
+  * Academics & The Arts
+  * Home, Auto, & Hobbies
+  * Body, Mind, & Spirit
+  * Business, Careers, & Money
+  * Log In
+
+  * Main Menu
+
+  * ## Collections
+
+Explore all collections
+
+  * BYOB (Be Your Own Boss)
+  * Be a Rad Dad
+  * Career Shifting
+  * Contemplating the Cosmos
+  * For Those Seeking Peace of Mind
+  * For the Aspiring Aficionado
+  * For the Budding Cannabis Enthusiast
+  * For the College Bound
+  * For the Exam-Season Crammer
+  * For the Game Day Prepper
+  * Log In
+
+Home
+
+Academics & The Arts Articles
+
+Science Articles
+
+Physics Articles
+
+# Kinetic Friction along Ramps
+
+**By:**
+
+Steven Holzner
+
+|
+
+Updated:
+
+2016-03-26 10:46:49
+
+|
+
+From The Book:  
+
+Physics I Workbook For Dummies with Online Practice
+
+  *   *   *   *   * 
+
+  *   *   *   *   * 
+
+**Download E-Book**
+
+Physics I Workbook For Dummies with Online Practice
+
+Explore Book
+
+Astrophysics For Dummies
+
+**Explore Book**
+
+Buy On Amazon
+
+Two kinds of friction — static and kinetic — mean that you have to handle ramp
+problems where kinetic friction is involved as well as problems where static
+friction is involved. Kinetic friction is involved any time an object is
+moving up or down a ramp.. You can solve problems with kinetic friction as
+easily as those that involve static friction.
+
+Here’s the equation for the force needed to get an object moving and thus
+overcome static friction:
+
+To convert this equation to using kinetic friction, all you have to do is to
+change from using the coefficient of static friction to using the coefficient
+of kinetic friction:
+
+That’s all there is to it.
+
+## Sample question
+
+  1. Suppose that you’re pushing a 40.0-kg plastic crate up a 19.0-degree ramp.
+
+The coefficient of kinetic friction is 0.100, and you need to apply a force to
+keep the crate moving. What is the force you will need to apply?
+
+The correct answer is 165 N.
+
+    1. The equation here is
+
+    2. ****Putting in the numbers gives you F =128 + 37 = 165 N.
+
+## Practice questions
+
+  1. You’re dragging your little sister up the 25-degree wheelchair ramp at the doctor’s office.
+
+If she has a mass of 30.0 kg and the coefficient of kinetic friction is 0.10,
+how much force will you need to apply to keep her going?
+
+  2. You’re pushing a box of books with a mass of 25 kg up a 40-degree ramp.
+
+If the coefficient of kinetic friction is 0.27, how much force will you need
+to apply to keep the box moving up the ramp?
+
+  3. **__**You’re pushing a chest of drawers up an 18-degree ramp.
+
+If it has a mass of 50.0 kg and the coefficient of kinetic friction is 0.20,
+how much force will you need to keep it moving?
+
+  4. You want to keep a 120-kg refrigerator moving up a 23-degree ramp.
+
+If the coefficient of kinetic friction is 0.20, how much force will you need
+to keep it moving?
+
+Following are answers to the practice questions:
+
+  1. 150 N
+
+    1. Determine the forces you need to overcome: The force due to gravity is
+
+__and the force due to kinetic friction is
+
+__You need to find the normal force.
+
+    2. The equation for normal force is
+
+__Use the normal force to calculate the force due to kinetic friction:
+
+    3. The force you have to overcome is
+
+    4. Plug in the numbers:
+
+  2. 210 N
+
+    1. Calculate the forces you need to overcome: The force due to gravity is
+
+__and the force due to kinetic friction is
+
+You need to find the normal force.
+
+    2. The equation for normal force is
+
+__Use the normal force to calculate the force due to kinetic friction:
+
+    3. The force you have to overcome to keep the box moving is
+
+    4. Plug in the numbers:
+
+  3. 240 N
+
+    1. Calculate the forces you need to overcome: The force due to gravity is
+
+and the force due to kinetic friction is
+
+You need to find the normal force.
+
+    2. The equation for normal force is
+
+Use the normal force to calculate the force due to kinetic friction:
+
+    3. The force you have to overcome to keep the chest of drawers moving is
+
+    4. ****Plug in the numbers:
+
+  4. 680 N
+
+    1. Calculate the forces you need to overcome: The force due to gravity is
+
+__and the force due to kinetic friction is
+
+__You need to find the normal force.
+
+    2. The equation for normal force is
+
+__Use the normal force to calculate the force due to kinetic friction:
+
+    3. The force you have to overcome to keep the refrigerator moving is
+
+    4. Plug in the numbers:
+
+## About This Article
+
+### This article is from the book:
+
+Physics I Workbook For Dummies with Online Practice
+
+### **About the book author:**
+
+**Dr. Steven Holzner** has written more than 40 books about physics and
+programming. He was a contributing editor at _PC Magazine_ and was on the
+faculty at both MIT and Cornell. He has authored Dummies titles including
+_Physics For Dummies_ and _Physics Essentials For Dummies._ Dr. Holzner
+received his PhD at Cornell.
+
+### This article can be found in the category:
+
+Physics
+
+Trending
+
+Generative AI For Dummies Cheat Sheet
+
+How to Play Rummy: All You Need to Know
+
+MacOS Monterey For Dummies Cheat Sheet
+
+Doodle Dogs For Dummies Cheat Sheet
+
+Trig Identities for Pre-Calculus
+
+From Category
+
+Physics
+
+Astrophysics for Dummies Cheat Sheet
+
+String Theory For Dummies Cheat Sheet
+
+Physics II For Dummies Cheat Sheet
+
+Thermodynamics For Dummies Cheat Sheet
+
+Optics For Dummies Cheat Sheet
+
+### Quick Links
+
+About For DummiesContact UsActivate Online Content
+
+### Connect
+
+  * 
+
+### About Dummies
+
+Dummies has always stood for taking on complex concepts and making them easy
+to understand. Dummies helps everyone be more knowledgeable and confident in
+applying what they know. Whether it's to pass that big test, qualify for that
+big promotion or even master that cooking technique; people who rely on
+dummies, rely on it to learn the critical skills and relevant information
+necessary for success.
+
+Copyright © 2000-2025 by John Wiley & Sons, Inc., or related companies. All
+rights reserved, including rights for text and data mining and training of
+artificial technologies or similar technologies.  
+© 2025 MARVEL
+
+Terms of Use
+
+Privacy Policy
+
+Cookie Settings
+
+Do Not Sell My Personal Info - CA Only
+

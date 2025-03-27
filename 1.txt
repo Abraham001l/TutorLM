@@ -1,0 +1,139 @@
+  * Home ****
+    * Science Notes Posts
+    * Contact Science Notes
+    * About Science Notes
+      * Todd Helmenstine Biography
+      * Anne Helmenstine Biography
+  * Periodic Tables ****
+    * Free Printable Periodic Tables (PDF and PNG)
+    * Periodic Table Wallpapers
+    * Interactive Periodic Table
+    * Periodic Table Posters
+  * Science Projects ****
+    * Science Experiments for Kids
+    * How to Grow Crystals
+    * Chemistry Projects
+    * Fire and Flames Projects
+    * Holiday Science
+  * Homework Problems ****
+    * Chemistry Problems With Answers
+    * Physics Problems
+    * Unit Conversion Example Problems
+  * Worksheets ****
+    * Chemistry Worksheets
+    * Biology Worksheets
+    * Periodic Table Worksheets
+    * Physical Science Worksheets
+    * Science Lab Worksheets
+  * Redbubble
+  * My Amazon Books
+
+Search for:
+
+Home » Science Notes Posts » Physics » Physics Example Problems » Friction
+Example Problem - Sliding Down An Inclined Plane
+
+# Friction Example Problem - Sliding Down An Inclined Plane 1
+
+This entry was posted on July 28, 2014 by Todd Helmenstine (updated on May 2,
+2021)
+
+* * *
+
+The "block sliding down an inclined plane" is a common first year homework
+problem dealing with friction. This problem is a relatively simple example
+problem but can be made even easier with a trick. While it isn't an Earth
+shattering trick, it does not always occur to the new physics student. This
+worked solution of this classic problem uses that trick.
+
+**Problem:  
+** A mass of weight w sits on a level surface. One end of the surface is
+raised until the block begins to slide down the ramp at a constant velocity.
+What is the coefficient of friction between the block and the incline plane?
+
+**Solution:  
+** This illustration shows the forces at work when the block is in motion.
+
+The normal force N is perpendicular to the surface of the ramp. The frictional
+force Ff acts parallel to the ramp's surface and resists the motion of the
+block. The weight w pulls vertically down. The angle between the ground and
+the ramp's surface is θ.
+
+Now for the trick. Most students will immediately make their coordinate system
+parallel to the ground (up-down, left-right). You can save yourself a lot of
+trigonometry if you choose to align the coordinate system with the incline of
+the ramp and the positive x direction is down the ramp. See, not Earth
+shattering like I said, but extremely useful in simplifying the problem. Now
+our forces can be broken up into x- and y- components.
+
+In the x-direction, the sum of the forces are:
+
+ΣFx = w·sinθ - Ff
+
+We know the force of friction Ff = μN. Since the block is moving, the μ we use
+is the coefficient of kinetic friction: μk.
+
+ΣFx = w·sinθ - μkN
+
+Since the system is in equilibrium (constant velocity) the sum of all the
+forces is equal to zero.
+
+w·sinθ - μkN = 0  
+or  
+w·sinθ = μkN
+
+Now for the y-direction. Again the sum of the forces is equal to zero.
+
+ΣFy = 0  
+ΣFy = N - w·cosθ
+
+0 = N - w·cosθ  
+or  
+N = w·cosθ
+
+Plug this solution into the result we got from the x-direction.
+
+w·sinθ = μk(w·cosθ)
+
+Solve for μk
+
+μk = tanθ
+
+**Answer:  
+** The coefficient of kinetic friction between the block and the surface of
+the inclined plane is equal to the tangent of the angle formed between the
+ground and the surface of the ramp when the block is moving at a constant
+velocity.
+
+For more about friction force, coefficients of friction and another example
+problem, look at this link: Friction Example Problem – Physics Homework Help.
+
+### _Related Posts_
+
+* * *
+
+### Categories
+
+CategoriesSelect Category4th of July7th Grade ScienceAlchemyAnalytical
+ChemistryAstronomyBiochemistryBiologyBiology DictionaryChemistryChemistry
+DictionaryChemistry NotesChemistry ProblemsChemistry ProjectsCrystalsElement
+GroupsElement QuizzesElementsEnergyEventsFamous ScientistsFire and Flames
+ProjectsFood ChemistryFree Science PrintablesGeologyGlow in the
+DarkHalloweenHoliday ScienceHow Stuff WorksIceland Solar Eclipse and
+AuroraLaboratoryMarine
+BiologyMaterialsMathematicsMeasurementNanochemistryOceanographyOpticsPeriodic
+TablePhysicsPhysics Example ProblemsScience DictionariesScience FairScience
+HistoryScience NotesScience Notes by GradeScience ProjectsScience
+QuizzesScientific MethodTechTravelUncategorizedWeatherWorksheets and Quizzes
+
+  * Free Printable Periodic Tables (PDF and PNG)
+  * Printable Periodic Table
+  * Periodic Table with Charges - 118 Elements
+  * Periodic Table with Atomic Mass
+  * What's New at Science Notes - Periodic Tables and More
+
+* (C) 2025 Science Notes and Projects * Designed by Press Customizr *  
+* Cookies Policy * Terms of Service *
+
+__
+
