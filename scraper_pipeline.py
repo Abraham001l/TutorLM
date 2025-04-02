@@ -3,15 +3,13 @@ import requests
 import time
 from dotenv import load_dotenv
 import os
-from filelock import FileLock
 from bs4 import BeautifulSoup
 import asyncio
 import aiohttp
 import ssl
-from aiolimiter import AsyncLimiter
 import crawl4ai
-import itertools
 from asyncio import Lock
+from youtube_transcript_api import YouTubeTranscriptApi
 
 # ---------- Scheduler Class ----------
 class Scheduler:
@@ -84,37 +82,49 @@ class Crawler:
         # List to Store scraped content
         scraped_content = []
 
-        # Attempt to get the html
-        try:
-            html = await self.schd.request_url(self.url)
-        except Exception as e:
-            print(e)
-            return scraped_content
-        
-        # Check if content is valuable
-        if not self.is_valuable(html):
-            return scraped_content
-        
-        # Scrape html
-        scrape = self.html2text.handle(html)
+        if 'youtube.' in self.url:
+            try:
+                video_id = self.url[self.url.index('=')+1:]
+                transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                script = ''
+                for t in transcript:
+                    script += t['text']+'\n'
+                scraped_content.extend([script])
+            except Exception as e:
+                print(e)
+                return scraped_content
+        else:
+            # Attempt to get the html
+            try:
+                html = await self.schd.request_url(self.url)
+            except Exception as e:
+                print(e)
+                return scraped_content
 
-        # Limiting generations
-        if self.gen+1 >= 2:
-            scraped_content.extend([scrape])
-            return scraped_content
+            # # Check if content is valuable
+            # if not self.is_valuable(html):
+            #     return scraped_content
+            
+            # Scrape html
+            scrape = self.html2text.handle(html)
 
-        # Extract links to crawl & purge bad links
-        branch_urls = self.extract_urls(html)
-        await self.purge_bad_urls(branch_urls)
-        print(branch_urls)
+            # Limiting generations
+            if self.gen+1 >= 2:
+                scraped_content.extend([scrape])
+                return scraped_content
 
-        # Explore url branches
-        crawler_objs = [Crawler(url,self.keywords,
-                                self.schd,self.gen+1, self.html2text) for url in branch_urls]
-        branch_content = await asyncio.gather(*[crawler.crawl() for crawler in crawler_objs])
-        
-        # Adding all content to scraped_content & returning it
-        scraped_content.extend([scrape, branch_content])
+            # Extract links to crawl & purge bad links
+            branch_urls = self.extract_urls(html)
+            await self.purge_bad_urls(branch_urls)
+            print(branch_urls)
+
+            # Explore url branches
+            crawler_objs = [Crawler(url,self.keywords,
+                                    self.schd,self.gen+1, self.html2text) for url in branch_urls]
+            branch_content = await asyncio.gather(*[crawler.crawl() for crawler in crawler_objs])
+            
+            # Adding all content to scraped_content & returning it
+            scraped_content.extend([scrape, branch_content])
         return scraped_content
 
     # ---------- HTML Value Check Function ----------

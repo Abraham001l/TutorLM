@@ -1,584 +1,1090 @@
-__
+Skip to main content
 
-  * Insights Blog
+Discover
 
--- Browse All Articles -- Physics Articles Physics Tutorials Physics Guides
-Physics FAQ Math Articles Math Tutorials Math Guides Math FAQ Education
-Articles Education Guides Bio/Chem Articles Technology Guides Computer Science
-Tutorials
+Trips
 
-  * Forums
+Review
 
-Intro Physics Homework Help Advanced Physics Homework Help Precalculus
-Homework Help Calculus Homework Help Bio/Chem Homework Help Engineering
-Homework Help
+USD
 
-  * Trending
+Sign in
 
-  * Featured Threads
+San MarcosHotelsThings to DoRestaurantsFlightsVacation RentalsCruisesRental
+CarsForums
 
-Log in Register
+United States
 
-__ What's new
+Texas (TX)
 
-  * Intro Physics Homework Help
+San Marcos
 
-  * Advanced Physics Homework Help
+San Marcos Restaurants
 
-  * Precalculus Homework Help
+Fuego Tortilla Grill
 
-  * Calculus Homework Help
+# Fuego Tortilla Grill
 
-  * Bio/Chem Homework Help
+Claimed
 
-  * Engineering Homework Help
+Someone from this business manages this listing.
+
+Learn More
+
+Share
+
+Review
+
+Save
+
+4.3
+
+4.3 of 5 bubbles
+
+(128 reviews)
+
+**#4** of 28 Quick Bites in San MarcosQuick Bites, Mexican, $
+
+30
+
+What is Travelers’ Choice?
+
+Tripadvisor gives a Travelers’ Choice award to accommodations, attractions and
+restaurants that consistently earn great reviews from travelers and are ranked
+within the top 10% of properties on Tripadvisor.
+
+Interior
+
+1
+
+Food
+
+23
 
 Menu
 
-Log in
+1
+
+Fuego Tortilla Grill
+
+Share
+
+Review
+
+Save
+
+Order online
+
+At a glance
+
+Open until 11:59 PM
+
+See all hours
+
+913 N. I-35 Frontage Rd, San Marcos, TX 78666
+
+Website
+
+Menu
+
++1 512-754-8226Improve this listing
+
+About
+
+Features
+
+CUISINES
+
+Mexican, Southwestern, Fast Food
+
+Meal types
+
+Breakfast, Lunch, Dinner, Brunch, Late Night
+
+Special Diets
+
+Vegetarian friendly
+
+FEATURES
+
+Accepts Credit Cards
+
+American Express
+
+Delivery
+
+Digital Payments
+
+Discover
+
+Drive Thru
+
+Free off-street parking
+
+Free Wifi
+
+Mastercard
+
+Non-smoking restaurants
+
+Parking Available
+
+Seating
+
+Serves Alcohol
+
+Takeout
+
+Visa
+
+Wheelchair Accessible
+
+Location
+
+913 N. I-35 Frontage Rd, San Marcos, TX 78666
+
+Free off-street parking, Parking Available
+
+Menu
 
 * * *
 
-Register
+* * *
+
+Show full menu
+
+Does this restaurant accept reservations?
+
+Yes
+
+No
+
+Unsure
+
+Order delivery
+
+Order now
 
 * * *
 
-Navigation
-
-More options
-
-Contact us
-
-Close Menu
-
-JavaScript is disabled. For a better experience, please enable JavaScript in
-your browser before proceeding.
-
-You are using an out of date browser. It may not display this or other
-websites correctly.  
-You should upgrade or use an alternative browser.
-
-  * Forums
-  * Homework Help
-  * Introductory Physics Homework Help
-
-# Friction Ramp Problem (I'm challenging a score received on a test)
-
-  *   * __ Thread starter shankman
-  * __ Start date Oct 26, 2009
-  * 
-
-__ Tags
-
-     Friction  Ramp  Test 
-
-  * Oct 26, 2009
-
-  * __
-  * #1 
-
-shankman __
-
-__
-
-     4 
-
-__
-
-     0
-
-Hello! First time, long time!  
-  
-This is kind of a long post. I did what I could to keep it clear. TYIA!  
-  
-I was marked totally wrong on a test question and I think I may have been
-correct. I'm trying to get my ducks in a row before I ask the professor to
-review this with/for me. Everyone in the class seems to have gotten different
-answers so I don't have anything to compare it to.  
-  
-I believe that in this system, there is no acceleration because the friction
-is too great. This calculator I found online agrees with my answers:  
-http://hyperphysics.phy-astr.gsu.edu/hbasees/incpl2.html#c1  
-  
-Any thoughts or advice would be helpful.  
-  
-Please, help me stick it to the man! Or, keep me from making a jerk out of
-myself.
-
-## Homework Statement
-
-  
-The hanging 300g mass is connected to a 500g mass on a 35 degree downwards
-incline by an ideal string/pulley arrangement. Calculate the acceleration of
-the masses and the tension in the string when the system is released. The
-friction coefficient between the 500g mass and the ramp is Mk=.150.  
-  
-Here is a picture of the situation:  
-
-  
-m1=500g  
-m2=300g
-
-## Homework Equations
-
-  
-F=ma  
-w=mg  
-N=mg(cos@) <----- @=theta  
-Force parallel to ramp = mg(sin@)  
-Friction=(N)(Mk)
+Save this restaurant
 
-## The Attempt at a Solution
+Save
 
-  
-For the 500g block:  
-W = (.5)(9.8) = 4.9N  
-N = (.5)(9.8)(cos35) = 4.01N  
-Force parallel to ramp = (.5)(9.8)(sin35) = 2.81N  
-Friction on ramp = (4.01)(.150) = .601N  
-  
-For the 300g (hanging) block:  
-W = (.3)(9.8) = 2.94N  
-  
-OK, if we were totally frictionless we would get: Fnet = 2.94 - 2.81 = .13N
-towards the hanging 300g block. This means:  
-.13N = (.8kg)a  
-a = .1625 m/s^2  
-  
-But, we have friction and friction works against _any_ motion. I believe that
-in this system, the friction is too great to overcome with these masses. We
-are in the zone where the blocks will not move.  
-  
-Since the system wants to move towards the 300g mass, friction opposes it:  
-Fnet = 2.94N – 2.81N - .601N = -.471N  
-  
-Therefore, it will not accelerate towards the 300g hanging mass because the
-friction is too great.  
-  
-AND, I just don’t get to add the friction as a force going down the hill and
-say:  
-Fnet = 2.81N + .601N – 2.94N = .471N  
-  
-This due to the fact that the friction would then _oppose_ the downhill motion
-and bring me back to the first situation.  
-_  
-Therefore, we have too much friction in this system.  
-  
-Am I correct in my logic and reasoning?_  
-  
-Since there is no movement, the Tensions are equal to the weights of the
-masses.  
-T1 = 2.81N  
-T2 = 2.94N
-
-
-
-Last edited: Oct 26, 2009
-
-Physics news on Phys.org
-
-  * When systems suddenly tip: New insights into hard-to-predict transitions
-  * Meters closer, miles faster: A novel cryogenic in-memory computing scheme to bridge AI with quantum computing
-  * Patterned spintronic emitter enables room-temperature THz polarization control for wireless and biomedical applications
-
-  * Oct 26, 2009
+Hours
 
-  * __
-  * #2 
+Suggest an edit
 
-rock.freak667
+Open until 11:59 PM
 
-__Homework Helper
+Sunday
 
-__
+12:00 AM - 11:59 PM
 
-     6,221 
-
-__
+Monday
 
-     31
+Closed
 
-Mass 1  
-  
-down the plane  
-  
-  
-[tex]m_1a = m_1 gsin\theta - \mu mgcos\theta -T[/tex]  
-  
-  
-  
-hanging mass  
-  
-[tex]m_2 a = T-m_2 g[/tex]  
-  
-  
-  
-Solve. I don't think there would be too much friction. But I don't have a
-calculator at hand to check it.
+Tuesday
 
+6:00 AM - 11:59 PM
 
+Wednesday
 
-  * Oct 26, 2009
+12:00 AM - 11:59 PM
 
-  * __
-  * #3 
+Thursday
 
-shankman __
+12:00 AM - 11:59 PM
 
-__
+Friday
 
-     4 
+12:00 AM - 11:59 PM
 
-__
+Saturday
 
-     0
-
-Hello! Thanks for responding.  
-  
-I get that. But, I don't think this is a problem where you can just plug the
-numbers into the formula. I think it's one of those special cases where you
-have intermediate values that prevent acceleration.  
-  
-With no friction:  
-a = [(m2)g-(m1)(g)(sin@)] / [m1+m2]  
-  
-with numbers  
-a = [(.3)(9.8) - (.5)(9.8)(sin35)] / [.5 +.3]  
-a = .1618  
-  
-When we add friction:  
-a = [(m2)g-(m1)(g)(sin@) - (Mu)(m1)(g)(cos@)] / [m1+m2]  
-  
-With numbers  
-a = [(.3)(9.8) - (.5)(9.8)(sin35) - (.15)(.5)(9.8)(cos 35)] / [.5 +.3]  
-a = -.591  
-  
-The _magnitude_ of the acceleration increases when you add friction. Plus the
-acceleration changes directions. _I don 't see how that is possible._ That's
-why I think this is in the intermediate range where the weights don't overcome
-friction.  
-  
-Do you see the point I'm trying to make? Is this correct?  
-  
-Or, am I just crazy?
+12:00 AM - 11:59 PM
 
+Contribute
 
+Write a review
 
-  * Oct 27, 2009
+Upload a photo
 
-  * __
-  * #4 
+Ask a question
 
-PhanthomJay
+ReviewsQ&A
 
-__Science Advisor
+4.3
 
-__Homework Helper
+4.3 of 5 bubbles
 
-__Gold Member
+(128)
 
-__
+Excellent
 
-     7,201 
+74
 
-__
+Good
 
-     530
+31
 
-No, you are quite sane. I tended to agree with rockfreak until I cranked out
-the numbers. In problems such as these, depending on the values, the mass on
-the ramp could move up the plane, down the plane, or stand still. You have to
-work it out, as you did. In this case, there is just enough static friction
-force available to keep the system still (in equilibrium), where the
-**static** friction force on the mass on the ramp is **less than**(mu_s)N.
-Your tension calculation is wrong, however; the tension on both sides of the
-pulley must be the same, whether the masses are moving or still. Don't forget
-that there is still some static friction acting on the mass on the ramp.
+Average
 
+12
 
+Poor
 
-  * Oct 28, 2009
+5
 
-  * __
-  * #5 
+Terrible
 
-shankman __
+6
 
-__
+Filters
 
-     4 
+English
 
-__
+Most recent
 
-     0
+* * *
 
-Thanks for your help!  
-  
-UPDATE:  
-I talked to the professor. She said that the _only_ time there is zero
-movement is when the frictional force is _equal to_ (not greater than) the
-forces creating movement. If there is any difference, there is movement
-acceleration.  
-  
-So, no extra points for me.  
-  
-Honestly, I don't buy this explanation because it entirely negates the idea
-that friction could hold something in place. I was under the impression that
-friction always against _any_ motion. Not just against the direction of the
-initial tug.  
-  
-For example, by her logic, if I have my initial situation but with Mk=.95 (say
-it's covered in velcro), the block would fly down the the ramp at 32.23 m/s^2
-(I did the math). Obviously, this does not happen.  
-  
-Hmmm... maybe I'll try her one more time with this example.
+Kat E
 
+2 contributions
 
+0
 
-  * Oct 28, 2009
+5 of 5 bubbles
 
-  * __
-  * #6 
+Amazing Mexican Food
 
-willem2
+Jan 2023 • family
 
-__
+The food with charred chicken is authentic Mexican food. The menu price lists
+for one taco (you can obviously ask for more) but each one is an overfilled
+regular 9-inch tortilla. The bowls have twice the filling. I am in San Marcos
+for a week and I will visit a second time!
 
-     2,127 
+Read more
 
-__
+Written January 9, 2023
 
-     391
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-You're entirely correct. There's no need to solve rock.freak667's equations if
-the friction force is too great for movement, nor is it valid because the
-maximum of the friction force is [itex] -\mu m g cos \theta [/itex], the force
-can be smaller.
+* * *
 
+Pamela O
 
+Coppell1 contribution
 
-  * Oct 28, 2009
+0
 
-  * __
-  * #7 
+5 of 5 bubbles
 
-shankman __
+Family loved it, good price for good food!
 
-__
+Nov 2020 • none
 
-     4 
+Our family of seven (kids ranging in age from 6-14) enjoyed eating for
+basically the same price as it costs us to eat at ChickFilA or In-N-Out or
+Whataburger, but this was so much better! We ordered 6 of the favorite tacos,
+1 pint of Mac and cheese and the chips and quezon (with drinks) it was plenty
+to fill us up! Our youngest two still hand Mac and cheese left over! We are
+from Dallas, this is very similar in idea to The Velvet Taco...think gourmet,
+unique tacos. You get one taco but it is very filling! We dined in, good
+country music and decent atmosphere. There is a drive thru as well which is
+good to remember for next time.
 
-__
+Read more
 
-     0
+Written November 21, 2020
 
-Exactly!  
-  
-My professor is essentially saying that the force of friction between the
-block and ramp is _exceeding_ the other force on the block. Therefore, the
-force of friction is causing the block to move. This is impossible; the
-frictional force cannot do this.  
-  
-At least I _feel_ vindicated even if my grade didn't change.  
-  
-I think I'll let this rest now... that is unless at the end of the semester,
-I'm 1% from the next letter grade.  
-  
-Thanks for your input.
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
+* * *
 
+John W
 
-  * Mar 30, 2010
+Houston17 contributions
 
-  * __
-  * #8 
+1
 
-sickle
+5 of 5 bubbles
 
-__
+Yum!
 
-     12 
+Jun 2022 • none
 
-__
+You order at the counter and condements and drinks to the side. I was hungry
+and ordered two different tacos. One was Carnita based and was Mexico tasty.
+The other was a fried fish taco that was huge and cooked perfectly. They even
+had a Horchata drink that was very nice. It was very tasty and well priced and
+filling.
 
-     0
+Read more
 
-lol i feel for you shankman...  
-  
-you got a pretty stupid prof lol  
-  
-sound like my high school physics teacher...
+Written July 5, 2022
 
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
+* * *
 
-### Similar threads
+Whitney R
 
-How Does a Speck of Dust Affect the Motion of a Box on an Inclined Ramp?
+1 contribution
 
-  * Nov 6, 2016
+0
 
-Replies
+1 of 5 bubbles
 
-    33 
+Horrible and rude
 
-Views
+Jun 2023 • business
 
-    3K
+The service completely sucked . They acted like they couldn't hear our order
+and obviously they didn't because our whole order was messed up . Got in
+contact finally the next day with the rudest store manager named starr who
+refused to own up to their mistakes and tried to act like we were begging for
+free food . Obviously as big as our bill was we weren't begging . It was the
+fact that it was 2 am and they couldn't help us but yet they are open all
+night . All we wanted was our order replaced not our money because we were
+wanting the same food but just done correctly and how we ordered it .
 
-Tension force and acceleration Problem
+Read more
 
-  * Dec 8, 2018
+Written June 30, 2023
 
-Replies
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-    1 
+* * *
 
-Views
+Suzie H
 
-    2K
+Lake Ozark141 contributions
 
-Static & Kinetic Friction + An Applied Force on an Inclined Ramp
+0
 
-  * Feb 5, 2013
+3 of 5 bubbles
 
-Replies
+Fast food Mexican
 
-    13 
+Feb 2023 • couples
 
-Views
+We walked in expecting a nice Mexican dinner but instead this is a go to the
+front to order then they bring it to you. Empty food baskets on uncleaned
+tables, plastic forks and spoons, condiment on a table, self service drinks.
+The food was ok but we won’t go back.
 
-    4K
+Read more
 
-Finding the coefficient of friction on a ramp
+Written February 18, 2023
 
-  * May 1, 2013
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-Replies
+* * *
 
-    3 
+Sivan M
 
-Views
+Dallas547 contributions
 
-    10K
+0
 
-Solving the Ramp Problem: Calculating Force & Friction
+5 of 5 bubbles
 
-  * Nov 21, 2011
+Large tacos!!
 
-Replies
+Dec 2021 • family
 
-    20 
+Similar to Torchy’s Tacos, Fuegos serves large tacos with various different
+toppings and meats. I enjoyed the hippie taco, but I’m sure there are all good
+options (chicken, beef, etc.). The chips and queso is also a solid option to
+have on the side. Average price per person ($8-13).
 
-Views
+Read more
 
-    52K
+Written December 31, 2021
 
-Calculating Acceleration for a Warehouse Ramp Pulley System with Friction
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-  * Oct 15, 2009
+* * *
 
-Replies
+LaTiffany S
 
-    5 
+Longview75 contributions
 
-Views
+0
 
-    5K
+5 of 5 bubbles
 
-Ramp Problem, Friction, Find Theta
+Better than I anticipated
 
-  * Sep 16, 2012
+Jan 2020 • family
 
-Replies
+I was visiting San Marcos and my daughter and her friends, recommended this
+restaurant. The food was delicious, there was a lot of variety to choose from
+and it was not very expensive. I had a bowl and my son had two tacos, which
+filled us up and we took the rest to go. Will definitely return here, when we
+visit San Marcos again.
 
-    1 
+Read more
 
-Views
+Written January 19, 2020
 
-    4K
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-Two ramps, one friction, one frictionless
+* * *
 
-  * Mar 18, 2011
+countrybottoms
 
-Replies
+Hazel Green6 contributions
 
-    17 
+0
 
-Views
+2 of 5 bubbles
 
-    4K
+Nacho's Mama
 
-How Does Spring Compression Relate to Ramp Angle and Friction in Equilibrium?
+Sep 2020 • couples
 
-  * Jun 19, 2012
+Awful. I wanted chicken and the young man insisted it came with Brisket. I
+would not order it again. No taste, flavor. Called twice to order food and the
+music was so loud he couldn't hear me. Then we walked over to order from
+motel.
 
-Replies
+Read more
 
-    5 
+Written September 14, 2020
 
-Views
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-    2K
+* * *
 
-Pulley and Mass on an Inclined Ramp
+B D
 
-  * Jun 21, 2009
+Seymour114 contributions
 
-Replies
+0
 
-    3 
+5 of 5 bubbles
 
-Views
+Great dinner
 
-    4K
+Apr 2023 • couples
 
-Share:
+Fast food, with slow cooked taste. Over stuffed tacos. One is more than
+enough! Absolutely delicious. Order at the counter, get your number and grab a
+table and enjoy! Really good queso, tons of chips!!!
 
-__ Share
+Read more
 
-  * Forums
-  * Homework Help
-  * Introductory Physics Homework Help
+Written April 19, 2023
 
-### Hot Threads
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-  * How do you Calculate Ampacity of a Conductor Geometry? 
+* * *
 
-  * Are there two downward forces acting on the pivot of the rotating rod? 
+Laurie F
 
-  * Rotating ring on a rough surface- but with a twist 
+1 contribution
 
-  * Just looking for confirmation for a torque calculation 
+0
 
-  * Find speed of CoM after collision between ball and "square structure"
+1 of 5 bubbles
 
-### Recent Insights
+Saddest Taco Ever
 
-  * Insights Why Vector Spaces Explain The World: A Historical Perspective 
+Mar 2025 • solo
 
-  * Insights Groups, The Path from a Simple Concept to Mysterious Results 
+I went for breakfast and was given the saddest taco I have ever been given in
+my life. The picture speaks for itself. The bacon was thicker than the egg.
 
-  * Insights A Possible AI Modern Video Codec 
+Read more
 
-  * Insights Beyond the Tidal Bulge 
+Written March 12, 2025
 
-  * Insights The Many Faces of Topology 
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
 
-  * Insights Brownian Motions and Quantifying Randomness in Physical Systems 
+* * *
 
-  * Change width 
+Carleen D
 
-  * Contact
-  * About
-  * Terms
-  * Privacy
-  * Help
-  * __RSS
+18 contributions
 
-2025 © Physics Forums, All Rights Reserved
+0
 
-__Back
+5 of 5 bubbles
 
-__Top
+Delicious, as always
+
+Jul 2021 • solo
+
+I had the queso and the Veggie Monster. Always recommend!!! I've been coming
+to Fuego since starting at Texas A&M, and the 2nd restaurant in San Marcos
+does not disappoint.
+
+Read more
+
+Written July 16, 2021
+
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
+
+* * *
+
+brigittenelson75
+
+Alvin4 contributions
+
+0
+
+5 of 5 bubbles
+
+Awesome Tortilla
+
+Jun 2019 • family
+
+My nephews told us we had to try this place so we did and we were not
+disappointed. We went a little over board but none of the choose were
+disappointing. We tried the Southern Comfort, Sweet Caroline, Dr Pepper Cowboy
+and Frito Bandito. All were amazing!
+
+Read more
+
+Written June 18, 2019
+
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
+
+* * *
+
+Bonnie
+
+Leander214 contributions
+
+0
+
+5 of 5 bubbles
+
+Cheap, Fast & Tasty
+
+May 2019 • friends
+
+Wonderful tacos, many varieties and very tasty. Really nice staff. The
+combinations were interesting, not your typical taco.
+
+Read more
+
+Written May 27, 2019
+
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
+
+* * *
+
+Trinda L
+
+Amarillo59 contributions
+
+0
+
+5 of 5 bubbles
+
+Unique Twist to Tacos!!
+
+May 2019 • family
+
+This was a great find!! Very unique twist to tacos! If you are a picky or
+finicky eater, this might not be the place for you. I am an adventurous eater
+but sensitive to textures. Several tacos tend to have soft food items in them
+and there is some fat in the meat. Each taco is large and one fills you up!
+Overall, I really enjoyed this meal and would return if I ever crossed paths
+again.
+
+Read more
+
+Written May 26, 2019
+
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
+
+* * *
+
+Tiffany H
+
+San Marcos64 contributions
+
+0
+
+5 of 5 bubbles
+
+Worth it every time
+
+Apr 2019 • couples
+
+I have never been disappointed! For fast food, the quality of the food is
+surprisingly good. It is a little pricy, but you get more for your money
+because the tacos are huge!
+
+Read more
+
+Written April 5, 2019
+
+This review is the subjective opinion of a Tripadvisor member and not of
+Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
+industry-leading trust & safety standards. Read our transparency report to
+learn more.
+
+* * *
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+…
+
+Showing results 1-15 of 128
+
+Best quick bites
+
+See all
+
+In-N-Out Burger
+
+4.1
+
+4.1 of 5 bubbles
+
+(61 reviews)
+
+American • $
+
+Closed now
+
+Chick-fil-A
+
+4.7
+
+4.7 of 5 bubbles
+
+(35 reviews)
+
+American • $
+
+Open now
+
+Order
+
+Alvin Ord's Sandwich Shop
+
+4.3
+
+4.3 of 5 bubbles
+
+(37 reviews)
+
+American • $
+
+Open now
+
+Loli’s Café
+
+4.7
+
+4.7 of 5 bubbles
+
+(33 reviews)
+
+Mexican • $
+
+Open now
+
+Torchys Tacos
+
+4.0
+
+4 of 5 bubbles
+
+(64 reviews)
+
+Mexican • $
+
+Open now
+
+Gil's Broiler
+
+3.9
+
+3.9 of 5 bubbles
+
+(97 reviews)
+
+American • $
+
+Open now
+
+Order
+
+Tantra
+
+4.5
+
+4.5 of 5 bubbles
+
+(21 reviews)
+
+Cafe • $
+
+Open now
+
+Raising Cane's Chicken Fingers
+
+4.1
+
+4.1 of 5 bubbles
+
+(34 reviews)
+
+American • $
+
+Open now
+
+Firehouse Subs
+
+4.9
+
+4.9 of 5 bubbles
+
+(15 reviews)
+
+Fast Food • $
+
+Closed now
+
+Order
+
+Zaxby's
+
+4.0
+
+4 of 5 bubbles
+
+(28 reviews)
+
+American • $
+
+Closed now
+
+Order
+
+Best nearby
+
+We rank these hotels, restaurants, and attractions by balancing reviews from
+our members with how close they are to this location.
+
+Best nearby hotels
+
+See all
+
+Best Western San Marcos
+
+3.7
+
+3.7 of 5 bubbles
+
+(337)
+
+0.06 miles away
+
+Red Roof Inn San Marcos
+
+3.4
+
+3.4 of 5 bubbles
+
+(123)
+
+0.08 miles away
+
+White Rock Inn
+
+3.0
+
+3 of 5 bubbles
+
+(40)
+
+0.17 miles away
+
+Days Inn by Wyndham San Marcos
+
+2.9
+
+2.9 of 5 bubbles
+
+(266)
+
+0.12 miles away
+
+Best nearby restaurants
+
+See all
+
+Herbert's Taco Hut
+
+4.2
+
+4.2 of 5 bubbles
+
+(342)
+
+0.27 miles away
+
+The Root Cellar Cafe
+
+4.4
+
+4.4 of 5 bubbles
+
+(476)
+
+0.89 miles away
+
+Ivar's River Pub
+
+4.1
+
+4.1 of 5 bubbles
+
+(54)
+
+0.39 miles away
+
+Jason's Deli
+
+4.2
+
+4.2 of 5 bubbles
+
+(64)
+
+0.4 miles away
+
+Best nearby attractions
+
+See all
+
+The Meadows Center For Water And The Environment
+
+4.5
+
+4.5 of 5 bubbles
+
+(329)
+
+0.98 miles away
+
+Rio Vista Park
+
+5.0
+
+5 of 5 bubbles
+
+(3)
+
+0.42 miles away
+
+Bobcat stadium
+
+4.6
+
+4.6 of 5 bubbles
+
+(41)
+
+0.75 miles away
+
+Patio Dolcetto
+
+4.6
+
+4.6 of 5 bubbles
+
+(16)
+
+0.68 miles away
+
+Is This Your Listing?
+
+Own or manage this property? Claim your listing for free to respond to
+reviews, update your profile and much more.
+
+Claim Your Free Listing
+
+#
+
+FUEGO TORTILLA GRILL, San Marcos - Menu, Prices & Restaurant Reviews - Order
+Online Food Delivery - Tripadvisor
+
+San Marcos
+
+San Marcos TourismSan Marcos HotelsSan Marcos Bed and BreakfastSan Marcos
+Vacation RentalsFlights to San MarcosSan Marcos RestaurantsThings to Do in San
+MarcosSan Marcos Travel ForumSan Marcos PhotosSan Marcos Map
+
+Hotels
+
+All San Marcos HotelsSan Marcos Hotel DealsLast Minute Hotels in San
+MarcosHotels Near MeBy Hotel Type
+
+San Marcos MotelsSan Marcos CampgroundsSan Marcos Spa ResortsSan Marcos
+Business HotelsSan Marcos Green HotelsSan Marcos Family Hotels
+
+By Hotel Class
+
+3-Star Hotels in San Marcos
+
+By Hotel Brand
+
+Hilton Hotels in San MarcosLa Quinta Inns & Suites in San MarcosMotel 6 Hotels
+in San MarcosWyndham Hotels in San MarcosInterContinental (IHG) Hotels in San
+MarcosChoice Hotels in San MarcosMarriott Hotels in San Marcos
+
+Popular Amenities
+
+San Marcos Hotels with PoolsPet Friendly Hotels in San Marcos
+
+Popular Neighborhoods
+
+Hotels near Rio VistaHotels near Millview EastHotels near Victory
+GardensHotels near East GuadalupeHotels near Blanco GardensHotels near
+DunbarHotels near CoersHotels near HeritageHotels near Millview West
+
+Popular San Marcos Categories
+
+San Marcos Hotels with Hot TubsSan Marcos Hotels with Heated PoolSan Marcos
+Hotels with Room ServiceSan Marcos Golf HotelsSan Marcos Hotels with
+BarsHotels with Free Wifi in San MarcosHotels with Military Discounts in San
+MarcosSan Marcos Hotels with RestaurantsSan Marcos Pet Friendly MotelsSan
+Marcos Clean Hotels
+
+Near Landmarks
+
+Hotels near San Marcos RiverHotels near The Meadows Center For Water And The
+EnvironmentHotels near Wonder World Cave and ParkHotels near Air Carriage Over
+TexasHotels near Central Texas Wing of the Commemorative Air ForceHotels near
+Bobcat stadiumHotels near The Wittliff CollectionsHotels near Hays County
+Historic CourthouseHotels near Silo Gallery & Glass StudiosHotels near Strahan
+Coliseum
+
+Near Airports
+
+Hotels near Austin-Bergstrom Intl Airport (AUS)Hotels near San Antonio Intl
+Airport (SAT)Motels near San Antonio Intl Airport (SAT)Motels near Austin-
+Bergstrom Intl Airport (AUS)
+
+Near Colleges
+
+Hotels near Texas State University
+
+Popular Hotel Categories
+
+Popular All-Inclusive ResortsPopular Beach ResortsPopular Family
+ResortsPopular All-Inclusive HotelsPopular Hotels With WaterparksPopular
+Honeymoon ResortsPopular Luxury ResortsPopular All-Inclusive Family
+ResortsPopular Golf ResortsPopular Spa ResortsPopular Cheap Resorts
+
+Things to DoRestaurants
+
+All San Marcos RestaurantsRestaurants near Fuego Tortilla GrillPopular Types
+of Food
+
+Latin Restaurants in San MarcosHawaiian Restaurants in San MarcosLebanese
+Restaurants in San MarcosKorean Restaurants in San MarcosTaiwanese Restaurants
+in San MarcosFast Food Restaurants in San MarcosHealthy Restaurants in San
+MarcosVegan Restaurants in San MarcosGluten Free Restaurants in San
+MarcosVegetarian Restaurants in San MarcosBBQ Restaurants for Lunch in San
+MarcosSushi Restaurants for Lunch in San MarcosCafes for Lunch in San Marcos
+
+Popular Dishes
+
+Best French Toast in San MarcosBest Bangers And Mash in San MarcosBest Poutine
+in San MarcosBest Corned Beef in San MarcosBest Nachos in San MarcosBest
+Sandwiches in San MarcosBest Calamari in San MarcosBest Fajitas in San
+MarcosBest Queso in San MarcosBest Alfredo in San MarcosBest Cobb Salad in San
+MarcosBest Eggs Benedict in San MarcosBest Hummus in San MarcosBest Fish Taco
+in San MarcosBest Pancakes in San Marcos
+
+Popular Restaurant Categories
+
+Breakfast Restaurants in San MarcosLunch Restaurants in San MarcosDinner
+Restaurants in San MarcosPrivate Dining Restaurants in San MarcosFood Delivery
+Restaurants in San MarcosRestaurants for Special Occasions in San MarcosCheap
+Eats in San MarcosRestaurants with Outdoor Seating in San MarcosRomantic
+Restaurants in San MarcosKid Friendly Restaurants in San MarcosCoffee & Tea in
+San MarcosBakeries in San MarcosDesserts in San Marcos
+
+FlightsVacation RentalsTravel StoriesCruisesRental CarsMore
+
+ToursAdd a PlaceTravel ForumAirlinesTravelers' ChoiceHelp CenterTrip Planner
+
+© 2025 Tripadvisor LLC All rights reserved.
+
+Terms of UsePrivacy and Cookies StatementCookie consentSite MapHow the site
+worksContact us
+
+This is the version of our website addressed to speakers of English in the
+United States. If you are a resident of another country or region, please
+select the appropriate version of Tripadvisor for your country or region in
+the drop-down menu. Show more
+
+$ USD
+
+United States
 

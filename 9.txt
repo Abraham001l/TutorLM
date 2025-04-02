@@ -27,11 +27,11 @@ Math & Physics Problems Wikia
 
       * Volume of the Paraboloid
       * Springs in Series and Parallel
-      * Ideological Subversion Interview
-      * Uneven U-Tube
-      * Mean Density of Earth
-      * Stopped Pipe and Open Pipe
       * Linearizing Power Functions
+      * Cyclic Integration by Parts
+      * Stopped Pipe and Open Pipe
+      * The U-Tube
+      * Ideological Subversion Interview
 
     * Ancient puzzles
     * Physics
@@ -84,11 +84,11 @@ pages
 
       * Volume of the Paraboloid
       * Springs in Series and Parallel
-      * Ideological Subversion Interview
-      * Uneven U-Tube
-      * Mean Density of Earth
-      * Stopped Pipe and Open Pipe
       * Linearizing Power Functions
+      * Cyclic Integration by Parts
+      * Stopped Pipe and Open Pipe
+      * The U-Tube
+      * Ideological Subversion Interview
 
     * Ancient puzzles
     * Physics

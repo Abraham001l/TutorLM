@@ -1,4 +1,4 @@
-from db_pipeline import *
+from vectordb_pipeline import *
 from chunker_pipeline import *
 import json
 

@@ -1,6 +1,6 @@
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_ollama import OllamaEmbeddings
-from db_pipeline import add_data
+from vectordb_pipeline import add_data
 
 # ---------- Chunker Function ----------
 def chunk(text):

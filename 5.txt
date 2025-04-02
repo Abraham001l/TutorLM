@@ -1,1056 +1,185 @@
-Skip to ContentGo to accessibility pageKeyboard shortcuts menu
+0
 
-Physics
+Skip to Content
 
-# 5.4 Inclined Planes
+MENU
 
-Physics5.4 Inclined Planes
+LOCATIONS
 
-SearchSearch
+CATERING
+
+REWARDS
+
+GIFT CARDS
+
+CAREERS
+
+CONTACT US
+
+ORDER ONLINE
+
+Open Menu Close Menu
+
+MENU
+
+LOCATIONS
+
+CATERING
+
+REWARDS
+
+GIFT CARDS
+
+CAREERS
+
+CONTACT US
+
+ORDER ONLINE
+
+Open Menu Close Menu
+
+MENU
+
+LOCATIONS
+
+CATERING
+
+REWARDS
+
+GIFT CARDS
+
+CAREERS
+
+CONTACT US
+
+ORDER ONLINE
+
+# GET REWARDS
+
+### Más es Más when you sign up for rewards (it’s free).
+
+### DOWNLOAD THE FUEGO APP OR SIGN-UP when you order ONLINE
+
+#### You’ll get free chips and queso by joining our program
+
+DOWNLOAD APP
+
+### ORDER ONLINE OR BY USING OUR APP
+
+#### IN-STORE RECEIPTS CAN ALSO BE UPLOADED!
+
+ORDER ONLINE
+
+### EARN POINTS ON EVERY PURCHASE AND REDEEM YOUR POINTS FOR FREE TACOS
+
+#### For more information about the Thanx reward platform, visit the Help
+Center.
+
+LEARN MORE
+
+#### **STEP 1**
 
 * * *
 
-Close
-
-Search
-
-ContentsContents
-
-Highlights
-
-Print
-
-Table of contents
-
-  1. Preface
-  2. 1 What is Physics?
-
-    1. Introduction
-    2. 1.1 Physics: Definitions and Applications
-    3. 1.2 The Scientific Methods
-    4. 1.3 The Language of Physics: Physical Quantities and Units
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  3. 2 Motion in One Dimension
-
-    1. Introduction
-    2. 2.1 Relative Motion, Distance, and Displacement
-    3. 2.2 Speed and Velocity
-    4. 2.3 Position vs. Time Graphs
-    5. 2.4 Velocity vs. Time Graphs
-    6. Key Terms
-    7. Section Summary
-    8. Key Equations
-    9. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    10. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  4. 3 Acceleration
-
-    1. Introduction
-    2. 3.1 Acceleration
-    3. 3.2 Representing Acceleration with Equations and Graphs
-    4. Key Terms
-    5. Section Summary
-    6. Key Equations
-    7. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    8. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  5. 4 Forces and Newton’s Laws of Motion
-
-    1. Introduction
-    2. 4.1 Force
-    3. 4.2 Newton's First Law of Motion: Inertia
-    4. 4.3 Newton's Second Law of Motion
-    5. 4.4 Newton's Third Law of Motion
-    6. Key Terms
-    7. Section Summary
-    8. Key Equations
-    9. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    10. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  6. 5 Motion in Two Dimensions
-
-    1. Introduction
-    2. 5.1 Vector Addition and Subtraction: Graphical Methods
-    3. 5.2 Vector Addition and Subtraction: Analytical Methods
-    4. 5.3 Projectile Motion
-    5. 5.4 Inclined Planes
-    6. 5.5 Simple Harmonic Motion
-    7. Key Terms
-    8. Section Summary
-    9. Key Equations
-    10. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    11. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  7. 6 Circular and Rotational Motion
-
-    1. Introduction
-    2. 6.1 Angle of Rotation and Angular Velocity
-    3. 6.2 Uniform Circular Motion
-    4. 6.3 Rotational Motion
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  8. 7 Newton's Law of Gravitation
-
-    1. Introduction
-    2. 7.1 Kepler's Laws of Planetary Motion
-    3. 7.2 Newton's Law of Universal Gravitation and Einstein's Theory of General Relativity
-    4. Key Terms
-    5. Section Summary
-    6. Key Equations
-    7. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    8. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  9. 8 Momentum
-
-    1. Introduction
-    2. 8.1 Linear Momentum, Force, and Impulse
-    3. 8.2 Conservation of Momentum
-    4. 8.3 Elastic and Inelastic Collisions
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  10. 9 Work, Energy, and Simple Machines
-
-    1. Introduction
-    2. 9.1 Work, Power, and the Work–Energy Theorem
-    3. 9.2 Mechanical Energy and Conservation of Energy
-    4. 9.3 Simple Machines
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  11. 10 Special Relativity
-
-    1. Introduction
-    2. 10.1 Postulates of Special Relativity
-    3. 10.2 Consequences of Special Relativity
-    4. Key Terms
-    5. Section Summary
-    6. Key Equations
-    7. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    8. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  12. 11 Thermal Energy, Heat, and Work
-
-    1. Introduction
-    2. 11.1 Temperature and Thermal Energy
-    3. 11.2 Heat, Specific Heat, and Heat Transfer
-    4. 11.3 Phase Change and Latent Heat
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  13. 12 Thermodynamics
-
-    1. Introduction
-    2. 12.1 Zeroth Law of Thermodynamics: Thermal Equilibrium
-    3. 12.2 First law of Thermodynamics: Thermal Energy and Work
-    4. 12.3 Second Law of Thermodynamics: Entropy
-    5. 12.4 Applications of Thermodynamics: Heat Engines, Heat Pumps, and Refrigerators
-    6. Key Terms
-    7. Section Summary
-    8. Key Equations
-    9. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    10. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  14. 13 Waves and Their Properties
-
-    1. Introduction
-    2. 13.1 Types of Waves
-    3. 13.2 Wave Properties: Speed, Amplitude, Frequency, and Period
-    4. 13.3 Wave Interaction: Superposition and Interference
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  15. 14 Sound
-
-    1. Introduction
-    2. 14.1 Speed of Sound, Frequency, and Wavelength
-    3. 14.2 Sound Intensity and Sound Level
-    4. 14.3 Doppler Effect and Sonic Booms
-    5. 14.4 Sound Interference and Resonance
-    6. Key Terms
-    7. Section Summary
-    8. Key Equations
-    9. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    10. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  16. 15 Light
-
-    1. Introduction
-    2. 15.1 The Electromagnetic Spectrum
-    3. 15.2 The Behavior of Electromagnetic Radiation
-    4. Key Terms
-    5. Section Summary
-    6. Key Equations
-    7. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    8. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  17. 16 Mirrors and Lenses
-
-    1. Introduction
-    2. 16.1 Reflection
-    3. 16.2 Refraction
-    4. 16.3 Lenses
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  18. 17 Diffraction and Interference
-
-    1. Introduction
-    2. 17.1 Understanding Diffraction and Interference
-    3. 17.2 Applications of Diffraction, Interference, and Coherence
-    4. Key Terms
-    5. Section Summary
-    6. Key Equations
-    7. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    8. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  19. 18 Static Electricity
-
-    1. Introduction
-    2. 18.1 Electrical Charges, Conservation of Charge, and Transfer of Charge
-    3. 18.2 Coulomb's law
-    4. 18.3 Electric Field
-    5. 18.4 Electric Potential
-    6. 18.5 Capacitors and Dielectrics
-    7. Key Terms
-    8. Section Summary
-    9. Key Equations
-    10. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    11. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  20. 19 Electrical Circuits
-
-    1. Introduction
-    2. 19.1 Ohm's law
-    3. 19.2 Series Circuits
-    4. 19.3 Parallel Circuits
-    5. 19.4 Electric Power
-    6. Key Terms
-    7. Section Summary
-    8. Key Equations
-    9. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    10. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  21. 20 Magnetism
-
-    1. Introduction
-    2. 20.1 Magnetic Fields, Field Lines, and Force
-    3. 20.2 Motors, Generators, and Transformers
-    4. 20.3 Electromagnetic Induction
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  22. 21 The Quantum Nature of Light
-
-    1. Introduction
-    2. 21.1 Planck and Quantum Nature of Light
-    3. 21.2 Einstein and the Photoelectric Effect
-    4. 21.3 The Dual Nature of Light
-    5. Key Terms
-    6. Section Summary
-    7. Key Equations
-    8. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Problems
-      4. Performance Task
-    9. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  23. 22 The Atom
-
-    1. Introduction
-    2. 22.1 The Structure of the Atom
-    3. 22.2 Nuclear Forces and Radioactivity
-    4. 22.3 Half Life and Radiometric Dating
-    5. 22.4 Nuclear Fission and Fusion
-    6. 22.5 Medical Applications of Radioactivity: Diagnostic Imaging and Radiation
-    7. Key Terms
-    8. Section Summary
-    9. Key Equations
-    10. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Performance Task
-    11. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  24. 23 Particle Physics
-
-    1. Introduction
-    2. 23.1 The Four Fundamental Forces
-    3. 23.2 Quarks
-    4. 23.3 The Unification of Forces
-    5. Key Terms
-    6. Section Summary
-    7. Chapter Review
-
-      1. Concept Items
-      2. Critical Thinking Items
-      3. Performance Task
-    8. Test Prep
-
-      1. Multiple Choice
-      2. Short Answer
-      3. Extended Response
-  25. A | Reference Tables
-  26. Index
-
-##  Section Learning Objectives
-
-By the end of this section, you will be able to do the following:
-
-  * Distinguish between static friction and kinetic friction
-  * Solve problems involving inclined planes
-
-##  Teacher Support
-
-###  Teacher Support
-
-The learning objectives in this section will help your students master the
-following standards:
-
-  * (4) Science concepts. The student knows and applies the laws governing motion in two dimensions for a variety of situations. The student is expected to: 
-    * (D) calculate the effect of forces on objects, including the law of inertia, the relationship between force and acceleration, and the nature of force pairs between objects.
-
-## Section Key Terms
-
-kinetic friction | static friction  
----|---  
-  
-## Static Friction and Kinetic Friction
-
-Recall from the previous chapter that friction is a force that opposes
-relative motion parallel to the contact surface of the interacting objects and
-is around us all the time. Friction allows us to move, which you have
-discovered if you have ever tried to walk on ice.
-
-There are different types of friction—kinetic and static. Kinetic friction
-acts on an object in relative motion, while static friction acts on an object
-or system at rest relative to each other. The maximum static friction is
-usually greater than the kinetic friction between the objects.
-
-##  Teacher Support
-
-###  Teacher Support
-
-[BL][OL] Review the concept of friction.
-
-[AL] Start a discussion about the two kinds of friction: static and kinetic.
-Ask students which one they think would be greater for two given surfaces.
-Explain the concept of coefficient of friction and what the number would imply
-in practical terms. Look at the table of static and kinetic friction and ask
-students to guess which other systems would have higher or lower coefficients.
-
-Imagine, for example, trying to slide a heavy crate across a concrete floor.
-You may push harder and harder on the crate and not move it at all. This means
-that the static friction responds to what you do—it increases to be equal to
-and in the opposite direction of your push. But if you finally push hard
-enough, the crate seems to slip suddenly and starts to move. Once in motion,
-it is easier to keep it in motion than it was to get it started because the
-kinetic friction force is less than the static friction force. If you were to
-add mass to the crate, (for example, by placing a box on top of it) you would
-need to push even harder to get it started and also to keep it moving. If, on
-the other hand, you oiled the concrete you would find it easier to get the
-crate started and keep it going.
-
-Figure 5.33 shows how friction occurs at the interface between two objects.
-Magnifying these surfaces shows that they are rough on the microscopic level.
-So when you push to get an object moving (in this case, a crate), you must
-raise the object until it can skip along with just the tips of the surface
-hitting, break off the points, or do both. The harder the surfaces are pushed
-together (such as if another box is placed on the crate), the more force is
-needed to move them.
-
-Figure  5.33 Frictional forces, such as **f** , always oppose motion or
-attempted motion between objects in contact. Friction arises in part because
-of the roughness of the surfaces in contact, as seen in the expanded view.
-
-The magnitude of the frictional force has two forms: one for static friction,
-the other for kinetic friction. When there is no motion between the objects,
-the magnitude of static friction **f s** is
-
-f s ≤ μ s N s , f s ≤ μ s N s ,
-
-where  μ s μ s is the coefficient of static friction and **N** is the
-magnitude of the normal force. Recall that the normal force acts perpendicular
-to the surface and prevents the crate from falling through the floor. It
-opposes the force of gravity in this example, but that will not always be the
-case.
-
-Since the symbol  ≤ ≤ means less than or equal to, this equation says that
-static friction can have a maximum value of  μ s N. μ s N. That is,
-
-f s (max)= μ s N. f s (max)= μ s N.
-
-Static friction is a responsive force that increases to be equal and opposite
-to whatever force is exerted, up to its maximum limit. Once the applied force
-exceeds **f** s(max), the object will move. Once an object is moving, the
-magnitude of kinetic friction **f** k is given by
-
-f k = μ k N. f k = μ k N.
-
-where  μ k μ k is the coefficient of kinetic friction.
-
-Friction varies from surface to surface because different substances are
-rougher than others. Table 5.2 compares values of static and kinetic friction
-for different surfaces. The coefficient of the friction depends on the two
-surfaces that are in contact.
-
-System | Static Friction  μ s μ s | Kinetic Friction  μ k μ k  
----|---|---  
-Rubber on dry concrete | 1.0 | 0.7  
-Rubber on wet concrete | 0.7 | 0.5  
-Wood on wood | 0.5 | 0.3  
-Waxed wood on wet snow | 0.14 | 0.1  
-Metal on wood | 0.5 | 0.3  
-Steel on steel (dry) | 0.6 | 0.3  
-Steel on steel (oiled) | 0.05 | 0.03  
-Teflon on steel | 0.04 | 0.04  
-Bone lubricated by synovial fluid | 0.016 | 0.015  
-Shoes on wood | 0.9 | 0.7  
-Shoes on ice | 0.1 | 0.05  
-Ice on ice | 0.1 | 0.03  
-Steel on ice | 0.4 | 0.02  
-  
-Table  5.2 Coefficients of Static and Kinetic Friction
-
-Since friction always opposes relative motion, the direction of friction is
-upward along the plane if the object is at rest or sliding down the incline.
-For example, if the crate you try to push (with a force parallel to the floor)
-has a mass of 100 kg, then the normal force would be equal to its weight
-
-W=mg=(100kg)(9.80 m/s 2 )=980 N, W=mg=(100kg)(9.80 m/s 2 )=980 N,
-
-perpendicular to the floor. If the coefficient of static friction is 0.45, you
-would have to exert a force parallel to the floor greater than
-
-f s (max)= μ s N=(0.45)(980 N)=440 N f s (max)= μ s N=(0.45)(980 N)=440 N
-
-to move the crate. Once there is motion, friction is less and the coefficient
-of kinetic friction might be 0.30, so that a force of only 290 N
-
-f k = μ k N=(0.30)(980 N)=290 N f k = μ k N=(0.30)(980 N)=290 N
-
-would keep it moving at a constant speed. If the floor were lubricated, both
-coefficients would be much smaller than they would be without lubrication. The
-coefficient of friction is unitless and is a number usually between 0 and 1.0,
-but there is no theoretical upper limit to its value.
-
-## Working with Inclined Planes
-
-We discussed previously that when an object rests on a horizontal surface,
-there is a normal force supporting it equal in magnitude to its weight. Up
-until now, we dealt only with normal force in one dimension, with gravity and
-normal force acting perpendicular to the surface in opposing directions
-(gravity downward, and normal force upward). Now that you have the skills to
-work with forces in two dimensions, we can explore what happens to weight and
-the normal force on a tilted surface such as an inclined plane. For inclined
-plane problems, it is easier breaking down the forces into their components if
-we rotate the coordinate system, as illustrated in Figure 5.34. The first step
-when setting up the problem is to break down the force of weight into
-components.
-
-Figure  5.34 The diagram shows perpendicular and horizontal components of
-weight on an inclined plane.
-
-##  Teacher Support
-
-###  Teacher Support
-
-[BL] Review the concepts of mass, weight, gravitation and normal force.
-
-[OL] Review vectors and components of vectors.
-
-When an object rests on an incline that makes an angle  θ θ with the
-horizontal, the force of gravity acting on the object is divided into two
-components: A force acting perpendicular to the plane,  w ⊥ w ⊥ , and a force
-acting parallel to the plane,  w || w || . The perpendicular force of weight,
-w ⊥ w ⊥ , is typically equal in magnitude and opposite in direction to the
-normal force,  N. N. The force acting parallel to the plane,  w || w || ,
-causes the object to accelerate down the incline. The force of friction,  f f
-, opposes the motion of the object, so it acts upward along the plane.
-
-It is important to be careful when resolving the weight of the object into
-components. If the angle of the incline is at an angle  θ θ to the horizontal,
-then the magnitudes of the weight components are
-
-w || =wsin(θ)=mgsin(θ) and w || =wsin(θ)=mgsin(θ) and
-
-w ⊥ =wcos(θ)=mgcos(θ). w ⊥ =wcos(θ)=mgcos(θ).
-
-Instead of memorizing these equations, it is helpful to be able to determine
-them from reason. To do this, draw the right triangle formed by the three
-weight vectors. Notice that the angle of the incline is the same as the angle
-formed between  w w and  w ⊥ w ⊥ . Knowing this property, you can use
-trigonometry to determine the magnitude of the weight components
-
-cos(θ)= w ⊥ w w ⊥ =wcos(θ)=mgcos(θ) cos(θ)= w ⊥ w w ⊥ =wcos(θ)=mgcos(θ)
-
-sin(θ)= w || w w || =wsin(θ)=mgsin(θ). sin(θ)= w || w w || =wsin(θ)=mgsin(θ).
-
-##  Teacher Support
-
-###  Teacher Support
-
-[BL][OL][AL] Experiment with sliding different objects on inclined planes to
-understand static and kinetic friction. Which objects need a larger angle to
-slide down? What does this say about the coefficients of friction of those
-systems? Is a greater force required to start the motion of an object than to
-keep it in motion? What does this say about static and kinetic friction? When
-does an object slide down at constant velocity? What does this say about
-friction and normal force?
-
-##  Watch Physics
-
-###  Inclined Plane Force Components
-
-This video shows how the weight of an object on an inclined plane is broken
-down into components perpendicular and parallel to the surface of the plane.
-It explains the geometry for finding the angle in more detail.
-
-Access multimedia content
-
-This video shows how the weight of an object on an inclined plane is broken
-down into components perpendicular and parallel to the surface of the plane.
-It explains the geometry for finding the angle in more detail.
-
-When the surface is flat, you could say that one of the components of the
-gravitational force is zero; Which one? As the angle of the incline gets
-larger, what happens to the magnitudes of the perpendicular and parallel
-components of gravitational force?
-
-  1. When the angle is zero, the parallel component is zero and the perpendicular component is at a maximum. As the angle increases, the parallel component decreases and the perpendicular component increases. This is because the cosine of the angle shrinks while the sine of the angle increases.
-
-  2. When the angle is zero, the parallel component is zero and the perpendicular component is at a maximum. As the angle increases, the parallel component decreases and the perpendicular component increases. This is because the cosine of the angle increases while the sine of the angle shrinks.
-
-  3. When the angle is zero, the parallel component is zero and the perpendicular component is at a maximum. As the angle increases, the parallel component increases and the perpendicular component decreases. This is because the cosine of the angle shrinks while the sine of the angle increases.
-
-  4. When the angle is zero, the parallel component is zero and the perpendicular component is at a maximum. As the angle increases, the parallel component increases and the perpendicular component decreases. This is because the cosine of the angle increases while the sine of the angle shrinks.
-
-##  Tips For Success
-
-Normal force is represented by the variable  N. N. This should not be confused
-with the symbol for the newton, which is also represented by the letter N. It
-is important to tell apart these symbols, especially since the units for
-normal force (  N N ) happen to be newtons (N). For example, the normal force,
-N N , that the floor exerts on a chair might be  N=100 N. N=100 N. One
-important difference is that normal force is a vector, while the newton is
-simply a unit. Be careful not to confuse these letters in your calculations!
-
-To review, the process for solving inclined plane problems is as follows:
-
-  1. Draw a sketch of the problem.
-  2. Identify known and unknown quantities, and identify the system of interest.
-  3. Draw a free-body diagram (which is a sketch showing all of the forces acting on an object) with the coordinate system rotated at the same angle as the inclined plane. Resolve the vectors into horizontal and vertical components and draw them on the free-body diagram.
-  4. Write Newton’s second law in the horizontal and vertical directions and add the forces acting on the object. If the object does not accelerate in a particular direction (for example, the _x_ -direction) then **F** net _x_ = 0. If the object does accelerate in that direction, **F** net _x_ = _m_**a**.
-  5. Check your answer. Is the answer reasonable? Are the units correct?
-
-##  Worked Example
-
-###  Finding the Coefficient of Kinetic Friction on an Inclined Plane
-
-A skier, illustrated in Figure 5.35(a), with a mass of 62 kg is sliding down a
-snowy slope at an angle of 25 degrees. Find the coefficient of kinetic
-friction for the skier if friction is known to be 45.0 N.
-
-Figure  5.35 Use the diagram to help find the coefficient of kinetic friction
-for the skier.
-
-##  Strategy
-
-The magnitude of kinetic friction was given as 45.0 N. Kinetic friction is
-related to the normal force **N** as  f k = μ k N f k = μ k N . Therefore, we
-can find the coefficient of kinetic friction by first finding the normal force
-of the skier on a slope. The normal force is always perpendicular to the
-surface, and since there is no motion perpendicular to the surface, the normal
-force should equal the component of the skier’s weight perpendicular to the
-slope.
-
-That is,
-
-N= w ⊥ =w cos( 25 ∘ )=mg cos( 25 ∘ ) . N= w ⊥ =w cos( 25 ∘ )=mg cos( 25 ∘ ) .
-
-Substituting this into our expression for kinetic friction, we get
-
-f k = μ k mg  cos 25 ∘ , f k = μ k mg  cos 25 ∘ ,
-
-which can now be solved for the coefficient of kinetic friction _μ_ k.
-
-Solution
-
-Solving for  μ k μ k gives
-
-μ k = f k w  cos 25 ∘ = f k mg  cos 25 ∘ . μ k = f k w  cos 25 ∘ = f k mg  cos
-25 ∘ .
-
-Substituting known values on the right-hand side of the equation,
-
-μ k = 45.0 N (62 kg)(9 .80 m/s 2 )(0.906) =0.082 . μ k = 45.0 N (62 kg)(9 .80
-m/s 2 )(0.906) =0.082 .
-
-Discussion
-
-This result is a little smaller than the coefficient listed in Table 5.2 for
-waxed wood on snow, but it is still reasonable since values of the
-coefficients of friction can vary greatly. In situations like this, where an
-object of mass _m_ slides down a slope that makes an angle _θ_ with the
-horizontal, friction is given by  f k = μ k mg cosθ. f k = μ k mg cosθ.
-
-##  Worked Example
-
-###  Weight on an Incline, a Two-Dimensional Problem
-
-The skier’s mass, including equipment, is 60.0 kg. (See Figure 5.36(b).) (a)
-What is her acceleration if friction is negligible? (b) What is her
-acceleration if the frictional force is 45.0 N?
-
-Figure  5.36 Now use the diagram to help find the skier's acceleration if
-friction is negligible and if the frictional force is 45.0 N.
-
-##  Strategy
-
-The most convenient coordinate system for motion on an incline is one that has
-one coordinate parallel to the slope and one perpendicular to the slope.
-Remember that motions along perpendicular axes are independent. We use the
-symbol  ⊥ ⊥ to mean perpendicular, and  || || to mean parallel.
-
-The only external forces acting on the system are the skier’s weight,
-friction, and the normal force exerted by the ski slope, labeled  w w ,  f f ,
-and  N N in the free-body diagram.  N N is always perpendicular to the slope
-and  f f is parallel to it. But  w w is not in the direction of either axis,
-so we must break it down into components along the chosen axes. We define  w
-|| w || to be the component of weight parallel to the slope and  w ⊥ w ⊥ the
-component of weight perpendicular to the slope. Once this is done, we can
-consider the two separate problems of forces parallel to the slope and forces
-perpendicular to the slope.
-
-Solution
-
-The magnitude of the component of the weight parallel to the slope is  w ||
-=wsin(25°)=mgsin(25°) w || =wsin(25°)=mgsin(25°) , and the magnitude of the
-component of the weight perpendicular to the slope is  w ⊥
-=wcos(25°)=mgcos(25°). w ⊥ =wcos(25°)=mgcos(25°).
-
-(a) Neglecting friction: Since the acceleration is parallel to the slope, we
-only need to consider forces parallel to the slope. Forces perpendicular to
-the slope add to zero, since there is no acceleration in that direction. The
-forces parallel to the slope are the amount of the skier’s weight parallel to
-the slope  w || w || and friction  f f . Assuming no friction, by Newton’s
-second law the acceleration parallel to the slope is
-
-a || = F net || m , a || = F net || m ,
-
-Where the net force parallel to the slope  F net || = w || =mgsin(25°) F net
-|| = w || =mgsin(25°) , so that
-
-a || = F net || m = mgsin(25°) m =gsin(25°) = (9.80  m/s 2 )(0.423)=4.14  m/s
-2 a || = F net || m = mgsin(25°) m =gsin(25°) = (9.80  m/s 2 )(0.423)=4.14
-m/s 2
-
-is the acceleration.
-
-(b) Including friction: Here we now have a given value for friction, and we
-know its direction is parallel to the slope and it opposes motion between
-surfaces in contact. So the net external force is now
-
-F net || = w || −f, F net || = w || −f,
-
-and substituting this into Newton’s second law,  a || = F net || m a || = F
-net || m gives
-
-a || = F net || m = w || −f m = mgsin(25°)−f m . a || = F net || m = w || −f m
-= mgsin(25°)−f m .
-
-We substitute known values to get
-
-a || = (60.0 kg)(9 .80 m/s 2 )(0.423)−45.0 N 60.0 kg , a || = (60.0 kg)(9 .80
-m/s 2 )(0.423)−45.0 N 60.0 kg ,
-
-or
-
-a || =3 .39 m/s 2 , a || =3 .39 m/s 2 ,
-
-which is the acceleration parallel to the incline when there is 45 N opposing
-friction.
-
-Discussion
-
-Since friction always opposes motion between surfaces, the acceleration is
-smaller when there is friction than when there is not.
-
-## Practice Problems
-
-15. 
-
-When an object sits on an inclined plane that makes an angle _θ_ with the
-horizontal, what is the expression for the component of the objects weight
-force that is parallel to the incline?
-
-  1. w||=wcosθw||=wcosθ
-  2. w||=wsinθw||=wsinθ
-  3. w||=wsinθ−cosθw||=wsinθ−cosθ
-  4. w||=wcosθ−sinθw||=wcosθ−sinθ
-
-16 .
-
-An object with a mass of  5 kg rests on a plane inclined  30 ∘ from
-horizontal. What is the component of the weight force that is parallel to the
-incline?
-
-  1. 4.33 N
-
-  2. 5.0 N
-
-  3. 24.5 N
-
-  4. 42.43 N
-
-##  Snap Lab
-
-###  Friction at an Angle: Sliding a Coin
-
-An object will slide down an inclined plane at a constant velocity if the net
-force on the object is zero. We can use this fact to measure the coefficient
-of kinetic friction between two objects. As shown in the first Worked Example,
-the kinetic friction on a slope  f k = μ k mg cosθ f k = μ k mg cosθ , and the
-component of the weight down the slope is equal to  mg sinθ mg sinθ . These
-forces act in opposite directions, so when they have equal magnitude, the
-acceleration is zero. Writing these out
-
-f k = F g x μ k mg cosθ = mg sinθ. f k = F g x μ k mg cosθ = mg sinθ.
-
-Solving for  μ k μ k , since  tanθ=sinθ/cosθ tanθ=sinθ/cosθ we find that
-
-μ k = mg sinθ mg cosθ = tanθ. μ k = mg sinθ mg cosθ = tanθ.
-
-5.10
-
-  * 1 coin
-  * 1 book
-  * 1 protractor 
-    1. Put a coin flat on a book and tilt it until the coin slides at a constant velocity down the book. You might need to tap the book lightly to get the coin to move.
-    2. Measure the angle of tilt relative to the horizontal and find  μ k μ k .
-
-##  Grasp Check
-
-True or False—If only the angles of two vectors are known, we can find the
-angle of their resultant addition vector.
-
-  1. True
-  2. False
-
-## Check Your Understanding
-
-17 .
-
-What is friction?
-
-  1. Friction is an internal force that opposes the relative motion of an object.
-
-  2. Friction is an internal force that accelerates an object’s relative motion.
-
-  3. Friction is an external force that opposes the relative motion of an object.
-
-  4. Friction is an external force that increases the velocity of the relative motion of an object.
-
-18 .
-
-What are the two varieties of friction? What does each one act upon?
-
-  1. Kinetic and static friction both act on an object in motion.
-
-  2. Kinetic friction acts on an object in motion, while static friction acts on an object at rest.
-
-  3. Kinetic friction acts on an object at rest, while static friction acts on an object in motion.
-
-  4. Kinetic and static friction both act on an object at rest.
-
-19 .
-
-Given static and kinetic friction between two surfaces, which has a greater
-value? Why?
-
-  1. The kinetic friction has a greater value because the friction between the two surfaces is more when the two surfaces are in relative motion.
-
-  2. The static friction has a greater value because the friction between the two surfaces is more when the two surfaces are in relative motion.
-
-  3. The kinetic friction has a greater value because the friction between the two surfaces is less when the two surfaces are in relative motion.
-
-  4. The static friction has a greater value because the friction between the two surfaces is less when the two surfaces are in relative motion.
-
-##  Teacher Support
-
-###  Teacher Support
-
-Use the _Check Your Understanding_ questions to assess whether students
-achieve the learning objectives for this section. If students are struggling
-with a specific objective, the _Check Your Understanding_ will help identify
-which objective is causing the problem and direct students to the relevant
-content.
-
-PreviousNext
-
-Order a print copy
-
-Citation/Attribution
-
-This book may not be used in the training of large language models or
-otherwise be ingested into large language models or generative AI offerings
-without OpenStax's permission.
-
-Want to cite, share, or modify this book? This book uses the  Creative Commons
-Attribution License  and you must attribute Texas Education Agency (TEA). The
-original material is available at:  https://www.texasgateway.org/book/tea-
-physics . Changes were made to the original material, including updates to
-art, structure, and other content updates.
-
-**Attribution information**
-
-  * If you are redistributing all or part of this book in a print format, then you must include on every physical page the following attribution: 
-
-> Access for free at https://openstax.org/books/physics/pages/1-introduction
-
-  * If you are redistributing all or part of this book in a digital format, then you must include on every digital page view the following attribution: 
-
-> Access for free at https://openstax.org/books/physics/pages/1-introduction
-
-**Citation information**
-
-  * Use the information below to generate a citation. We recommend using a citation tool such as this one. 
-    * Authors: Paul Peter Urone, Roger Hinrichs 
-    * Publisher/website: OpenStax 
-    * Book title: Physics 
-    * Publication date: Mar 26, 2020 
-    * Location: Houston, Texas 
-    * Book URL: https://openstax.org/books/physics/pages/1-introduction
-    * Section URL: https://openstax.org/books/physics/pages/5-4-inclined-planes
-
-© Jun 7, 2024 Texas Education Agency (TEA). **The OpenStax name, OpenStax
-logo, OpenStax book covers, OpenStax CNX name, and OpenStax CNX logo are not
-subject to the Creative Commons license and may not be reproduced without the
-prior and express written consent of Rice University.**
-
-## Our mission is to improve educational access and learning for everyone.
-
-OpenStax is part of Rice University, which is a 501(c)(3) nonprofit. Give
-today and help us reach more students.
-
-### Help
-
-* Contact Us
-* Support Center
-* FAQ
-
-### OpenStax
-
-* Press
-* Newsletter
-* Careers
-
-### Policies
-
-* Accessibility Statement
-* Terms of Use
-* Licensing
-* Privacy Policy
-* © 1999-2025, Rice University. Except where otherwise noted, textbooks on this site are licensed under a Creative Commons Attribution 4.0 International License. 
-
-Advanced Placement® and AP® are trademarks registered and/or owned by the
-College Board, which is not affiliated with, and does not endorse, this site.
-
-* * * * * 
+#### **STEP 2**
+
+* * *
+
+#### **STEP 3**
+
+### your taste buds deserve better than tacos de cardboard
+
+Get access to free tacos and more with our rewards program.
+
+#  OUR LOCATIONS
+
+#  OUR LOCATIONS OUR LOCATIONS
+
+### College station
+
+#### 108 Poplar St  
+College Station, TX 77840  
+(979) 703-1804
+
+ORDER ONLINE
+
+DIRECTIONS
+
+### WACO/BAYLOR
+
+#### 1524 Interstate 35 South  
+Waco, TX 76706  
+(254) 235-2740
+
+ORDER ONLINE
+
+DIRECTIONS
+
+### San Marcos
+
+#### 913 N. I-35 Frontage Rd.  
+San Marcos, TX 78666  
+(512) 754-8226
+
+ORDER ONLINE
+
+DIRECTIONS
+
+### San Antonio
+
+#### 5618 UTSA Blvd.  
+San Antonio, TX 78249  
+(210) 868-6248
+
+ORDER ONLINE
+
+DIRECTIONS
+
+  * ###  College Station 
+
+**ADDRESS:** 108 Poplar St, College Station, TX 77840  
+**PHONE:** (979) 703-1804
+
+**OPEN 24 HOURS A DAY, TUESDAY–SUNDAY. CLOSED MONDAYS**
+
+  * ###  Waco/Baylor 
+
+**ADDRESS:** 1524 Interstate 35 South, Waco, TX 76706  
+**PHONE:** (254) 235-2740
+
+**OPEN 24 HOURS A DAY, TUESDAY–SUNDAY. CLOSED MONDAYS**
+
+  * ###  San Marcos 
+
+**ADDRESS:** 913 N. I-35 Frontage Rd, San Marcos, TX 78666  
+**PHONE:** (512) 754-8226
+
+**OPEN 24 HOURS A DAY, TUESDAY–SUNDAY. CLOSED MONDAYS**
+
+  * ###  San Antonio 
+
+**ADDRESS:** 5618 UTSA Blvd, San Antonio, TX 78249  
+**PHONE:** (210) 868-6248
+
+**OPEN 24 HOURS A DAY, TUESDAY–SUNDAY. CLOSED MONDAY.**  
+
+### OUR LOCATIONS
+
+### MENU
+
+### LOCATIONS
+
+### REWARDS
+
+### GIFt CARDS
+
+### Careers
+
+### Contact US
+
+### CATERING
+
+    
+    
+    Copyright 2025 - Fuego Tortilla grill | All Rights Reserved
 
