@@ -1,1006 +1,113 @@
-Skip to main content
+PyMC Discourse
 
-Discover
+#  Matrix multiplication in pymc3
 
-Trips
+Questions
 
-Review
+development
 
-USD
+bhomass April 20, 2018, 9:48pm  1
 
-Sign in
+Hi I am new to pymc3. I want to do a simple matrix multiplication involving a
+tensor X and coefficients beta.
 
-College StationHotelsThings to DoRestaurantsFlightsVacation
-RentalsCruisesRental CarsForums
+If all in numpy, I could do beta * X, or np.matmul(X, beta), but I don’t know
+the equivalent in pymc3, but I have beta declared in pm
 
-United States
+    
+    
+    alpha = pm.Normal('alpha', 0, sd=10)
+    beta = pm.Normal('beta', 0, sd=0.5, shape=(D)) 
+    
 
-Texas (TX)
+X itself is declared in numpy
 
-College Station
+`X = np.random.normal(size=(N, D)) * 10`
 
-College Station Restaurants
+How do I implement
 
-Fuego Tortilla Grill
+`Y = alpha + beta * X`
 
-# Fuego Tortilla Grill
+?
 
-Claimed
+Matmul on deterministic variable TypeError
 
-Someone from this business manages this listing.
+junpenglao April 20, 2018, 9:57pm  2
 
-Learn More
+You can do: `Y = alpha + pm.math.dot(X, beta)`
 
-Share
+bhomass April 20, 2018, 10:12pm  3
 
-Review
+Thank you. That’s affirmative!
 
-Save
+bhomass April 24, 2018, 1:54am  4
 
-4.5
+in tensorflow, I did a tensordot between a X tensor with shape (N, T, D) and a
+beta with shape (S, D). The idea is to dot alone the D axis on both tensors.
+in tensorflow this is expressed as
 
-4.5 of 5 bubbles
+`tf.tensordot(X, beta, [[2], [1]])`
 
-(591 reviews)
+what would be the equivalent thing in pymc3 / theano?
 
-**#1** of 44 Quick Bites in College StationQuick Bites, Mexican, $
+junpenglao April 24, 2018, 5:01am  5
 
-66
+See
+http://deeplearning.net/software/theano/library/tensor/basic.html#theano.tensor.tensordot
 
-What is Travelers’ Choice?
+bhomass April 24, 2018, 5:55am  6
 
-Tripadvisor gives a Travelers’ Choice award to accommodations, attractions and
-restaurants that consistently earn great reviews from travelers and are ranked
-within the top 10% of properties on Tripadvisor.
+Thank, it looks like this should work just like tensorflow, but it doesn’t. I
+have
 
-Interior
+x_logit = np.tensordot(X, beta, [[1], [0]])
 
-10
+where X has shape (1000, 9), and beta has shape (9, ), this line crashes with  
+if as_[axes_a[k]] != bs[axes_b[k]]:  
+IndexError: tuple index out of range
 
-Food
+Then I changed to x_logit = tt.tensordot(X, beta, [[1], [0]])
 
-43
+now I get x_logit shape TensorVariable: Shape.0
 
-Menu
+I am of course expecting (1000,)
 
-5
+why doesn’t this work?
 
-Fuego Tortilla Grill
+junpenglao April 24, 2018, 6:12am  7
 
-Share
+You are displaying the symbolic shape. You can check the shape conditioned on
+the current input (under PyMC3 at least) by doing x_logit.tag.test_value.shape
 
-Review
+bhomass April 24, 2018, 7:01am  8
 
-Save
+Ok, got it. Another reason I was confused is that the data exceeded memory
+capacity of the laptop, and the program simply quit silently without any
+error. Finally, I moved it to the server and started to see execution
+messages.
 
-Order online
+junpenglao April 24, 2018, 7:32am  9
 
-At a glance
+It helps to specify cores=1 in `pm.sample` when you are testing large model,
+it makes the error easier to read as well.
 
-Open until 11:59 PM
+1 Like
 
-See all hours
+###  Related topics
 
-108 Poplar St, College Station, TX 77840
-
-Website
-
-Menu
-
-+1 979-703-1804Improve this listing
-
-About
-
-Features
-
-CUISINES
-
-Mexican, Southwestern, Fast Food
-
-Meal types
-
-Breakfast, Lunch, Dinner, Brunch, Late Night
-
-Special Diets
-
-Vegetarian friendly, Vegan options, Gluten free options
-
-FEATURES
-
-Accepts Credit Cards
-
-American Express
-
-Digital Payments
-
-Discover
-
-Drive Thru
-
-Free off-street parking
-
-Highchairs Available
-
-Mastercard
-
-Non-smoking restaurants
-
-Parking Available
-
-Seating
-
-Takeout
-
-Visa
-
-Wheelchair Accessible
-
-Location
-
-108 Poplar St, College Station, TX 77840
-
-Northwest Side
-
-Free off-street parking, Parking Available
-
-Menu
-
-* * *
-
-* * *
-
-Show full menu
-
-Does this restaurant have a drive-thru to order and pick up food?
-
-Yes
-
-No
-
-Unsure
-
-Order delivery
-
-Order now
-
-* * *
-
-Save this restaurant
-
-Save
-
-Hours
-
-Suggest an edit
-
-Open until 11:59 PM
-
-Sunday
-
-12:00 AM - 11:59 PM
-
-Monday
-
-Closed
-
-Tuesday
-
-6:00 AM - 11:45 PM
-
-Wednesday
-
-12:00 AM - 11:59 PM
-
-Thursday
-
-12:00 AM - 11:59 PM
-
-Friday
-
-12:00 AM - 11:59 PM
-
-Saturday
-
-12:00 AM - 11:59 PM
-
-Contribute
-
-Write a review
-
-Upload a photo
-
-Ask a question
-
-ReviewsQ&A
-
-4.5
-
-4.5 of 5 bubbles
-
-(591)
-
-Excellent
-
-388
-
-Good
-
-155
-
-Average
-
-34
-
-Poor
-
-5
-
-Terrible
-
-9
-
-Filters
-
-English
-
-Most recent
-
-* * *
-
-Allyson M
-
-Galveston92 contributions
-
-0
-
-5 of 5 bubbles
-
-Great place for tacos!
-
-Mar 2024 • family
-
-The food here was amazing. I was told the tacos were small but they are not.
-One taco was more than I could eat. We also got an order of blanco queso and
-chips and when we were getting ready to leave they offered us another bag of
-chips at no charge. They have a great variety of hot sauces and additions you
-can put on your taco. I got the mushroom madness and it was amazing. Staff was
-efficient, service was fast and we left full
-
-Read more
-
-Written March 30, 2024
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-CGSMOM
-
-San Antonio178 contributions
-
-0
-
-4 of 5 bubbles
-
-Fast, fresh, and affordable!
-
-Apr 2022 • family
-
-We hit the drive through on Easter weekend for affordable burritos and salads
-and received great food as always. Food from Fuego is always fast, fresh,
-delicious, and inexpensive. We’ll be back!
-
-Read more
-
-Written April 17, 2022
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-okiesooner09
-
-376 contributions
-
-0
-
-4 of 5 bubbles
-
-So good we ate here twice
-
-Mar 2021 • none
-
-This place was near our motel. We ate here for dinner and once for breakfast.
-They make the world's most unusual tacos. My wife ordered one that had fried
-chicken, mashed potatoes & gravy and corn in it. These tacos are huge. You
-have to eat half of it with a knife and fork before you can role it up. They
-can be messy too. I liked the breakfast taco better. The employees here are
-really hopping. Behind the counter, it was a constant, organized chaos. They
-frequently came through the dining room to pick up stuff trash and wipe down
-tables. I was watching a young girl bring food out to the drive through
-customers. She was continually jogging out to the cars to give them their
-food, running back into the building to get more, then running back out. I was
-very impressed by her hustle.
-
-Read more
-
-Written April 3, 2021
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-KRCLofAL
-
-Madison169 contributions
-
-0
-
-1 of 5 bubbles
-
-Violated food safety standards and COVID-19 food protocols
-
-Dec 2020 • none
-
-Tried to order through the drive thru. After paying for my meal and pulling
-forward, I watched as the server brought orders out to three cars behind me
-who had ordered after me. I asked for a refund because I was in a hurry and it
-was obvious my order was lost. Just then I see the third car after mine open
-their window and hand the server back an order saying it was not theirs. The
-server and the manger brought me that bag and said here is your order! As if I
-was going to accept food which has already been inside someone else’s car,
-opened and breathed on - I told the manger I would not take it because of
-COVID-19 and I could not believe what I was being asked to take!!! I will not
-be attempting to eat here again!!!
-
-Read more
-
-Written December 30, 2020
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-MomandDadofFourGirls
-
-Montgomery35 contributions
-
-0
-
-5 of 5 bubbles
-
-Thank you Thad! And to your amazing cooks.
-
-Mar 2021 • family
-
-What a great experience. Thad welcomed my party with open arms. He gave my
-four teenage girls a mini tour of this amazing venue. Thad even explained how
-everything was prepared and took time to explain the working of his restaurant
-as well as shower positive accolades upon his staff. From what I understand we
-just happened to arrive during a downtime. Glad we did. Everything was
-wonderful. Service was excellent. Great price point. Food was very good. Will
-definitely visit again. The restrooms were clean.
-
-Read more
-
-Written March 18, 2021
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-whileitravel
-
-Florida995 contributions
-
-1
-
-1 of 5 bubbles
-
-Hot mess
-
-Jan 2022 • couples
-
-Hot mess. Order 2 rock star and shrimp tacos. Both were a hot mess of inedible
-food. I didn't finish mine. You order and pay at the cashier and the food gets
-delivered to your table which is flagged. Music too loud especially if you
-don't like the m music. Don't bother coming here. Mexican food should not be
-complicated. This food here is not very good.
-
-Read more
-
-Written January 11, 2022
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Mary Ellen P
-
-Richmond6 contributions
-
-0
-
-4 of 5 bubbles
-
-Yummy!
-
-Sep 2021 • couples
-
-Cobb Salad ... big and very tasty! Fish taco - Fresh, crisp and yummy ... one
-is filling unless you a very hungry. Fresh tortilla, of course. Basic
-atmosphere, a bit noisy.
-
-Read more
-
-Written September 3, 2021
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-TXAdvr
-
-Texas37 contributions
-
-0
-
-5 of 5 bubbles
-
-Pleasantly Surprised!
-
-Sep 2020 • family
-
-Our standing family rule for years has been to never eat Mexican food north of
-Raymondville, Texas. It’s hard to beat the traditional flavors served up in
-the Rio Grande Valley. Well that rule has changed with discovery of Fuego
-Tortilla Grill. The tacos are great and priced right for those college town
-residents. A definite twist on the classic tacos we enjoy at home, but they
-are hearty with bold flavor and served on soft homemade flour tortillas - no
-store bought frisbees. We’ll be back for more.
-
-Read more
-
-Written October 20, 2020
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Smiley
-
-Lake Lure550 contributions
-
-0
-
-5 of 5 bubbles
-
-Friendly, fast and delicious! An outstanding brick and mortar taco stand!
-
-Feb 2022 • business
-
-I cannot judge this place relative to others in the area, as just passing
-through, but I can say my meal was delicious, the patrons were friendly, the
-staff even more so, and the establishment was clean and comfortable. Texas has
-a lot of Mexican and TexMex establishments to choose from, and our team was
-happily guided here by our local partners. Everybody was happily satisfied
-with this dinner choice!
-
-Read more
-
-Written February 9, 2022
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Artie S
-
-Nineveh568 contributions
-
-1
-
-5 of 5 bubbles
-
-Joe cares about his patrons
-
-Mar 2023 • family
-
-While visiting my son and his family in Brenham we went to Fuegot Grill in
-College Station. He and the staff are friendly and accommodating to their
-guests. We began with guacamole and chips and queso and chips. We enjoyed
-eating them until our meals were brought to the table. I had Fuego a-go-go,
-and the picture shows the inviting appearance of my taco. We'll, it was very
-appealing and I ate it before remembering to photograph it. I don't recall
-what the rest of my son and his family had. We had a large serving of
-frijoles. It was my 1st visit and may be the last, at least until I return to
-Texas from Binghamton, NY. When, not if you go, look for Joe and tell him you
-went due to a review you read about his family business. The dad is a GM and a
-co owner. Try the brownie!!
-
-Read more
-
-Written March 24, 2023
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Kelly292929
-
-Bryan101 contributions
-
-0
-
-5 of 5 bubbles
-
-Busy, but delicious
-
-Feb 2020 • family
-
-Tons of college kids at 8 pm on a Friday night, however despite being busy,
-the food is and always is delicious. I love the Fuego steak and the carne
-guisada tacos. My husband loves the nachos. Oh and you can’t forget the queso!
-It’s the best! They will even give you a bag of chips to go if you have
-leftover queso. Last plus, the drive through! Definitely recommend Fuego!
-
-Read more
-
-Written February 23, 2020
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Juan Valdez
-
-3 contributions
-
-0
-
-5 of 5 bubbles
-
-Tacos are great.
-
-Feb 2020 • none
-
-The tortillas are made fresh right in front of you. The size of the tacos are
-amazing and the prices are great. Lots of food for the price. The taste is
-very good and so many hot sauces, fresh and bottled.
-
-Read more
-
-Written March 4, 2020
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Leesa A
-
-Laguna Niguel30 contributions
-
-2
-
-5 of 5 bubbles
-
-SO GOOD!!!
-
-Jan 2021 • none
-
-When my son told me about this place, I had to try it. It was amazing. They
-have the most unique menu and it was so cheap. The staff was friendly and the
-restaurant was clean. They put everything on flatbread. I had what I can only
-describe as juevos rancheros and it was delicious! It is a must go in College
-Station.
-
-Read more
-
-Written January 14, 2021
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Sleepy G
-
-4 contributions
-
-0
-
-5 of 5 bubbles
-
-Kinda Perfect
-
-Feb 2024 • friends
-
-I ate here every morning of my four day visit to College Station. Food is
-delicious, great salsa bar, 24 hr prompt and friendly service, reasonable
-prices. This place is kinda perfect.
-
-Read more
-
-Written February 27, 2024
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Michelle H
-
-Pittsburg213 contributions
-
-1
-
-5 of 5 bubbles
-
-Excellent tacos
-
-Apr 2021 • family
-
-Been here twice now when visiting son and have loved it both times. Usually
-super crowded and I know why. This most recent time we actually could eat
-inside. Charro beans and quest good, too. Only down side is the tea tastes
-like College Station water. Otherwise we love it.
-
-Read more
-
-Written April 5, 2021
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-…
-
-Showing results 1-15 of 588
-
-Best nearby
-
-We rank these hotels, restaurants, and attractions by balancing reviews from
-our members with how close they are to this location.
-
-Northwest Side
-
-The Northwest Side of San Antonio unfolds as an inviting blend of natural
-beauty and cultural attractions. The neighborhood flaunts the picturesque
-Friedrich Wilderness Park, a natural oasis with verdant trails that provide
-ample opportunities for hiking and birdwatching. Not far from this tranquil
-retreat, art enthusiasts may find their haven at the San Antonio Art
-Institute, showcasing a plethora of contemporary and traditional art. Foodies
-will be delighted by the array of dining options, from authentic Tex-Mex to
-exquisite fine dining. With convenient access to San Antonio International
-Airport and several major highways, the Northwest Side offers easy exploration
-of the city's diverse landscape and attractions.
-
-Read more
-
-Best nearby hotels
-
-See all
-
-2024
-
-Embassy Suites by Hilton College Station
-
-4.5
-
-4.5 of 5 bubbles
-
-(554)
-
-0.1 miles away
-
-Home2 Suites by Hilton College Station
-
-4.1
-
-4.1 of 5 bubbles
-
-(635)
-
-0.26 miles away
-
-Best Western Bryan College Station
-
-4.2
-
-4.2 of 5 bubbles
-
-(20)
-
-0.25 miles away
-
-Hampton Inn College Station
-
-3.5
-
-3.5 of 5 bubbles
-
-(675)
-
-0.22 miles away
-
-Best nearby restaurants
-
-See all
-
-The Republic Steakhouse
-
-4.6
-
-4.6 of 5 bubbles
-
-(424)
-
-0.49 miles away
-
-Blue Baker
-
-4.3
-
-4.3 of 5 bubbles
-
-(359)
-
-0.61 miles away
-
-On The Border Mexican Grill & Cantina
-
-3.8
-
-3.8 of 5 bubbles
-
-(79)
-
-0.13 miles away
-
-burger Mojo
-
-4.3
-
-4.3 of 5 bubbles
-
-(14)
-
-0.12 miles away
-
-Best nearby attractions
-
-See all
-
-Padlock Escape Games: College Station
-
-4.6
-
-4.6 of 5 bubbles
-
-(51)
-
-0.17 miles away
-
-Benjamin Knox Gallery
-
-4.4
-
-4.4 of 5 bubbles
-
-(8)
-
-0.22 miles away
-
-Bonfire Memorial
-
-4.7
-
-4.7 of 5 bubbles
-
-(185)
-
-0.46 miles away
-
-2024
-
-Escape Room BCS
-
-5.0
-
-5 of 5 bubbles
-
-(1,405)
-
-1.35 miles away
-
-Is This Your Listing?
-
-Own or manage this property? Claim your listing for free to respond to
-reviews, update your profile and much more.
-
-Claim Your Free Listing
-
-#
-
-FUEGO TORTILLA GRILL, College Station - Northwest Side - Menu, Prices &
-Restaurant Reviews - Order Online Food Delivery - Tripadvisor
-
-College Station
-
-College Station TourismCollege Station HotelsCollege Station Bed and
-BreakfastCollege Station Vacation RentalsFlights to College StationCollege
-Station RestaurantsThings to Do in College StationCollege Station Travel
-ForumCollege Station PhotosCollege Station Map
-
-Hotels
-
-All College Station HotelsCollege Station Hotel DealsLast Minute Hotels in
-College StationHotels Near MeBy Hotel Type
-
-College Station MotelsCollege Station CampgroundsCollege Station Spa
-ResortsCollege Station Business HotelsCollege Station Green HotelsRomantic
-Hotels in College StationCollege Station Family Hotels
-
-By Hotel Class
-
-4-Star Hotels in College Station3-Star Hotels in College Station
-
-By Hotel Brand
-
-Choice Hotels in College StationMarriott Hotels in College
-StationInterContinental (IHG) Hotels in College StationDays Inns in College
-StationLa Quinta Inns & Suites in College StationHampton by Hilton Hotels in
-College StationComfort Suites in College StationWyndham Hotels in College
-StationHilton Hotels in College Station
-
-Popular Amenities
-
-College Station Hotels with PoolsPet Friendly Hotels in College Station
-
-Popular Neighborhoods
-
-Hotels near Wolf Pen Creek DistrictHotels near BoyettHotels near Ashford
-SquareHotels near BrentwoodHotels near Redmond TerraceHotels near
-EastmarkHotels near Crescent PointeHotels near University ParkHotels near
-Parkway PlazaHotels near Harvey Hillsides
-
-Popular College Station Categories
-
-Suite Hotels in College StationCollege Station Hotels with KitchenetteCollege
-Station Hotels with Hot TubsHotels with Shuttle in College StationCollege
-Station Affordable HotelsCollege Station Hotels with BarsRomantic Boutique
-Hotels in College StationRomantic Bed and Breakfast in College
-StationConvention Hotels in College StationCollege Station City Center Hotels
-
-Near Landmarks
-
-Hotels near George Bush Presidential Library and MuseumHotels near Santa's
-WonderlandHotels near Kyle FieldHotels near Bonfire MemorialHotels near Museum
-of the American GIHotels near Reveille GravesiteHotels near Reed ArenaHotels
-near St. Mary's Catholic CenterHotels near Benjamin Knox GalleryHotels near
-American Express Cab
-
-Near Airports
-
-Hotels near Easterwood Field (CLL)Motels near Easterwood Field (CLL)
-
-Near Colleges
-
-Hotels near Texas A&M UniversityHotels near Charles & Sue's School of Hair
-DesignHotels near Manuel & Theresa's School-HairHotels near Texas A&M Health
-Science Center Bryan, TX
-
-Popular Hotel Categories
-
-Popular All-Inclusive ResortsPopular Beach ResortsPopular Family
-ResortsPopular All-Inclusive HotelsPopular Hotels With WaterparksPopular
-Honeymoon ResortsPopular Luxury ResortsPopular All-Inclusive Family
-ResortsPopular Golf ResortsPopular Spa ResortsPopular Cheap Resorts
-
-Things to DoRestaurants
-
-All College Station RestaurantsRestaurants near Fuego Tortilla GrillPopular
-Types of Food
-
-Turkish Restaurants in College StationFast Food Restaurants in College
-StationHealthy Restaurants in College StationStreet Food Restaurants in
-College StationKorean Restaurants in College StationLatin Restaurants in
-College StationHawaiian Restaurants in College StationGluten Free Restaurants
-in College StationVegetarian Restaurants in College StationVegan Restaurants
-in College StationSeafood Restaurants for Special Occasions in College
-StationAmerican Restaurants for Families in College StationSoup Restaurants
-for Families in College Station
-
-Popular Dishes
-
-Best Alfredo in College StationBest Gelato in College StationBest Cobb Salad
-in College StationBest Tuna in College StationBest Scallops in College
-StationBest Queso in College StationBest Hummus in College StationBest
-Etouffee in College StationBest Tempura in College StationBest Salmon in
-College StationBest Tilapia in College StationBest Lasagne in College
-StationBest Omelettes in College StationBest Fish & Chips in College
-StationBest Tortillas in College Station
-
-Popular Restaurant Categories
-
-Breakfast Restaurants in College StationLunch Restaurants in College
-StationDinner Restaurants in College StationKid Friendly Restaurants in
-College StationCheap Eats in College StationPrivate Dining Restaurants in
-College StationBuffet Restaurants in College StationRestaurants with a View in
-College StationRestaurants with Outdoor Seating in College StationRestaurants
-for Special Occasions in College StationDesserts in College StationCoffee &
-Tea in College StationBakeries in College Station
-
-FlightsVacation RentalsTravel StoriesCruisesRental CarsMore
-
-ToursAdd a PlaceTravel ForumAirlinesTravelers' ChoiceHelp CenterTrip Planner
-
-© 2025 Tripadvisor LLC All rights reserved.
-
-Terms of UsePrivacy and Cookies StatementCookie consentSite MapHow the site
-worksContact us
-
-This is the version of our website addressed to speakers of English in the
-United States. If you are a resident of another country or region, please
-select the appropriate version of Tripadvisor for your country or region in
-the drop-down menu. Show more
-
-$ USD
-
-United States
+Topic |  | Replies | Views | Activity  
+---|---|---|---|---  
+Batch matrix multiplication |  2 |  400 |  October 13, 2023   
+Matrix Multiplication With Multiple Dimensions in PYMC Model v5 modeling |  4 |  1080 |  July 7, 2022   
+Pymc3 vector concatenation Questions |  6 |  4314 |  August 18, 2019   
+Scipy.optimize.nnls usage problem in pymc3 Questions from_github ,  theano |  5 |  1421 |  August 4, 2017   
+Implementing Cross Product in Theano Questions theano |  2 |  572 |  January 18, 2021   
+  
+  * Home 
+  * Categories 
+  * Guidelines 
+  * Terms of Service 
+  * Privacy Policy 
+
+Powered by Discourse, best viewed with JavaScript enabled
 

@@ -1,517 +1,1723 @@
+Login
+
+  * Study Materials
+
+    * NCERT Solutions
+      * NCERT Solutions For Class 12
+        * NCERT Solutions For Class 12 Physics
+        * NCERT Solutions For Class 12 Chemistry
+        * NCERT Solutions For Class 12 Biology
+        * NCERT Solutions For Class 12 Maths
+        * NCERT Solutions Class 12 Accountancy
+        * NCERT Solutions Class 12 Business Studies
+        * NCERT Solutions Class 12 Economics
+        * NCERT Solutions Class 12 Accountancy Part 1
+        * NCERT Solutions Class 12 Accountancy Part 2
+        * NCERT Solutions Class 12 Micro-Economics
+        * NCERT Solutions Class 12 Commerce
+        * NCERT Solutions Class 12 Macro-Economics
+      * NCERT Solutions For Class 11
+        * NCERT Solutions For Class 11 Physics
+        * NCERT Solutions For Class 11 Chemistry
+        * NCERT Solutions For Class 11 Biology
+        * NCERT Solutions For Class 11 Maths
+        * NCERT Solutions Class 11 Accountancy
+        * NCERT Solutions Class 11 Business Studies
+        * NCERT Solutions Class 11 Economics
+        * NCERT Solutions Class 11 Statistics
+        * NCERT Solutions Class 11 Commerce
+      * NCERT Solutions For Class 10
+        * NCERT Solutions for Class 10 Social Science
+      * NCERT Solutions for Class 10 Maths
+        * NCERT Solutions for Class 10 Maths Chapter 1
+        * NCERT Solutions for Class 10 Maths Chapter 2
+        * NCERT Solutions for Class 10 Maths Chapter 3
+        * NCERT Solutions for Class 10 Maths Chapter 4
+        * NCERT Solutions for Class 10 Maths Chapter 5
+        * NCERT Solutions for Class 10 Maths Chapter 6
+        * NCERT Solutions for Class 10 Maths Chapter 7
+        * NCERT Solutions for Class 10 Maths Chapter 8
+        * NCERT Solutions for Class 10 Maths Chapter 9
+        * NCERT Solutions for Class 10 Maths Chapter 10
+        * NCERT Solutions for Class 10 Maths Chapter 11
+        * NCERT Solutions for Class 10 Maths Chapter 12
+        * NCERT Solutions for Class 10 Maths Chapter 13
+        * NCERT Solutions for Class 10 Maths Chapter 14
+        * NCERT Solutions for Class 10 Maths Chapter 15
+
+More
+
+      * NCERT Solutions for Class 10 Science
+        * NCERT Solutions for Class 10 Science Chapter 1
+        * NCERT Solutions for Class 10 Science Chapter 2
+        * NCERT Solutions for Class 10 Science Chapter 3
+        * NCERT Solutions for Class 10 Science Chapter 4
+        * NCERT Solutions for Class 10 Science Chapter 5
+        * NCERT Solutions for Class 10 Science Chapter 6
+        * NCERT Solutions for Class 10 Science Chapter 7
+        * NCERT Solutions for Class 10 Science Chapter 8
+        * NCERT Solutions for Class 10 Science Chapter 9
+        * NCERT Solutions for Class 10 Science Chapter 10
+        * NCERT Solutions for Class 10 Science Chapter 11
+        * NCERT Solutions for Class 10 Science Chapter 12
+        * NCERT Solutions for Class 10 Science Chapter 13
+        * NCERT Solutions for Class 10 Science Chapter 14
+        * NCERT Solutions for Class 10 Science Chapter 15
+        * NCERT Solutions for Class 10 Science Chapter 16
+
+More
+
+      * NCERT Solutions For Class 9
+        * NCERT Solutions For Class 9 Social Science
+      * NCERT Solutions For Class 9 Maths
+        * NCERT Solutions For Class 9 Maths Chapter 1
+        * NCERT Solutions For Class 9 Maths Chapter 2
+        * NCERT Solutions For Class 9 Maths Chapter 3
+        * NCERT Solutions For Class 9 Maths Chapter 4
+        * NCERT Solutions For Class 9 Maths Chapter 5
+        * NCERT Solutions For Class 9 Maths Chapter 6
+        * NCERT Solutions For Class 9 Maths Chapter 7
+        * NCERT Solutions For Class 9 Maths Chapter 8
+        * NCERT Solutions For Class 9 Maths Chapter 9
+        * NCERT Solutions For Class 9 Maths Chapter 10
+        * NCERT Solutions For Class 9 Maths Chapter 11
+        * NCERT Solutions For Class 9 Maths Chapter 12
+        * NCERT Solutions For Class 9 Maths Chapter 13
+        * NCERT Solutions For Class 9 Maths Chapter 14
+        * NCERT Solutions For Class 9 Maths Chapter 15
+
+More
+
+      * NCERT Solutions For Class 9 Science
+        * NCERT Solutions for Class 9 Science Chapter 1
+        * NCERT Solutions for Class 9 Science Chapter 2
+        * NCERT Solutions for Class 9 Science Chapter 3
+        * NCERT Solutions for Class 9 Science Chapter 4
+        * NCERT Solutions for Class 9 Science Chapter 5
+        * NCERT Solutions for Class 9 Science Chapter 6
+        * NCERT Solutions for Class 9 Science Chapter 7
+        * NCERT Solutions for Class 9 Science Chapter 8
+        * NCERT Solutions for Class 9 Science Chapter 9
+        * NCERT Solutions for Class 9 Science Chapter 10
+        * NCERT Solutions for Class 9 Science Chapter 11
+        * NCERT Solutions for Class 9 Science Chapter 12
+        * NCERT Solutions for Class 9 Science Chapter 13
+        * NCERT Solutions for Class 9 Science Chapter 14
+        * NCERT Solutions for Class 9 Science Chapter 15
+
+More
+
+      * NCERT Solutions For Class 8
+        * NCERT Solutions For Class 8 Maths
+        * NCERT Solutions For Class 8 Science
+        * NCERT Solutions for Class 8 Social Science
+        * NCERT Solutions for Class 8 English
+      * NCERT Solutions For Class 7
+        * NCERT Solutions For Class 7 Maths
+        * NCERT Solutions For Class 7 Science
+        * NCERT Solutions for Class 7 Social Science
+        * NCERT Solutions for Class 7 English
+      * NCERT Solutions For Class 6
+        * NCERT Solutions For Class 6 Maths
+        * NCERT Solutions For Class 6 Science
+        * NCERT Solutions For Class 6 Social Science
+        * NCERT Solutions for Class 6 English
+      * NCERT Solutions For Class 5
+        * NCERT Solutions For Class 5 Maths
+        * NCERT Solutions For Class 5 EVS
+      * NCERT Solutions For Class 4
+        * NCERT Solutions For Class 4 Maths
+        * NCERT Solutions For Class 4 EVS
+      * NCERT Solutions For Class 3
+        * NCERT Solutions For Class 3 Maths
+        * NCERT Solutions For Class 3 EVS
+        * NCERT Solutions For Class 3 English
+      * NCERT Solutions For Class 2
+        * NCERT Solutions For Class 2 Maths
+        * NCERT Solutions For Class 2 English
+      * NCERT Solutions For Class 1
+        * NCERT Solutions For Class 1 Maths
+        * NCERT Solutions For Class 1 English
+      * NCERT
+      * NCERT Syllabus
+    * Classes
+      * Class 1 - 3
+      * Class 4 - 5
+      * Class 6 - 10
+    * CBSE
+      * NCERT Books
+        * NCERT Books for Class 5
+        * NCERT Books Class 6
+        * NCERT Books for Class 7
+        * NCERT Books for Class 8
+        * NCERT Books for Class 9
+        * NCERT Books for Class 10
+        * NCERT Books for Class 11
+        * NCERT Books for Class 12
+      * NCERT Exemplar
+        * NCERT Exemplar Class 8
+        * NCERT Exemplar Class 9
+        * NCERT Exemplar Class 10
+        * NCERT Exemplar Class 11
+        * NCERT Exemplar Class 12
+      * RD Sharma
+        * RD Sharma Class 6 Solutions
+        * RD Sharma Class 7 Solutions
+        * RD Sharma Class 8 Solutions
+        * RD Sharma Class 9 Solutions
+        * RD Sharma Class 10 Solutions
+        * RD Sharma Class 11 Solutions
+        * RD Sharma Class 12 Solutions
+      * PHYSICS
+        * Mechanics
+        * Optics
+        * Thermodynamics
+        * Electromagnetism
+        * Famous Physicists
+        * Unit Conversion
+        * Kirchhoff's Laws
+        * Faraday's Law
+        * Laws of Motion
+        * Refraction of Light
+        * Maxwell's Equation
+        * Electrostatics
+        * Bernoulli's Principle
+        * Projectile Motion
+        * Electric Charge
+        * Physics Symbols
+
+More
+
+      * CHEMISTRY
+        * Periodic Table
+        * Stereochemistry
+        * Organic Compounds
+        * Inorganic Chemistry
+        * Quantum Numbers
+        * Atomic Mass of Elements
+        * Periodic Properties of Elements
+        * 118 Elements and Their Symbols
+        * Balancing Chemical Equations
+        * Salt Analysis
+        * Acids, Bases, and Salts
+        * Benzene
+        * Organometallic Compounds
+        * Atomic Number and Mass Number
+
+More
+
+      * MATHS
+        * Pythagoras Theorem
+        * Prime Numbers
+        * Probability and Statistics
+        * Fractions
+        * Sets
+        * Trigonometric Functions
+        * Relations and Functions
+        * Sequence and Series
+        * Multiplication Tables
+        * Determinants and Matrices
+        * Profit And Loss
+        * Polynomial Equations
+        * Dividing Fractions
+      * Social Science
+        * Manufacturing Industries
+        * Sahara Desert
+        * Amazon River
+        * Indian Tribes
+        * Mughal Dynasty
+        * Monuments of India List
+        * Judiciary
+        * Autocratic Meaning
+        * Fundamental Rights of India
+        * Union Territories of India
+        * Capitals of Seven Sisters of India
+        * Most Populated States In India
+      * BIOLOGY
+        * Microbiology
+        * Ecology
+        * Zoology
+        * Photosynthesis
+      * FORMULAS
+        * Maths Formulas
+        * Algebra Formulas
+        * Trigonometry Formulas
+        * Geometry Formulas
+      * CBSE Sample Papers
+        * CBSE Sample Papers for Class 6
+        * CBSE Sample Papers for Class 7
+        * CBSE Sample Papers for Class 8
+        * CBSE Sample Papers for Class 9
+        * CBSE Sample Papers for Class 10
+        * CBSE Sample Papers for Class 11
+        * CBSE Sample Papers for Class 12
+      * CBSE Previous Year Question Paper
+        * CBSE Previous Year Question Papers Class 10
+        * CBSE Previous Year Question Papers Class 12
+      * Lakhmir Singh Solutions
+        * Lakhmir Singh Class 9 Solutions
+        * Lakhmir Singh Class 10 Solutions
+        * Lakhmir Singh Class 8 Solutions
+      * CBSE Notes
+        * Class 6 CBSE Notes
+        * Class 7 CBSE Notes
+        * Class 8 CBSE Notes
+        * Class 9 CBSE Notes
+        * Class 10 CBSE Notes
+        * Class 11 CBSE Notes
+        * Class 12 CBSE Notes
+      * CBSE Revision Notes
+        * CBSE Class 9 Revision Notes
+        * CBSE Class 10 Revision Notes
+        * CBSE Class 11 Revision Notes
+        * CBSE Class 12 Revision Notes
+      * CBSE Extra Questions
+        * CBSE Class 8 Maths Extra Questions
+        * CBSE Class 8 Science Extra Questions
+        * CBSE Class 9 Maths Extra Questions
+        * CBSE Class 9 Science Extra Questions
+        * CBSE Class 10 Maths Extra Questions
+        * CBSE Class 10 Science Extra Questions
+      * CBSE Class
+        * Class 3
+        * Class 4
+        * Class 5
+        * Class 6
+        * Class 7
+        * Class 8
+        * Class 9
+        * Class 10
+        * Class 11
+        * Class 12
+      * Textbook Solutions
+    * Calculators
+      * Basic Calculators
+        * Percentage Calculator
+        * Loan Calculator
+        * Emi Calculator
+        * Fraction Calculator
+        * Algebra Calculator
+        * Factoring Calculator
+        * Distance Calculator
+        * Percentage Increase Calculator
+        * Square Footage Calculator
+        * Square Root Calculator
+        * Percentage Change Calculator
+        * Ratio Calculator
+        * Triangle Calculator
+        * Fractions Calculator
+        * Area Calculator
+        * Percentage Difference Calculator
+        * Percentage Off Calculator
+        * Scientific Notation Calculator
+        * Simple Interest Calculator
+        * Equation Calculator
+        * Lcm Calculator
+        * Rounding Calculator
+        * Long Division Calculator
+        * Mixed Fraction Calculator
+
+More
+
+      * Maths Calculators
+        * Compound Interest Calculator
+        * Integral Calculator
+        * Derivative Calculator
+        * Graphing Calculator
+        * Standard Deviation Calculator
+        * Limit Calculator
+        * Binary Calculator
+        * Matrix Calculator
+        * Cp Calculator
+        * Discount Calculator
+        * Antiderivative Calculator
+        * Exponents Calculator
+        * Probability Calculator
+        * Sample Size Calculator
+        * Slope Calculator
+        * Area Of A Circle Calculator
+        * Circumference Calculator
+        * Combination Calculator
+        * Inverse Matrix Calculator
+        * Mod Calculator
+        * Pythagorean Theorem Calculator
+        * Confidence Interval Calculator
+        * Double Integral Calculator
+        * Matrix Multiplication Calculator
+        * Inverse Function Calculator
+        * Volume Calculator
+        * Volume Of A Cylinder Calculator
+        * Z Score Calculator
+        * Variance Calculator
+
+More
+
+      * Physics Calculators
+        * Power Calculator
+        * Voltage Drop Calculator
+      * Chemistry Calculators
+        * Molarity Calculator
+    * Commerce
+      * Class 11 Commerce Syllabus
+        * Class 11 Accountancy Syllabus
+        * Class 11 Business Studies Syllabus
+        * Class 11 Economics Syllabus
+      * Class 12 Commerce Syllabus
+        * Class 12 Accountancy Syllabus
+        * Class 12 Business Studies Syllabus
+        * Class 12 Economics Syllabus
+      * Commerce Sample Papers
+        * Class 11 Commerce Sample Papers
+        * Class 12 Commerce Sample Papers
+      * TS Grewal Solutions
+        * TS Grewal Solutions Class 12 Accountancy
+        * TS Grewal Solutions Class 11 Accountancy
+      * Statement Of Cash Flows
+      * What Is Entrepreneurship
+      * Consumer Protection
+      * What Is A Fixed Asset
+      * What Is A Balance Sheet
+      * What Is Fiscal Deficit
+      * What Are Equity Shares
+      * Difference Between Selling And Marketing
+    * ICSE
+      * ICSE Sample Papers
+      * ICSE Question Papers
+      * ML Aggarwal Solutions
+        * ML Aggarwal Solutions Class 10 Maths
+        * ML Aggarwal Solutions Class 9 Maths
+        * ML Aggarwal Solutions Class 8 Maths
+        * ML Aggarwal Solutions Class 7 Maths
+        * ML Aggarwal Solutions Class 6 Maths
+      * Selina Solutions
+        * Selina Solution for Class 8
+        * Selina Solutions for Class 10
+        * Selina Solution for Class 9
+      * Frank Solutions
+        * Frank Solutions for Class 10 Maths
+        * Frank Solutions for Class 9 Maths
+      * ICSE Class
+        * ICSE Class 6
+        * ICSE Class 7
+        * ICSE Class 8
+        * ICSE Class 9
+        * ICSE Class 10
+        * ISC Class 11
+        * ISC Class 12
+    * IAS
+      * IAS Exam
+      * UPSC Exam
+      * Civil Service Exam
+      * UPSC Syllabus
+      * IAS Topper
+      * Free IAS Prep
+      * UPSC Results
+        * UPSC Prelims Result
+        * UPSC Mains Result
+      * Current Affairs
+        * List of Current Affairs Articles
+      * List Of IAS Articles
+      * Public Service Commission
+        * KPSC KAS Exam
+        * UPPSC PCS Exam
+        * MPSC Exam
+        * RPSC RAS Exam
+        * TNPSC Group 1
+        * APPSC Group 1
+        * BPSC Exam
+        * WBPSC Exam
+        * MPPSC Exam
+        * JPSC Exam
+        * GPSC Exam
+      * UPSC Question Papers
+        * UPSC Prelims 2022 Question Paper
+      * UPSC Prelims 2022 Answer Key
+      * IAS Coaching
+        * IAS Coaching Bangalore
+        * IAS Coaching Delhi
+        * IAS Coaching Chennai
+        * IAS Coaching Hyderabad
+        * IAS Coaching Mumbai
+        * Best IAS coaching Chennai
+        * Best IAS coaching Bangalore
+        * Best IAS coaching Delhi
+      * IAS Questions
+    * JEE
+      * JEE 2024
+      * NMTC 2023 Question Papers
+      * NMTC 2023 Sub Junior Division
+      * NMTC 2023 Primary Division
+      * NMTC 2023 Junior Division
+      * JEE 2023
+      * JEE Test Series
+      * JEE Advanced 2023
+      * JEE Advanced 2023 Question Paper
+      * JEE Advanced 2023 Paper Analysis
+      * JEE Advanced 2022 Question Paper
+      * JEE Advanced Question Papers
+      * JEE Advanced Answer Keys
+      * JEE Advanced Results
+      * JEE Advanced Marks vs Rank
+      * JEE Advanced Rank Predictor
+      * JEE Advanced Paper Analysis
+      * JEE Main 2024
+      * JEE Main 2024 Question Papers with Answers
+      * JEE Main 2024 Mock Test
+      * JEE Main 2023 Question Papers
+      * JEE Main Toppers List 2023
+      * JEE Main 2023 Paper Analysis
+      * JEE Main 2022 Question Papers
+      * JEE Main 2022 Paper Analysis
+      * JEE Main Rank Predictor
+      * JEE Main Results
+      * JEE Sample Paper
+      * JEE Question Paper
+      * JEE Main Answer Key
+      * Binomial Theorem
+      * JEE Articles
+      * Quadratic Equation
+      * JEE Questions
+    * NEET
+      * NEET 2024
+      * NEET 2023
+      * NEET Registration 2023
+      * NEET Admit Card
+      * NEET Test Series
+      * NEET 2023 Question Paper
+      * NEET 2023 Answer Key
+      * NEET 2023 Question Paper Analysis
+      * NEET 2022 Question Paper
+      * NEET 2022 Answer Key
+      * NEET 2022 Question paper analysis
+      * NEET 2022 Results
+      * NEET Eligibility Criteria
+      * NEET Question Papers
+      * NEET Sample Papers
+      * NEET Preparation
+      * NEET Syllabus
+      * NEET Questions
+    * GATE 2024
+      * GATE
+      * GATE Previous Year Question Papers
+      * GATE Syllabus
+        * GATE Syllabus For CSE
+        * GATE Syllabus For ECE
+        * GATE Syllabus For Civil Engineering
+        * GATE Syllabus For Mechanical Engineering
+        * GATE Aptitude Syllabus
+      * GATE Study Material
+        * GATE Notes For CSE
+      * GATE Difference Between Articles
+      * GATE FAQs
+    * Olympiad Exams
+      * Maths Olympiad
+      * Science Olympiad
+    * Entrance Exams In India
+      * COMED-K
+        * COMED-K Syllabus
+        * COMED-K Previous Year Question Papers
+        * COMED-K Sample Papers
+      * KCET
+        * KCET Syllabus
+        * KCET Question Papers
+      * WBJEE
+        * WBJEE Syllabus
+        * WBJEE Question Papers
+      * GUJCET
+        * GUJCET Syllabus
+        * GUJCET Question Papers
+      * KVPY
+        * KVPY Syllabus
+      * MHT-CET
+        * MHT-CET Syllabus
+      * NSTSE
+        * NSTSE Syllabus
+      * NTSE
+        * NTSE Syllabus
+        * NTSE Question Paper
+      * BCECE
+        * BCECE Syllabus
+      * UPSEE
+        * UPSEE Syllabus
+      * GCET
+      * HPCET
+      * KEAM
+    * State Boards
+      * GSEB
+        * GSEB Syllabus
+        * GSEB Question Paper
+        * GSEB Sample Paper
+        * GSEB Books
+      * MSBSHSE
+        * MSBSHSE Syllabus
+        * MSBSHSE Textbooks
+        * MSBSHSE Sample Papers
+        * MSBSHSE Question Papers
+      * AP Board
+        * APSCERT Books
+        * AP SSC Syllabus
+        * AP 1st Year Syllabus
+        * AP 2nd Year Syllabus
+      * MP Board
+        * MP Board Syllabus
+        * MP Board Sample Papers
+        * MP Board Textbooks
+      * Assam Board
+        * Assam Board Syllabus
+        * Assam Board Textbooks
+        * Assam Board Sample Papers
+      * BSEB
+        * Bihar Board Syllabus
+        * Bihar Board Textbooks
+        * Bihar Board Question Papers
+        * Bihar Board Model Papers
+      * BSE Odisha
+        * Odisha Board Syllabus
+        * Odisha Board Sample Papers
+      * PSEB
+        * PSEB Syllabus
+        * PSEB Textbooks
+        * PSEB Question Papers
+      * RBSE
+        * Rajasthan Board Syllabus
+        * RBSE Textbooks
+        * RBSE Question Papers
+      * HPBOSE
+        * HPBOSE Syllabus
+        * HPBOSE Textbooks
+        * HPBOSE Question Papers
+      * JKBOSE
+        * JKBOSE Syllabus
+        * JKBOSE Sample Papers
+        * JKBOSE Exam Pattern
+      * TN Board
+        * TN Board Syllabus
+        * TN Board Question Papers
+        * TN Board Sample Papers
+        * Samacheer Kalvi Books
+      * JAC
+        * JAC Syllabus
+        * JAC Textbooks
+        * JAC Question Papers
+      * Telangana Board
+        * Telangana Board Syllabus
+        * Telangana Board Textbooks
+        * Telangana Board Question Papers
+      * KSEEB
+        * KSEEB Syllabus
+        * KSEEB Model Question Papers
+      * KBPE
+        * KBPE Syllabus
+        * KBPE Textbooks
+        * KBPE Question Papers
+      * UPMSP
+        * UP Board Syllabus
+        * UP Board Books
+        * UP Board Question Papers
+      * West Bengal Board
+        * West Bengal Board Syllabus
+        * West Bengal Board TextBooks
+        * West Bengal Board Question Papers
+      * UBSE
+      * TBSE
+      * Goa Board
+      * NBSE
+      * CGBSE
+      * MBSE
+      * Meghalaya Board
+      * Manipur Board
+      * Haryana Board
+    * NIOS
+      * NIOS A Level Syllabus
+        * A Level EVS Syllabus
+        * A Level Basic Computer Skill Syllabus
+        * A Level Maths Syllabus
+      * NIOS B Level Syllabus
+        * B Level EVS Syllabus
+        * B Level Computer Skill Syllabus
+        * B Level Maths Syllabus
+      * NIOS C Level Syllabus
+        * C Level Social Science Syllabus
+        * C Level Science Syllabus
+        * C Level Maths Syllabus
+        * C Level Basic Computer Skills Syllabus
+        * C Level English Language Syllabus
+      * NIOS Secondary Course
+        * Secondary Course Group B Syllabus
+        * Secondary Course Group A Syllabus
+      * NIOS Senior Secondary Course
+        * Senior Secondary Group F Syllabus
+        * Senior Secondary Group E Syllabus
+        * Senior Secondary Group D Syllabus
+        * Senior Secondary Group C Syllabus
+        * Senior Secondary Group B Syllabus
+        * Senior Secondary Group A Syllabus
+    * Government Exams
+      * Bank Exams
+        * SBI Exams
+        * IBPS Exams
+        * RBI Exams
+        * IBPS RRB Exam
+      * SSC Exams
+        * SSC JE
+        * SSC GD
+        * SSC CPO
+        * SSC CHSL
+        * SSC CGL
+      * RRB Exams
+        * RRB JE
+        * RRB NTPC
+        * RRB ALP
+      * Insurance Exams
+        * LIC Exams
+        * LIC HFL
+        * LIC ADO
+      * UPSC CAPF
+      * List of Government Exams Articles
+    * Kids Learning
+      * Class 1
+      * Class 2
+      * Class 3
+    * English Language
+      * Letter Writing
+      * Speech Topics For Kids
+      * Slogans for Kids
+      * English Grammar
+        * Parts of Speech
+        * English Grammar Exercises
+    * Academic Questions
+      * Physics Questions
+      * Chemistry Questions
+      * Biology Questions
+      * Maths Questions
+      * Science Questions
+      * GK Questions
+      * Commerce Questions
+      * English Questions
+    * Online Tuition
+      * Home Tuition
+    * Full Forms
+      * General Full Forms
+        * Physics Full Forms
+        * Chemistry Full Forms
+        * Biology Full Forms
+      * Educational Full Forms
+      * Banking Full Forms
+      * Technology Full Forms
+    * CAT
+      * CAT 2023
+      * CAT Syllabus
+      * CAT Exam Pattern
+      * CAT Exam
+      * CAT Percentile Predictor
+      * Free CAT Prep
+      * Byju's App Review on CAT
+    * Education News
+    * Support
+      * Complaint Resolution
+      * Customer Care
+
+  * BYJU'S Answer 
+  * Scholarship
+
+    * i-BAST
+    * BNAT Class 11-12
+    * BNST | IAS
+    * Mock Test | JEE Main
+    * Mock Test | JEE Advanced
+    * Mock Test | NEET
+
+  * BTC
+
+    * BYJU'S Tuition Centre
+    * Tuition in North Zone
+      * Tuition in Madhya Pradesh
+        * Tuition in Indore
+        * Tuition in Rewa
+        * Tuition in Ujjain
+        * Tuition in Bhopal
+        * Tuition in Jabalpur
+        * Tuition in Gwalior
+        * Tuition in Sagar
+      * Tuition in Chhattisgarh
+        * Tuition in Raipur
+        * Tuition in Bilaspur
+        * Tuition in Bhilai
+        * Tuition in Durg
+      * Tuition in Delhi
+      * Tuition in Haryana
+        * Tuition in Gurgaon
+        * Tuition in Faridabad
+        * Tuition in Karnal
+        * Tuition in Sonipat
+        * Tuition in Ambala
+        * Tuition in Hisar
+        * Tuition in Panipat
+        * Tuition in Jagadhri
+        * Tuition in Sirsa
+        * Tuition in Panchkula
+      * Tuition in Himachal Pradesh
+        * Tuition in Shimla
+      * Tuition in Punjab
+        * Tuition in chandigarh
+        * Tuition in Ludhiana
+        * Tuition in Jalandhar
+        * Tuition in Amritsar
+        * Tuition in Bathinda
+        * Tuition in Mohali
+        * Tuition in Kharar
+      * Tuition in Rajasthan
+        * Tuition in Jaipur
+        * Tuition in Ajmer
+        * Tuition in Jodhpur
+        * Tuition in Bikaner
+        * Tuition in Udaipur
+        * Tuition in Alwar
+        * Tuition in Sri Ganganagar
+        * Tuition in Bharatpur
+        * Tuition in Sikar
+        * Tuition in Bhilwara
+      * Tuition in Uttar Pradesh
+        * Tuition in Kanpur
+        * Tuition in Lucknow
+        * Tuition in Noida
+        * Tuition in Ghaziabad
+        * Tuition in Aligarh
+        * Tuition in Agra
+        * Tuition in Meerut
+        * Tuition in Mathura
+        * Tuition in Faizabad
+        * Tuition in Saharanpur
+        * Tuition in Bareilly
+        * Tuition in Gautam Buddha Nagar
+        * Tuition in Rampur
+        * Tuition in Jhansi
+        * Tuition in Allahabad
+
+More
+
+      * Tuition in Uttarakhand
+        * Tuition in Rudrapur
+        * Tuition in Haridwar
+        * Tuition in Dehradun
+        * Tuition in Roorkee
+    * Tuition in West Zone
+      * Tuition in Gujarat
+        * Tuition in Ahmedabad
+        * Tuition in Surat
+        * Tuition in Anand
+        * Tuition in Vadodara
+        * Tuition in Vapi
+        * Tuition in Bhavnagar
+        * Tuition in Rajkot
+        * Tuition in Jamnagar
+      * Tuition in Maharashtra
+        * Tuition in Mumbai
+        * Tuition in Navi Mumbai
+        * Tuition in Thane
+        * Tuition in Pune
+        * Tuition in Nashik
+        * Tuition in Nagpur
+        * Tuition in Solapur
+        * Tuition in Latur
+        * Tuition in Ahmednagar
+        * Tuition in Aurangabad
+        * Tuition in Amravati
+        * Tuition in Nanded
+        * Tuition in Akola
+        * Tuition in Dhule
+
+More
+
+    * Tuition in East Zone
+      * Tuition in Bihar
+        * Tuition in Patna
+        * Tuition in Muzaffarpur
+        * Tuition in Darbhanga
+        * Tuition in Gaya
+        * Tuition in Bhagalpur
+        * Tuition in Purnia
+      * Tuition in Jharkhand
+        * Tuition in Jamshedpur
+        * Tuition in Bokaro
+        * Tuition in Ranchi
+        * Tuition in Dhanbad
+      * Tuition in Odisha
+        * Tuition in Bhubaneswar
+        * Tuition in Cuttack
+      * Tuition in West Bengal
+        * Tuition in Kolkata
+        * Tuition in Kharagpur
+        * Tuition in Bardhaman
+        * Tuition in Siliguri
+        * Tuition in Asansol
+      * Tuition in Assam
+        * Tuition in Dibrugarh
+    * Tuition in South Zone
+      * Tuition in Andhra Pradesh
+        * Tuition in Kurnool
+        * Tuition in Nellore
+        * Tuition in Rajahmundry
+        * Tuition in Vijayawada
+        * Tuition in Visakhapatnam
+        * Tuition in Kadapa
+        * Tuition in Anantapur
+        * Tuition in Tirupati
+      * Tuition in Karnataka
+        * Tuition in Bangalore
+        * Tuition in Belagavi
+        * Tuition in Gulbarga
+        * Tuition in Dharwad
+        * Tuition in Mandya
+        * Tuition in Bellary
+        * Tuition in Hassan
+        * Tuition in Vijayapura
+        * Tuition in Hubli
+        * Tuition in Shimoga
+        * Tuition in Davanagere
+        * Tuition in Mysore
+        * Tuition in Mangalore
+      * Tuition in Kerala
+        * Tuition in Trivandrum
+        * Tuition in Cochin
+        * Tuition in Thrissur
+        * Tuition in Kozhikode
+        * Tuition in Kannur
+        * Tuition in Kollam
+        * Tuition in Palakkad
+        * Tuition in Kottayam
+        * Tuition in Malappuram
+      * Tuition in Tamil Nadu
+        * Tuition in Chennai
+        * Tuition in Coimbatore
+        * Tuition in Tiruchirappalli
+        * Tuition in Salem
+        * Tuition in Vellore
+        * Tuition in Erode
+        * Tuition in Krishnagiri
+        * Tuition in Puducherry
+      * Tuition in Telangana
+        * Tuition in Hyderabad
+        * Tuition in Khammam
+    * Tuition Centre Near You
+
+  * Buy a Course 
+  * Success Stories 
+  * Live QuizNEW
+  * Login
+  * +91-9243500460
+  * 
+
+Maths
+
+  * Algebra 
+  * Arithmetic 
+  * Calculus 
+  * Geometry 
+  * Probability and Statistics 
+  * Number System 
+  * Set Theory 
+  * Trigonometry 
+  * Permutation and Combination 
+  * Mensuration 
+
+Maths Article
+
+  * Maths Index Pages
+    * Class 10 Maths Index 
+    * Class 11 Maths Index 
+    * Class 12 Maths Index 
+  * Maths Properties 
+  * Math Theorems 
+  * Maths Symbols
+    * Algebra Symbols 
+    * Geometry Symbols 
+    * Probability And Statistics Symbols 
+    * Set Theory Symbols 
+  * Maths Tables
+    * Tables 1 to 20 
+    * Tables 2 to 30 
+    * Tables 1 to 100 
+    * Tables 100 to 200 
+    * Tables 200 to 300 
+    * Tables 300 to 400 
+    * Tables 400 to 500 
+    * Tables 500 to 600 
+    * Tables 600 to 700 
+    * Tables 700 to 800 
+    * Tables 800 to 900 
+    * Tables 900 to 1000 
+    * Addition Table 
+    * Multiplication Tables 
+  * Square Root
+    * Square Root of 2 
+    * Square Root of 3 
+    * Square Root of 4 
+    * Square Root Table 
+  * Diff. Between In Maths 
+  * Differential Equations 
+  * Trigonometry Formulas 
+  * Trigonometry Laws
+    * Law of Sine 
+    * Law of Cosines 
+    * Law of Tangent 
+
+Maths Formulas
+
+  * Maths formulas for class 6 
+  * Maths formulas for class 7 
+  * Maths formulas for class 8 
+  * Maths formulas for class 9 
+  * Maths formulas for class 10 
+  * Maths formulas for class 11 
+  * Maths formulas for class 12 
+
+Maths Syllabus
+
+  * Class 6 Maths Syllabus 
+  * Class 7 Maths Syllabus 
+  * Class 8 Maths Syllabus 
+  * Class 9 Maths Syllabus 
+  * Class 10 Maths Syllabus 
+  * Class 11 Maths Syllabus 
+  * Class 12 Maths Syllabus 
+
+Maths Important Questions
+
+  * Maths Questions 
+  * Important Questions For Class 8 Maths 
+  * Important Questions For Class 9 Maths 
+  * Important Questions For Class 10 Maths 
+  * Important Questions For Class 11 Maths 
+  * Important Questions For Class 12 Maths 
+
+Maths Calculator
+
+Maths MCQs
+
+  * Class 8 Maths MCQs 
+  * Class 9 Maths MCQs 
+  * Class 10 Maths MCQs 
+  * Class 11 Maths MCQs 
+  * Class 12 Maths MCQs 
+
+  1. Maths
+  2. Math Article
+  3. Matrix Multiplication
+
+# Matrix Multiplication
+
+In linear algebra, matrices play an important role in dealing with different
+concepts. A **matrix** is a rectangular _array_ or _table_ of numbers,
+symbols, or expressions, arranged in _rows_ and _columns_ in mathematics. We
+can perform various operations on matrices such as addition, subtraction,
+multiplication and so on. In this article, you will learn how to multiply a
+matrix by another matrix, its algorithm, formula, 2×2 and 3×3 matrix
+multiplication with examples in detail.
+
+**Table of Contents:**
+
+  * Definition
+  * Multiplication by a Scalar
+  * Condition
+  * How to multiply
+  * Formula
+  * Algorithm
+  * Rules
+  * 2×2 Matrix Multiplication
+  * 3×3 Matrix Multiplication
+  * Properties
+  * Example
+  * Practice problems
+  * FAQs
 
-
-Back to Search
-
-Yelp for Business
-
-Write a Review
-
-Start a Project
-
-Log In
-
-Sign Up
-
-  1. Restaurants
-     * Takeout
-
-     * Burgers
-
-     * Chinese
-
-     * Italian
-
-     * Reservations
-
-     * Delivery
-
-     * Mexican
-
-     * Thai
-
-  2. Home Services
-     * Contractors
-
-     * Electricians
-
-     * Home Cleaners
-
-     * HVAC
-
-     * Landscaping
-
-     * Locksmiths
-
-     * Movers
-
-     * Plumbers
-
-  3. Auto Services
-     * Auto Repair
-
-     * Auto Detailing
-
-     * Body Shops
-
-     * Car Wash
-
-     * Car Dealers
-
-     * Oil Change
-
-     * Parking
-
-     * Towing
-
-  4. More
-     * Dry Cleaning
-
-     * Phone Repair
-
-     * Bars
-
-     * Nightlife
-
-     * Hair Salons
-
-     * Gyms
-
-     * Massage
-
-     * Shopping
-
-  5. More
-
-# Fuego Tortilla Grill
-
-4.3 (153 reviews)
-
-Claimed
-
-$ Tacos, Breakfast & Brunch, Tex-Mex
-
-OpenOpen 24 hours
-
-See hours
-
-Updated 2 months ago
-
-See all 216 photos
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Write a review
-
-Add photo
-
-Share
-
-Save
-
-## Menu
-
-##### Popular Dishes
-
-View full menu
-
-$7.19
-
-El Presidente
-
-13 Photos 11 Reviews
-
-$6.95
-
-Campeche Fish Taco
-
-7 Photos 9 Reviews
-
-$7.91
-
-Dr Pepper Cowboy
-
-4 Photos 8 Reviews
-
-$7.91
-
-Fuego Steak
-
-4 Photos 5 Reviews
-
-$6.95
-
-South Padre
-
-5 Photos 4 Reviews
-
-$7.19
-
-Loco Pollo
-
-5 Photos 2 Reviews
-
-$6.59
-
-Chicken and Waffles
-
-3 Photos 3 Reviews
-
-$5.51
-
-Fuego Deluxe
-
-3 Photos 3 Reviews
-
-$7.19
-
-I-chee-wa-wa
-
-3 Photos 2 Reviews
-
-$7.91
-
-Classic Carne Guisada
-
-3 Photos 3 Reviews
-
-$7.91
-
-Rock Star
-
-5 Photos 4 Reviews
-
-$7.19
-
-Buffalo Bill
-
-5 Photos 4 Reviews
-
-$10.19
-
-Fuego Bowl
-
-2 Photos 2 Reviews
-
-$7.19
-
-Southern Comfort
-
-2 Photos 4 Reviews
-
-$3.23
-
-Bacon and Egg
-
-1 Photo 3 Reviews
-
-$7.19
-
-Magic Mushroom
-
-7 Photos 2 Reviews
-
-$15.59
-
-Mexican Cobb Salad
-
-3 Photos 3 Reviews
-
-Breakfast Tacos
-
-6 Photos 15 Reviews
-
-Roasted Poblano Queso
-
-9 Photos 6 Reviews
-
-Bean and Cheese Taco
-
-3 Photos 4 Reviews
-
-Full menu
-
-## What's the vibe?
-
-See all 23
-
-Inside
-
-23 photos
-
-See all 12
-
-Outside
-
-12 photos
-
-See all 216
-
-All photos
-
-216 photos
-
-Casual
-
-Moderate noise
-
-Outdoor seating
-
-Good for groups
-
-## People also searched for
-
-Breakfast
-
-Breakfast Tacos
-
-Takeout
-
-24 Hour Restaurant
-
-Drive Thru
-
-Breakfast Burrito
-
-## Location & Hours
-
-Suggest an edit
-
-5618 Utsa Blvd
-
-San Antonio, TX 78249
-
-Get directions  
   
-Mon|
-
-  * Closed
-
-|  
-Tue|
-
-  * 6:00 AM - 12:00 AM (Next day)
-
-|  
-Wed|
-
-  * Open 24 hours
-
-|  
-Thu|
-
-  * Open 24 hours
-
-|  
-Fri|
-
-  * Open 24 hours
-
-| Open now  
-Sat|
-
-  * Open 24 hours
-
-|  
-Sun|
-
-  * Open 24 hours
-
-|  
+---  
   
-## Amenities and More
+## Matrix Multiplication Definition
 
-Health Score100 out of 100
+**Matrix multiplication,** also known as matrix product and the multiplication
+of two matrices, produces a single matrix. It is a type of binary operation.
 
-Powered by Health Department Intelligence
+If A and B are the two matrices, then the product of the two matrices A and B
+are denoted by:
 
-Offers Delivery
+**X = AB**
 
-Offers Takeout
+Hence, the product of two matrices is the dot product of the two matrices.  
 
-Takes Reservations
+### Matrix multiplication by Scalar
 
-15 More Attributes
+Multiplication of an integer with a matrix is simply a scalar multiplication.
 
-## Ask the Community
+We know that a matrix is an array of numbers. It consists of rows and columns.
+If you multiply a matrix by a scalar value, then it is known as scalar
+multiplication. Another case is that it is possible to multiply a matrix by
+another matrix. Let’s have a look at the example given below for the same.
 
-Ask a question
+We may define multiplication of a matrix by a scalar mathematically as:
 
-Yelp users haven’t asked any questions yet about Fuego Tortilla Grill.
+If A = [aij]m × n is a matrix and k is a scalar, then kA is another matrix
+obtained by multiplying each element of A by the scalar k.
 
-## Recommended Reviews
+In other words, kA = k [aij]m × n = [k (aij)]m × n, that is, (i, j)th element
+of kA is kaij for all possible values of i and j.
 
-Loading...Loading...Loading...
+**Example:**
 
-Business website
+\\(\begin{array}{l} Multiply\ the\ matrix\ A=\begin{bmatrix} 3 &4 &-1 \\\ 0 &9
+& 5 \end{bmatrix} by\ 4.\end{array} \\)
 
-fuegotortillagrill.com
+**Solution:**
 
-Phone number
+Given,
 
-(210) 868-6248
+\\(\begin{array}{l}A=\begin{bmatrix} 3 &4 &-1 \\\ 0 &9 & 5
+\end{bmatrix}\end{array} \\)
 
-Get Directions
+\\(\begin{array}{l}4 \times A = 4\times \begin{bmatrix} 3 &4 &-1 \\\ 0 &9 & 5
+\end{bmatrix}\end{array} \\)
 
-5618 Utsa Blvd San Antonio, TX 78249
+Now, we have to multiply each element of the matrix A by 4.
 
-Suggest an edit
+\\(\begin{array}{l}=\begin{bmatrix} 12 &16 &-4 \\\ 0 &36 & 20
+\end{bmatrix}\end{array} \\)
 
-About
+This is the required matrix after multiplying the given matrix by the constant
+or scalar value, i.e. 4.  
 
-  * About Yelp
+### Matrix multiplication Condition
+
+To perform **multiplication of two matrices** , we should make sure that the
+number of columns in the 1st matrix is equal to the rows in the 2nd matrix.
+Therefore, the resulting matrix product will have a number of rows of the 1st
+matrix and a number of columns of the 2nd matrix. The order of the resulting
+matrix is the **matrix multiplication order**.
+
+**Also, read:**
+
+  * Algebra of Matrices
+  * Determinants And Matrices
+  * Types of Matrices
+  * Elementary Operation of Matrix
+
+  
+---  
+  
+Now, let’s understand **how to do matrix multiplication** with different
+orders or different types of matrices.  
+
+## How to Multiply Matrices?
+
+Let's learn how to multiply matrices.
+
+Consider matrix A which is a × b matrix and matrix B, which is a b ×c matrix.
+
+Then, matrix C = AB is defined as the A × B matrix.
+
+An element in matrix C, Cxy is defined as:
+
+\\(\begin{array}{l}C_{xy} = A_{x1}B_{y1} + ….+ A_{xb}B_{by} = \sum_{k=1}^{b}
+A_{xk}B_{ky}\end{array} \\)
+
+For x = 1…… a and y= 1…….c
+
+This is one of the most important topics in class 12. Matrices for class 12
+explains the types of matrices in detail.
+
+### Notation
+
+If A is a m×n matrix and B is a p×q matrix, then the matrix product of A and B
+is represented by:
+
+X = AB
+
+Where X is the resulting matrix of m×q dimension.  
+
+## Matrix Multiplication Formula
+
+Let's take an example to understand this formula.
+
+Let’s say A and B are two matrices, such that,
+
+\\(\begin{array}{l}A =\begin{bmatrix} A_{11} &A_{12} & \cdots & A_{1n}\\\
+A_{21} & A_{22} &\cdots & A_{2n} \\\ &…………. &\\\ A_{m1} & A_{m2} &\cdots &
+A_{mn} \end{bmatrix}, B= \begin{bmatrix} B_{11} &B_{12} & \cdots & B_{1n}\\\
+B_{21} &B_{22} &\cdots & B_{2n} \\\ &………….& \\\ B_{m1} & B_{m2} &\cdots &
+B_{mn} \end{bmatrix}\end{array} \\)
+
+Then Matrix C = AB is denoted by
+
+\\(\begin{array}{l} C =\begin{bmatrix} C_{11} C_{12} ……. C_{1c}\\\ C_{21}
+C_{22} …….C_{2c}&\\\ …………… &\\\ C_{a1} C_{a2}…….C_{ac}\end{bmatrix}\end{array}
+\\)
+
+An element in matrix C where C is the multiplication of Matrix A X B.
+
+\\(\begin{array}{l}C_{xy} = A_{x1}B_{y1} + ….+ A_{xb}B_{by} = \sum_{k=1}^{b}
+A_{xk}B_{ky}\end{array} \\)
+
+For x = 1…… a and y= 1…….c  
+
+## Algorithm for Matrix Multiplication
+
+There has been a significant amount of work in recent years in the field of
+matrix multiplication algorithms as it has found its application in many
+areas. There are four types of algorithms:
+
+  * Iterative Algorithm
+  * Divide and conquer algorithm
+  * Sub-cubic algorithms
+  * Parallel and distributed algorithms
+
+This is majorly used in various programming languages such as C, Java, etc.,
+for online multiplication. The most common are 2×2, 3×3 and 4×4,
+multiplication of matrices.
+
+The operation is binary with entries in a set on which the operations of
+addition, subtraction, multiplication, and division are defined. These
+operations are the same as the corresponding operations on real and rational
+numbers.
+
+Although there are many applications of matrices, essentially, multiplication
+of matrices is an operation in linear algebra. The linear mapping, which
+includes scalar addition and multiplication, is represented by matrix
+multiplication.
+
+One can also find a wide range of algorithms on meshes. This type of algorithm
+is designed to minimize the inherent inefficiency of standard array algorithms
+where there can be a delay in the arrival of data from 2 different matrices.  
+
+### Matrix multiplication Rules
+
+From the above defined formula and procedure, we can write the following rules
+and properties for matrix multiplication.
+
+  * The product of two matrices A and B is defined if the number of columns of A is equal to the number of rows of B.
+  * If AB is defined, then BA need not be defined
+  * If both A and B are square matrices of the same order, then both AB and BA are defined.
+  * If AB and BA are both defined, it is not necessary that AB = BA.
+  * If the product of two matrices is a zero matrix, it is not necessary that one of the matrices is a zero matrix.
+
+## 2×2 Matrix Multiplication
+
+Let’s consider a simple 2 × 2 matrix multiplication
+
+\\(\begin{array}{l}A = \begin{bmatrix} 3 & 7\\\ 4 & 9 \end{bmatrix} \ and\ B =
+\begin{bmatrix} 6 & 2\\\ 5 & 8 \end{bmatrix}\end{array} \\)
+
+Now each of the elements of product matrix AB can be calculated as follows:
+
+  * AB11 = 3 × 6 + 7 ×5 = 53
+  * AB12 = 3 × 2 + 7 × 8 = 62
+  * AB21 = 4 × 6 + 9 × 5 = 69
+  * AB22 = 4 × 2 + 9 × 8 = 80
+
+Therefore,
+
+\\(\begin{array}{l}AB = \begin{bmatrix} 53&62 \\\ 69 & 80
+\end{bmatrix}\end{array} \\)
+
+## 3×3 Matrix Multiplication
+
+To understand the multiplication of two 3 × 3 matrices, let us consider two 3
+× 3 matrices A and B.
+
+\\(\begin{array}{l} A = \begin{bmatrix} 12 &8 &4 \\\ 3&17 &14 \\\ 9 & 8& 10
+\end{bmatrix} ,\ B = \begin{bmatrix} 5 & 19 &3 \\\ 6 &15 &9 \\\ 7& 8 & 16
+\end{bmatrix}\end{array} \\)
+
+Each element of the Product matrix AB can be calculated as follows:
+
+  * AB11 = 12×5 + 8×6 + 4×7 = 136
+  * AB12 = 12×19 + 8×15 + 4×8 = 380
+  * AB13 = 12×3 + 8×9+4×16 = 172
+  * AB21 = 3×5 + 17×6 + 14×7 = 215
+  * AB22 = 3×19 + 17×15 + 14×8 = 424
+  * AB23 = 3×3 + 17×9 + 14×16 = 386
+  * AB31 = 9×5 + 8×6 + 10×7 = 163
+  * AB32 = 9×19 + 8×15 + 10×8 = 371
+  * AB33 = 9×3 + 8×9 + 10×16 = 259
+
+Therefore,
+
+\\(\begin{array}{l}AB =\begin{bmatrix} 136 & 380 &172 \\\ 215 &424 &386 \\\
+163& 371 & 259 \end{bmatrix}\end{array} \\)
+
+**Try out** : Matrix Multiplication Calculator
+
+## Properties of Matrix Multiplication
+
+The following are the properties of the matrix multiplication:
+
+### Commutative Property
+
+The matrix multiplication is not commutative.
+
+Assume that, if A and B are the two 2×2 matrices,
+
+AB ≠ BA
+
+In matrix multiplication, the order matters a lot.
+
+For example,
+
+\\(\begin{array}{l}If\ A = \begin{bmatrix} 1 & 2\\\ 3 & 4 \end{bmatrix} \ and\
+B = \begin{bmatrix} 3 & 2\\\ 1 & 4 \end{bmatrix} \ are\ the\ two\ matrices,\
+then\end{array} \\)
+
+\\(\begin{array}{l}A\times B = \begin{bmatrix} 1 & 2\\\ 3 & 4
+\end{bmatrix}\times \begin{bmatrix} 3 & 2\\\ 1 & 4 \end{bmatrix}\end{array}
+\\)
+
+\\(\begin{array}{l}A\times B = \begin{bmatrix} 5 & 10\\\ 13 & 22
+\end{bmatrix}\end{array} \\)
+
+But,
+
+\\(\begin{array}{l}B\times A = \begin{bmatrix} 3 & 2\\\ 1 & 4
+\end{bmatrix}\times \begin{bmatrix} 1 & 2\\\ 3 & 4 \end{bmatrix}\end{array}
+\\)
+
+\\(\begin{array}{l}B\times A = \begin{bmatrix} 9 & 14\\\ 13 & 18
+\end{bmatrix}\end{array} \\)
+
+This shows that the matrix AB ≠BA.
+
+Hence, the multiplication of two matrices is not commutative.
+
+### Associative Property
+
+If A, B and C are the three matrices, the associative property of matrix
+multiplication states that,
+
+(AB) C = A(BC)
+
+\\(\begin{array}{l} Let\ A =\begin{bmatrix} 1 & 2\\\ 1& 1
+\end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}B =\begin{bmatrix} 3 & 2\\\ 1& 2 \end{bmatrix}\end{array}
+\\)
+
+\\(\begin{array}{l}C =\begin{bmatrix} 0 & 1\\\ 2& 3 \end{bmatrix}\end{array}
+\\)
+
+LHS = (AB) C
+
+\\(\begin{array}{l}A\times B = \begin{bmatrix} 1 & 2\\\ 1 & 1 \end{bmatrix}
+\times \begin{bmatrix} 3 & 2 \\\ 1 & 2 \end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}A\times B = \begin{bmatrix} 5 & 6\\\ 4 & 4
+\end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}(AB)C = \begin{bmatrix} 5 & 6\\\ 4 & 4 \end{bmatrix} \times
+\begin{bmatrix} 0 & 1\\\ 2 & 3 \end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}(AB)C = \begin{bmatrix} 12 & 23\\\ 8 & 16
+\end{bmatrix}\end{array} \\)
+
+RHS = A(BC)
+
+\\(\begin{array}{l}BC = \begin{bmatrix} 3 & 2\\\ 1 & 2 \end{bmatrix}\times
+\begin{bmatrix} 0 & 1\\\ 2 & 3 \end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}BC = \begin{bmatrix} 4 & 9\\\ 4 & 7
+\end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}A(BC)= \begin{bmatrix} 1 & 2\\\ 1 & 1 \end{bmatrix}\times
+\begin{bmatrix} 4 & 9\\\ 4 & 7 \end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}A(BC)= \begin{bmatrix} 12 & 23\\\ 8 & 16
+\end{bmatrix}\end{array} \\)
+
+Hence, the associative property of matrix multiplication is proved.
+
+### Distributive Property
+
+If A, B and C are the three matrices, the distributive property of matrix
+multiplication states that,
+
+  * (B+C)A = BA +CA
+  * A(B+C) = AB + AC
+
+### Multiplicative Identity Property
+
+The identity property of matrix multiplication states that,
+
+  1. I = I. A = A
+
+Where A is an n× n matrix and “I” is an identity matrix of order n.
+
+\\(\begin{array}{l}Let\ A = \begin{bmatrix} 2 & 3\\\ 1 & 6 \end{bmatrix} \
+and\ I = \begin{bmatrix} 1 & 0\\\ 0 & 1 \end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}A . I = \begin{bmatrix} 2 & 3\\\ 1 & 6 \end{bmatrix}\times
+\begin{bmatrix} 1 & 0\\\ 0 & 1 \end{bmatrix}\end{array} \\)
+
+\\(\begin{array}{l}A . I = \begin{bmatrix} 2 & 3\\\ 1 & 6 \end{bmatrix} =
+A\end{array} \\)
+
+### Dimension Property
+
+In matrix multiplication, the product of m × n matrix and n×a matrix is the m×
+a matrix.
+
+For example, matrix A is a 2 × 3 matrix and matrix B is a 3 × 4 matrix, then
+AB is a 2 × 4 matrices.
+
+### Multiplicative property of Zero
+
+If a matrix is multiplied by a zero matrix, the result matrix is a zero
+matrix.
+
+\\(\begin{array}{l}If\ A = \begin{bmatrix} 2 & 1\\\ 1 & 2 \end{bmatrix} \ is\
+multiplied\ by\ zero\ matrix\end{array} \\)
+
+\\(\begin{array}{l}i.e.,\ \begin{bmatrix} 0 & 0\\\ 0 & 0
+\end{bmatrix},\end{array} \\)
+
+\\(\begin{array}{l}The\ product\ becomes\ \begin{bmatrix} 0 & 0\\\ 0 & 0
+\end{bmatrix}\end{array} \\)
+
+## Solved Example
+
+Multiplication of 4×4 matrices is explained below with two 4×4 matrices A and
+B.
+
+\\(\begin{array}{l}A =\begin{bmatrix} 7 & 14 & 15 &6 \\\ 4 &8 & 12 &3 \\\ 14 &
+21 & 6 &9 \\\ 13 & 7 &6 & 4 \end{bmatrix},\ B = \begin{bmatrix} 5& 7 & 14 &
+2\\\ 8& 16 & 4 & 9\\\ 13 & 6& 8 & 4\\\ 6& 3 & 2 & 4 \end{bmatrix}\end{array}
+\\)
+
+Following the same steps as in the previous 2 examples, we can construct an AB
+matrix.
+
+\\(\begin{array}{l}AB = \begin{bmatrix} 378 &381 & 286 &224 \\\ 258 & 237 &
+190 & 140\\\ 370 & 497& 346 & 277\\\ 223& 251& 266 & 129
+\end{bmatrix}\end{array} \\)
+
+### Practice Problems on Matrix Multiplication
+
+Solve the following problems:
+
+  1. \\(\begin{array}{l}Find\ the\ product:\ 3\begin{bmatrix} 7 & 5\\\ 2 & 1 \end{bmatrix}\end{array} \\)
+
+  2. \\(\begin{array}{l}Simplify\ the\ following\ 3×3 \ matrix:\ \begin{bmatrix} 1 & 6 & 2 \\\ 2 & 3 & 1\\\ 1 & 1 & 5 \end{bmatrix}\times \begin{bmatrix} 1 & 8 & 7 \\\ 4 & 2 & 3 \\\ 2 & 6 & 1 \end{bmatrix}\end{array} \\)
+
+  3. \\(\begin{array}{l}Find\ the\ product\ of\ AB,\ if\ A =\begin{bmatrix} 5 & 3\\\ 9 & 1 \end{bmatrix} \ and\ B =\begin{bmatrix} 1 & 0\\\ 6 & 12 \end{bmatrix}\end{array} \\)
+
+  4. \\(\begin{array}{l}Find\ the\ product\ of\ the\ matrix,\ if\ A = \begin{bmatrix} 4\\\ 2\\\ 1 \end{bmatrix} \ and\ \begin{bmatrix} 2 & 4 & 6 \end{bmatrix}\end{array} \\)
+
+  5. \\(\begin{array}{l}Calculate:\ \frac{-4}{7}\begin{bmatrix} -22\\\ 49\\\ 35 \end{bmatrix}\end{array} \\)
+
+Learn more about Matrices and other related topics in a fun and enjoyable way.
+Download BYJU'S - The Learning App today.  
+  
+
+## Frequently Asked Questions – FAQs
+
+Q1
+
+### What is matrix multiplication?
+
+Matrix multiplication is a method of finding the product of two matrices to
+get the result as one matrix. It is a type of binary operation.
+
+Q2
+
+### How to multiply two given matrices?
+
+To multiply one matrix with another, we need to check first, if the number of
+columns of the first matrix is equal to the number of rows of the second
+matrix. Now multiply each element of the column of the first matrix with each
+element of rows of the second matrix and add them all. We need to do the dot
+product of columns and rows here.
+
+Q3
+
+### What is the result of multiplication of (2×3) matrix and (3×3) matrix?
+
+The result of multiplication of (2×3) matrix and (3×3) matrix will be 2×3
+matrix only.
+
+Q4
+
+### How to multiply 3×3 matrix?
+
+Multiply each row of the first matrix with each column of the second matrix
+and add all to get the first element. Similarly, multiply and add the elements
+of the two matrices, column and row-wise, to get the elements of the product
+of two 3×3 matrices.
+
+Q5
+
+### How do we find the multiplication of two matrices?
+
+If A is a m×n matrix and B is a p×q matrix, then the multiplication of A and B
+is denoted by dot matrix, such as:  
+C = AB  
+Thus, C will be an m×q matrix.
+
+MATHS Related Links  
+---  
+Math Solution App |  Elimination Method Examples  
+Face Value Of A Number |  Alternate Angles  
+Straight Angle |  Odd And Even Numbers  
+Angle Between Line And Plane |  Multiples Of 8  
+Rational Numbers Class 8 |  Area Of Equilateral Triangle  
+  
+#### Comments
+
+### Leave a Comment Cancel reply
+
+Your Mobile number and Email id will not be published. Required fields are
+marked *
+
+*
+
+Send OTP
+
+Did not receive OTP?
+
+Request OTP on  Voice Call
+
+*
+
+*
+
+Website
+
+*
+
+Grade/Exam Class 1 Class 2 Class 3 Class 4 Class 5 Class 6 Class 7 Class 8
+Class 9 Class 10 Class 11 Class 12 IAS CAT Bank Exam GATE
+
+*
+
+*
+
+Post My Comment
+
+####  CBSE Sample Papers
+
+  * CBSE Sample Papers Class 8 Maths
+  * CBSE Sample Papers Class 9 Maths
+  * CBSE Sample Papers Class 10 Maths
+  * CBSE Sample Papers Class 11 Maths
+  * CBSE Sample Papers Class 12 Maths
+
+####  CBSE Previous Year Question Papers
+
+  * CBSE Previous Year Question Papers Class 12 Maths
+  * CBSE Previous Year Question Papers Class 10 Maths
+
+####  ICSE Sample Papers
+
+  * ICSE Sample Papers Class 8 Maths
+  * ICSE Sample Papers Class 9 Maths
+  * ICSE Sample Papers Class 10 Maths
+  * ISC Sample Papers Class 11 Maths
+  * ISC Sample Papers Class 12 Maths
+
+####  ICSE Previous Year Question Papers
+
+  * ICSE Previous Year Question Papers Class 10
+  * ISC Previous Year Question Papers Class 12 Maths
+
+#### BYJU'S Tuition Centre for Class 4 to 10
+
+  * Class 10 Tuition Centre
+  * Class 9 Tuition Centre
+  * Class 8 Tuition Centre
+  * Class 7 Tuition Centre
+  * Class 6 Tuition Centre
+  * Class 5 Tuition Centre
+  * Class 4 Tuition Centre
+
+#### Join BYJU'S Learning Program
+
+Send OTP
+
+Grade/Exam Class 1 Class 2 Class 3 Class 4 Class 5 Class 6 Class 7 Class 8
+Class 9 Class 10 Class 11 Class 12 IAS CAT Bank Exam GATE
+
+Submit
+
+##### COURSES
+
+  * CBSE
+  * ICSE
+  * CAT
+  * IAS
+  * JEE
+  * NEET
+  * Commerce
+  * JEE Main
+  * NCERT
+  * JEE Advanced
+  * UPSC Prelims 2022 Question Paper
+  * UPSC Prelims 2022 Answer Key
+  * IAS Coaching
+  * CBSE Sample Papers
+  * CBSE Question Papers
+
+##### EXAMS
+
+  * CAT Exam
+  * CAT 2023
+  * GATE Exam
+  * GATE 2024
+  * IAS Exam
+  * UPSC Exam
+  * UPSC Syllabus
+  * UPSC 2023
+  * Bank Exam
+  * Government Exams
+  * Education News
+
+##### CLASSES
+
+  * Kids Learning
+  * Class 1st - 3rd
+  * Class 4th - 5th
+  * Class 6th - 10th
+  * Class 11th - 12th
+  * BYJU'S Tuition Centre
+
+##### EXAM PREPARATION
+
+  * Free CAT Prep
+  * Free IAS Prep
+  * Maths
+  * Physics
+  * Chemistry
+  * Biology
+  * JEE 2024
+  * JEE Advanced 2023 Question Paper with Answers
+  * JEE Main Mock Test
+  * JEE Main 2024 Question Papers with Answers
+  * JEE Main 2023 Question Papers with Answers
+  * JEE Advanced 2022 Question Paper with Answers
+  * NEET 2023 Question Paper
+  * NEET 2023 Question Paper Analysis
+  * NEET 2022 Answer Key
+
+##### RESOURCES
+
+  * CAT College Predictor
+  * Worksheets
+  * BYJU'S Answer
+  * DSSL
+  * Home Tuition
+  * All Products
+  * Calculators
+  * Formulas
+
+##### COMPANY
+
+  * About Us
+  * Contact Us
+  * Contact our Financial Partners
+  * Investors
+  * Compliance
   * Careers
-  * Press
-  * Investor Relations
-  * Trust & Safety
-  * Content Guidelines
-  * Accessibility Statement
-  * Terms of Service
-  * Privacy Policy
-  * Ad Choices
-  * Your Privacy Choices
-
-Discover
-
-  * Yelp Project Cost Guides
-  * Collections
-  * Talk
-  * Events
-  * Yelp Blog
+  * CIRP
+  * BYJU'S in Media
+  * Social Initiative - Education for All
+  * BYJU'S APP
+  * FAQ
   * Support
-  * Yelp Mobile
-  * Developers
-  * RSS
-
-Yelp for Business
-
-  * Yelp for Business
-  * Business Owner Login
-  * Claim your Business Page
-  * Advertise on Yelp
-  * Yelp for Restaurant Owners
-  * Table Management
-  * Business Success Stories
-  * Business Support
-  * Yelp Blog for Business
-  * Yelp Data for B2B
-  * Yelp Data for B2C
-
-Languages
-
-English
-
-Cities
-
-Explore a City
-
-Austin
-
-Baltimore
-
-Charlotte
-
-Chicago
-
-Colorado Springs
-
-Columbus
-
-Dallas
-
-Denver
-
-Detroit
-
-El Paso
-
-Fort Worth
-
-Houston
-
-Indianapolis
-
-Jacksonville
-
-Las Vegas
-
-Los Angeles
-
-Miami
-
-Nashville
-
-New York
-
-Oklahoma City
-
-Philadelphia
-
-Phoenix
-
-Portland
-
-Sacramento
-
-San Antonio
-
-San Diego
-
-San Francisco
-
-San Jose
-
-Seattle
-
-Washington
-
-  * About
-
+  * Students Stories - The Learning Tree
+  * Faces of BYJU'S – Life at BYJU'S
   * Blog
+  * BYJU'S Give
 
-  * Support
+##### FOLLOW US
 
-  * Terms
+##### FREE TEXTBOOK SOLUTIONS
 
-  * Privacy Policy
+  * NCERT Solutions
+  * NCERT Exemplar
+  * NCERT Solutions for Class 6
+  * NCERT Solutions for Class 7
+  * NCERT Solutions for Class 8
+  * NCERT Solutions for Class 9
+  * NCERT Solutions for Class 10
+  * NCERT Solutions for Class 11
+  * NCERT Solutions for Class 11 English
+  * NCERT Solutions for Class 12 English
+  * NCERT Solutions for Class 12
+  * RD Sharma Solutions
+  * RD Sharma Class 10 Solutions
+  * ICSE Selina Solutions
 
-  * Your Privacy Choices
+##### STATE BOARDS
 
-Copyright © 2004–2025 Yelp Inc. Yelp, Elite Squad,  ,  and related marks are
-registered trademarks of Yelp.
+  * Maharashtra
+  * Gujarat
+  * Tamil Nadu
+  * Karnataka
+  * Kerala
+  * Andhra Pradesh
+  * Telangana
+  * Uttar Pradesh
+  * Bihar
+  * Rajasthan
+
+  * Madhya Pradesh
+  * West Bengal
+
+##### FOLLOW US
+
+  * Disclaimer  
+
+  * Privacy Policy  
+
+  * Terms of Services  
+
+  * Sitemap
+
+© 2025, BYJU'S. All rights reserved.
+
+#### Register with BYJU'S & Download Free PDFs
+
+*
+
+Send OTP
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Grade Class 1 Class 2 Class 3 Class 4 Class 5 Class 6 Class 7 Class 8 Class 9
+Class 10 Class 11 Class 12 IAS CAT Bank Exam GATE
+
+Download Now
+
+#### Register with BYJU'S & Watch Live Videos
+
+*
+
+Send OTP
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Grade Class 1 Class 2 Class 3 Class 4 Class 5 Class 6 Class 7 Class 8 Class 9
+Class 10 Class 11 Class 12 IAS CAT Bank Exam GATE
+
+Watch Now
 

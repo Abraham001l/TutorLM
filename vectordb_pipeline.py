@@ -19,13 +19,21 @@ def connect_to_client():
         cluster_url=REST_url,
         auth_credentials=Auth.api_key(wev_api_key),
         additional_config=wvc.init.AdditionalConfig(
-            timeout=wvc.init.Timeout(init=60)  # Increase timeout to 60 seconds
+            timeout=wvc.init.Timeout(init=100)  # Increase timeout to 60 seconds
         )
     )
     return client
 
 # ---------- Creating Collection ----------
 def create_collection(client, collection_name):
+    """
+    Parameters:
+    client (WeaviateClient): weaviate client
+    collection_name (string): name of collection being created
+    
+    Returns:
+    db (Collection): weaviate vector data base
+    """
     db = client.collections.create(
         name=collection_name,
         vectorizer_config=Configure.Vectorizer.text2vec_weaviate(),
@@ -35,19 +43,41 @@ def create_collection(client, collection_name):
 
 # ---------- Get Collection ----------
 def get_collection(client, collection_name):
+    """
+    Parameters:
+    client (WeaviateClient): weaviate client
+
+    Returns:
+    db (Collection): weaviate vector data base
+    """
     return client.collections.get(collection_name)
 
 # ---------- Adding Data ----------
-def add_data(db, data, keys):
-    with db.batch.dynamic() as batch:
+def add_data(vdb, data, keys):
+    """
+    Parameters:
+    vdb (Collection): weaivate vector data base
+    data (list<dict>): dictionary of docs in this format: [{"data":"actual data1"},...,{"data":"actual data2"}]
+    keys (list<string>): list of keys for key-value pairs which is in each data entry in data *all data needs to have the same format*
+    """
+    with vdb.batch.dynamic() as batch:
         # looping throw data to add to batch
         for d in data:
             obj = {key:d[key] for key in keys}
             batch.add_object(obj)
 
 # ---------- Querying Data ----------
-def query_data(db, query, limit):
-    response = db.query.near_text(
+def query_data(vdb, query, limit):
+    """
+    Parameter:
+    vdb (Collection): weaviate vector data base
+    query (string): the query
+    limit (int): how many docs to query
+
+    Returns:
+    response (objects): list of objects in format: [{"data":"actual data1"},...,{"data":"actual data2"}]
+    """
+    response = vdb.query.near_text(
         query=query,
         limit=limit
     )
@@ -56,6 +86,7 @@ def query_data(db, query, limit):
 # ---------- Print Data ----------
 def print_data(data):
     for obj in data.objects:
+        print(obj.properties['content'])
         print(json.dumps(obj.properties, indent=2))
 
 # ---------- Close Client ----------

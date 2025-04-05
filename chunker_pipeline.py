@@ -4,6 +4,13 @@ from vectordb_pipeline import add_data
 
 # ---------- Chunker Function ----------
 def chunk(text):
+    """
+    Parameters:
+    text (string): text which will be split into chunks
+
+    Returns:
+    docs (list<string>): A list of chunks(strings) which the text has been split into
+    """
     # Initialize Ollama embeddings
     embeddings = OllamaEmbeddings(model="mxbai-embed-large")
 
@@ -17,6 +24,6 @@ def chunk(text):
 
 # ---------- Adding Chunks To DB ----------
 def chunks_to_db(db, chunks):
-    chunks = [{'content':chunk} for chunk in chunks]
+    chunks = [{'data':chunk} for chunk in chunks]
     add_data(db, chunks, ['content'])
 

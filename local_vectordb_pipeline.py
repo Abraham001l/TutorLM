@@ -10,7 +10,7 @@ def create_local_vec_store():
     # Creating Local Vector Store
     vector_store = Chroma(
         embedding_function=embeddings
-    )
+        )
     return vector_store
 
 # ---------- Adding Documents Vector Store Function ----------
@@ -21,6 +21,7 @@ def add_docs_to_store(vector_store, docs):
             page_content=doc
         ))
     vector_store.add_documents(documents=documents)
+    return vector_store
 
 # ---------- Query Search Function ----------
 def query_search(vector_store, query, k):
@@ -29,3 +30,7 @@ def query_search(vector_store, query, k):
     )
     results = [result.page_content for result in results]
     return results
+
+def close_vec_store(vector_store):
+    vector_store.delete_collection()
+    vector_store._client.close()

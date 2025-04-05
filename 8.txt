@@ -1,1221 +1,571 @@
-  * Forums
-  * Football
-    * News
-    * Schedule
-    * SEC Standings
-    * Roster
-    * Staff
-    * Class Breakdown
-  * Recruiting
-    * News
-    * A&M Commits
-    * A&M Offers
-    * Liucci 44
-    * Rankings
-    * Out of State
-    * All Recruits
-    * Basketball Recruiting
-  * Sports
-    * Football
-    * Basketball
-    * Baseball
-    * Women's Basketball
-    * Soccer
-    * Softball
-    * Volleyball
-  * Premium
-    * Premium Feed
-    * Chat
-    * Subscription Benefits
-    * Subscribe Now
-  * Sponsors
-    * Sponsors
-    * Advertise With Us
-  * United
-  * More
-    * Podcasts
-    * Media
-    * TexAgs Live
-    * Post of the Day
-    * iOS App
-    * Search
-    * Store
-    * Pick-Off
-    * 12th Man Foundation
-    * Our Staff
-    * Contact Us
-    * Help Center
-
-Live
-
-LIVE CHAT
+Skip to main content
 
-0 USERS
+Stack Overflow
 
-subscribe
+  1. About
+  2. Products 
+  3. OverflowAI
 
-Log In | Register
+  1. Stack Overflow for Teams Where developers & technologists share private knowledge with coworkers
+  2. Advertising & Talent Reach devs & technologists worldwide about your product, service or employer brand
+  3. OverflowAI GenAI features for Teams
+  4. OverflowAPI Train & fine-tune LLMs
+  5. Labs The future of collective knowledge sharing
+  6. About the company Visit the blog
 
-  *   * admin menu
+Loading…
 
-Sports Forums
+  1. ###  current community
 
-Billy Liucci's TexAgs Premium  The Premium Pub  Aggies Only  Varsity  Texas
-A&M Football  Texas A&M Men's Basketball  Texas A&M Women's Basketball  Texas
-A&M Baseball & Softball  Texas A&M Soccer  SEC Country  Old Rivalries  NFL &
-Fantasy Football  NBA & Other Basketball  MLB & Other Baseball  Recruiting
-Outdoors  Golf  Other Sports  Ticket Exchange
+     * Stack Overflow 
 
-General Forums
+help chat
 
-Five Star General  General  The Student Section  Job Network  Entertainment
-Food & Spirits  Bonfire  Religion & Philosophy  Politics  Business & Investing
-Real Estate  Academics  Automotive  The Nerdery  Health & Fitness  Military
-History  Classifieds  Travel  Home Improvement
+     * Meta Stack Overflow 
 
-Aggie Network Forums
+###  your communities
 
-Aggieland  Austin  San Antonio  Metroplex  Houston  Central Texas  Panhandle /
-South Plains  West Texas  South Texas  East Texas  Gulf Coast  Around the
-Nation  Across the Globe
+Sign up or log in to customize your list.
 
-Public Service Forums
+### more stack exchange communities
 
-Coronavirus/COVID-19 News & Information
+company blog
 
-Support Forums
+  2.   3. Log in
+  4. Sign up
 
-Technical Support
+  1.     1. Home
 
-Aggieland
+    2. Questions
 
-Sponsored by
+    3. Tags
 
-Post Reply
+    4.     5. Discussions Labs
 
-1 of 2
+    6. Chat
 
-Last 1 2
+    7. Users
 
-Next Page
+    8.     9. Companies
 
-## Fuego Tortilla Grill - Welcome to myBCS!
+    10. Collectives
 
-8,119 Views | 48 Replies | Last: 14 yr ago by FuegoTortillaGrill
+    11. Communities for your favorite technologies. Explore all Collectives
 
-AmandaNorthcutt
+  2. Teams
 
-You must be a  subscriber to .
+Ask questions, find answers and collaborate at work with Stack Overflow for
+Teams.
 
-Subscribe Now
+Try Teams for free Explore Teams
 
-**Joined:** Aug 29, 2007
+  3. Teams
 
-**Posts:** 4,466
+  4. Ask questions, find answers and collaborate at work with Stack Overflow for Teams. Explore Teams
 
-User Profile Ignore User Stop Ignoring
+##### Collectives™ on Stack Overflow
 
-How long do you want to ignore this user?
+Find centralized, trusted content and collaborate around the technologies you
+use most.
 
-24 hours One week Permanently Cancel
+Learn more about Collectives
 
-10:59p, 7/14/10
+**Teams**
 
-AG
+Q&A for work
 
-Please welcome new myBCS sponsor, Fuego Tortilla Grill! Here's a bit about
-them:  
-  
-Fuego Tortilla Grill is like nothing else in town. This authentic Mexican taco
-grill is the brain child of owner/operator Paul Moler. If you've been to
-Fuego, Paul is the gentleman in the Hawaiian shirt and khaki shorts who
-probably came to your table himself to greet you and make sure that both your
-food and experience were top notch! Paul is a seasoned restaurateur from San
-Antonio and this is his first venture in B/CS. The entire Fuego house staff is
-made up of current A&M; students and the back house staff are experts in
-Mexican cooking.  
-  
-Fuego's hours are currently 6am -10pm every day, but Paul has plans to move to
-being open 24 hours this fall. Stop by Fuego for a fun dine-in experience, or
-zip through the drive-thru for breakfast, lunch, and dinner. Paul is very
-thankful for the support of the myBCS community and is looking forward to fun
-interaction, contests, and specials on the forum! Keep your eyes peeled for
-tailgate packages and other Fuego announcements.  
-  
-As always, thank you for supporting our sponsors!  
-**
+Connect and share knowledge within a single location that is structured and
+easy to search.
 
-Reply Quote
+Learn more about Teams
 
-0
+# Why can GPU do matrix multiplication faster than CPU?
 
-Horatius
+Ask Question
 
-You must be a  subscriber to .
+Asked 6 years, 8 months ago
 
-Subscribe Now
+Modified 8 months ago
 
-**Joined:** Feb 3, 2008
+Viewed 31k times
 
-**Posts:** 5,823
+20
 
-User Profile Ignore User Stop Ignoring
+I've been using GPU for a while without questioning it but now I'm curious.
 
-How long do you want to ignore this user?
+Why can GPU do matrix multiplication much faster than CPU? Is it because of
+parallel processing? But I didn't write any parallel processing code. Does it
+do it automatically by itself?
 
-24 hours One week Permanently Cancel
+Any intuition / high-level explanation will be appreciated!
 
-11:01p, 7/14/10
+  * tensorflow
+  * parallel-processing
+  * gpu
+  * matrix-multiplication
+  * pytorch
 
-Sweet Kitten Feet
+Share
 
-You must be a  subscriber to .
+Improve this question
 
-Subscribe Now
+Follow
 
-**Joined:** Oct 20, 2007
+edited Apr 13, 2020 at 13:14
 
-**Posts:** 23,032
+nbro
 
-User Profile
+15.9k3434 gold badges120120 silver badges214214 bronze badges
 
-Private Message
+asked Jul 14, 2018 at 22:58
 
-Ignore User Stop Ignoring
+aerinaerin
 
-How long do you want to ignore this user?
+22.8k3333 gold badges113113 silver badges148148 bronze badges
 
-24 hours One week Permanently Cancel
+3
 
-11:08p, 7/14/10
+  * 2
 
-S
+Yes because of massively parallel computation. You might have not written any
+parallel code, but tf or torch built-in modules are optimized to run on gpu
+(parallelized)
 
-Good food**
+- Umang Gupta
 
-Reply Quote
+Commented Jul 15, 2018 at 0:01
 
-0
+  * 6
 
-ShipWreckGrill
+I really don't understand people who downvoted or wanted this question to be
+closed. It's an important question to ask for some people.
 
-You must be a  subscriber to .
+- aerin
 
-Subscribe Now
+Commented Jul 15, 2018 at 20:55
 
-**Joined:** Oct 26, 2009
+  * @Aaron will leave it closed, because the answer explains it - and follow-up questions concerning CuDa programming would rather be appropriate for SO. it is not that it would be a "bad" question, "too broad" means, that one could write a book about it
 
-**Posts:** 1,196
+- Martin Zeitler
 
-User Profile Ignore User Stop Ignoring
+Commented Oct 9, 2018 at 20:05
 
-How long do you want to ignore this user?
+Add a comment  | 
 
-24 hours One week Permanently Cancel
+##  4 Answers 4
 
-11:09p, 7/14/10
+Sorted by:  Reset to default
 
-Welcome...Paul= good folk!**
+Highest score (default)  Trending (recent votes count more)  Date modified
+(newest first)  Date created (oldest first)
 
-Reply Quote
+24
 
-0
+### How do you parallelize the computations?
 
-halfpint05
+GPU's are able to do a lot of parallel computations. A Lot more than a CPU
+could do. Look at this example of vector addition of let's say 1M elements.
 
-You must be a  subscriber to .
+Using a CPU let's say you have 100 maximum threads you can run : (100 is lot
+more but let's assume for a while)
 
-Subscribe Now
+In a typical multi-threading example let's say you parallelized additions on
+all threads.
 
-**Joined:** Oct 26, 2003
+Here is what I mean by it :
 
-**Posts:** 1,715
+    
+    
+    c[0] = a[0] + b[0] # let's do it on thread 0
+    c[1] = a[1] + b[1] # let's do it on thread 1
+    c[101] = a[101] + b[101] # let's do it on thread 1
+    
 
-User Profile Ignore User Stop Ignoring
+We are able to do it because value of c[0], doesn't depend upon any other
+values except a[0] and b[0]. So each addition is independent of others. Hence,
+we were able to easily parallelize the task.
 
-How long do you want to ignore this user?
+As you see in above example that simultaneously all the addition of 100
+different elements take place saving you time. In this way it takes 1M/100 =
+10,000 steps to add all the elements.
 
-24 hours One week Permanently Cancel
+* * *
 
-11:10p, 7/14/10
+### How Efficient does GPU Parallelizes?
 
-Welcome to mybcs/texags. Love the food! The widowmaker sauce is second to
-none.**
+Now consider today's GPU with about 2048 threads, all threads can
+independently do 2048 different operations in constant time. Hence giving a
+boost up.
 
-Reply Quote
+In your case of matrix multiplication. You can parallelize the computations,
+Because GPU have much more threads and in each thread you have multiple
+blocks. So a lot of computations are parallelized, resulting quick
+computations.
 
-0
+* * *
 
-Costa and Andreas
+> But I didn't write any parallel processing for my GTX1080! Does it do it by
+> itself?
 
-You must be a  subscriber to .
+Almost all the framework for machine learning uses parallelized implementation
+of all the possible operations. This is achieved by CUDA programming, NVIDIA
+API to do parallel computations on NVIDIA GPU's. You don't write it
+explicitly, it's all done at low level, and you do not even get to know.
 
-Subscribe Now
+Yes it doesn't mean that a C++ program you wrote will automatically be
+parallelized, just because you have a GPU. No, you need to write it using
+CUDA, only then it will be parallelized, but most programming framework have
+it, So it is not required from your end.
 
-**Joined:** May 12, 2010
+Share
 
-**Posts:** 735
+Improve this answer
 
-User Profile Ignore User Stop Ignoring
+Follow
 
-How long do you want to ignore this user?
+edited Mar 2, 2020 at 11:21
 
-24 hours One week Permanently Cancel
+answered Jul 15, 2018 at 4:28
 
-11:14p, 7/14/10
+coder3101coder3101
 
-I have visited with Paul and like him and his restaurant very much. As a
-fellow restaurant owner, much respect and well wishes.  
-  
-Just ate there last night with the wife and kids.  
-**
+4,17533 gold badges2828 silver badges3030 bronze badges
 
-Reply Quote
+3
 
-0
+  * 3
 
-MB19
+I don't think your thread analogy is correct. Computations are CPU processor
+bound, not thread bound. Thus on a 4 core CPU with 2048 threads, you can only
+do 4 parallel mathematical operations _in parallel_. This goes up a bit with
+SIMD. However, a GPU is comprised of many many smaller processors, which means
+it can highly parallelise the computations.
 
-You must be a  subscriber to .
+- Rambatino
 
-Subscribe Now
+Commented Feb 11, 2021 at 16:54
 
-**Joined:** Oct 11, 1999
+  * x86 processor have 2 threads per core, so a 4 core processor has 8 threads and if utilised efficiently they can all run in parallel. The above analogy of 100 CPU threads is realistic, in 64 core processor, you can in fact run 128 parallel threads. You can create as many threads you want say 2048 in a CPU as well but only 128 (on 64 core) of them will run in parallel rest will be concurrently executed. So I think it is not processor bound but number of threads a processor run in parallel.
 
-**Posts:** 12,629
+- coder3101
 
-User Profile
+Commented Feb 13, 2021 at 2:40
 
-Private Message
+  * For instance, Apple M1 has 1 thread per core, so 8 Core M1 can run only 8 threads. Clearly computation is not Core bound but total threads a processor can run in parallel. For simplicity ignore SIMD instructions.
 
-Ignore User Stop Ignoring
+- coder3101
 
-How long do you want to ignore this user?
+Commented Feb 13, 2021 at 2:45
 
-24 hours One week Permanently Cancel
+Add a comment  | 
 
-11:34p, 7/14/10
+13
 
-AG
+Actually this question led me to take Computer Architecture class from UW (Dr.
+Luis Ceze). Now I can answer this question.
 
-Fuego...good stuff.**
+To sum it up, it's because of the hardware specialization. We can tailor the
+chip architecture to balance between specialization and efficiency (more
+flexible vs more efficient). For example, GPU is highly specialized for
+parallel processing, while CPU is designed to handle many different kinds of
+operations.
 
-Reply Quote
+In addition, FPGA, ASIC are more specialized than GPU. (Do you see blocks for
+processing units?)
 
-0
+Share
 
-Flatlander
+Improve this answer
 
-You must be a  subscriber to .
+Follow
 
-Subscribe Now
+edited Apr 10, 2021 at 16:37
 
-**Joined:** Nov 19, 2008
+answered Apr 5, 2020 at 15:35
 
-**Posts:** 349
+aerinaerin
 
-User Profile Ignore User Stop Ignoring
+22.8k3333 gold badges113113 silver badges148148 bronze badges
 
-How long do you want to ignore this user?
+2
 
-24 hours One week Permanently Cancel
+  * In my understanding, FPGAs are more flexible than CPUs or GPUs (you can literally re-program the gates and memory to perform any hardware function in the field), yet less efficient (re-programmability resources (extra muxes and wiring) consume extra chip area and also affect speed, as signals must pass through more gates / routing). E.g. an FPGA can be reprogrammed to include CPUs, GPUs (and even sometimes it will **reprogram itself**). Lovely infographics but IMO I think FPGAs should be on the far left of the last image.
 
-12:28a, 7/15/10
+- Ralph
 
-I tried Fuego out on day one, and have kept going back. I can't say enough
-good about this place. Outstanding! Keep up the good work Paul.**
+Commented Jul 15, 2022 at 1:33
 
-Reply Quote
+  * 1
 
-0
+@Ralph Her infographic is referring to more flexibility of _types of
+instructions_ you can send the processing unit _after it 's been setup_. Using
+an FPGA as an accelerator means you have specific instructions you want it to
+be able to handle and you are stripping out any non-necessary logic in the
+accelerator use-case. Asic is simply the baking of that design in silicon. You
+are also correct that you _can_ reprogram an FPGA to be a soft-cpu, but that's
+not the specific application of FPGA use case here.
 
-ZachTheGoodAg
+- horta
 
-You must be a  subscriber to .
+Commented Jun 7, 2024 at 15:32
 
-Subscribe Now
+Add a comment  | 
 
-**Joined:** May 22, 2007
+2
 
-**Posts:** 304
+GPU design traditionally focuses on maximizing floating point units and doing
+multidimensional array operations. They were originally designed for graphics,
+and linear math is useful.
 
-User Profile
+CPUs are optimized for general computing and single-threaded execution. Each
+execution unit is large and sophisticated.
 
-Private Message
+Share
 
-Ignore User Stop Ignoring
+Improve this answer
 
-How long do you want to ignore this user?
+Follow
 
-24 hours One week Permanently Cancel
+answered Feb 20, 2021 at 15:38
 
-9:31a, 7/15/10
+BrentBrent
 
-AG
+4,30344 gold badges3636 silver badges6767 bronze badges
 
-Great place. I actually was in there once and asked Paul if he had read the
-comments online on myBCS.com and he wasn't familiar with it. I suggested he
-ought to and I guess he did!  
-  
-Very good addition to our eating community.  
-  
-  
-ZTGA**
+Add a comment  | 
 
-Reply Quote
+1
 
-0
+The GPU has multiple hardware units that can operate on multiple matrices in
+parallel. For example, for performing 100 matrix multiplications on a CPU that
+has 4 multiplier units, it would take 25 iterations. On the other hand, a GPU
+with 128 multiplier units would get them done in one iteration. This is what
+all responses so far have addressed.
 
-SeamlessHomeProd
+I would state that in addition to that, each matrix can be further partitioned
+into sub matrices and the multiplication of these submatrices could be done in
+parallel. The GPU can leverage this feature and generate a faster response.
+Further, certain matrices can be calculated much faster when broken down into
+submatrices and the GPU will excel there as well.
 
-You must be a  subscriber to .
+Share
 
-Subscribe Now
+Improve this answer
 
-**Joined:** Feb 17, 2010
+Follow
 
-**Posts:** 33
+answered Jul 12, 2024 at 1:33
 
-User Profile
+HyakutakeHyakutake
 
-Private Message
+1111 bronze badge
 
-Ignore User Stop Ignoring
+Add a comment  | 
 
-How long do you want to ignore this user?
+##  Your Answer
 
-24 hours One week Permanently Cancel
+Thanks for contributing an answer to Stack Overflow!
 
-9:33a, 7/15/10
+  * Please be sure to _answer the question_. Provide details and share your research!
 
-AG
+But _avoid_ …
 
-Welcome!  
-  
-Sponsor Message: Seamless Home Products | Seamless Gutters | Insulated Patio Covers | Screened-in Porches | 979.779.3400**
+  * Asking for help, clarification, or responding to other answers.
+  * Making statements based on opinion; back them up with references or personal experience.
 
-Reply Quote
+To learn more, see our tips on writing great answers.
 
-0
+Draft saved
 
-OneGood2011Ag
+Draft discarded
 
-You must be a  subscriber to .
+### Sign up or log in
 
-Subscribe Now
+Sign up using Google
 
-**Joined:** Jun 16, 2010
+Sign up using Email and Password
 
-**Posts:** 3,224
+Submit
 
-User Profile Ignore User Stop Ignoring
+### Post as a guest
 
-How long do you want to ignore this user?
+Name
 
-24 hours One week Permanently Cancel
+Email
 
-10:34a, 7/15/10
+Required, but never shown
 
-AG
+### Post as a guest
 
-My wife and I enjoyed this place, although we apparently missed the owner when
-we were there.  
-  
-Two comments:  
-  
-The Widow Maker is weak. You can't give something a name like that and still
-have a customer such as myself have to go add more hot sauce and jalapenos
-from the bar to make it spicy enough.  
-  
-The corn dish was a huge disappointment. Seriously, go find any street vendor
-and let them show you how to take a cup of corn, add chile, butter, cheese,
-etc. to make a really tasty treat.  
-  
-The tenderloin taco and the salad with the pumpkin seeds were both superb,
-though, and we will be back again soon, since this is walking distance from
-our home.**
+Name
 
-Reply Quote
+Email
 
-0
+Required, but never shown
 
-barney94
+Post Your Answer  Discard
 
-You must be a  subscriber to .
+By clicking “Post Your Answer”, you agree to our terms of service and
+acknowledge you have read our privacy policy.
 
-Subscribe Now
+Start asking to get answers
 
-**Joined:** Dec 13, 1999
+Find the answer to your question by asking.
 
-**Posts:** 4,298
+Ask question
 
-User Profile
+Explore related questions
 
-Private Message
+  * tensorflow
+  * parallel-processing
+  * gpu
+  * matrix-multiplication
+  * pytorch
 
-Ignore User Stop Ignoring
+See similar questions with these tags.
 
-How long do you want to ignore this user?
+  * The Overflow Blog 
+  * Not all AI is generative: Efficient scheduling with mathematics
 
-24 hours One week Permanently Cancel
+  * From training to inference: The new role of web data in LLMs
 
-1:07p, 7/15/10
+  * Featured on Meta 
+  * Changes to reporting for the [status-review] escalation process
 
-AG
+  * Policy: Generative AI (e.g., ChatGPT) is banned
 
-I took my daughter there and we loved the place. We had al pastor, carnitas,
-and migas - all were quite good!  
-  
-My only issue: you can't have a place named Fuego and have fresh salsa that is
-not hot at all! It basically tasted like fresh tomatoes and salt. I went with
-some of the bottled hot sauce to augment, but I think a spicy, fresh salsa
-would be better.  
-  
-Real good food, cool concept. I'm sure when fall comes I won't be able to get
-into the place, the students will like it a lot.  
-  
-[This message has been edited by barney94 (edited 7/15/2010 12:08p).]**
+  * Exploring content beyond Q&A: A discussion about closed (and potentially...
 
-Reply Quote
+Visit chat
 
-0
+#### Linked
 
-Meghan at Traditions
+565
 
-You must be a  subscriber to .
+What do the terms "CPU bound" and "I/O bound" mean?
 
-Subscribe Now
+#### Related
 
-**Joined:** Feb 11, 2010
+1
 
-**Posts:** 140
+CUDA 8.0, GTX 1080, why is vector addition slower than matrix multiplication
+by 5x?
 
-User Profile
+8
 
-Private Message
+Speedup GPU vs CPU for matrix operations
 
-Ignore User Stop Ignoring
+7
 
-How long do you want to ignore this user?
+Basic multi GPU parallelization of matrix multiplication
 
-24 hours One week Permanently Cancel
+2
 
-1:56p, 7/15/10
+PyTorch Slow Batch matrix multiplication on GPU
 
-Culligan Water
+2
 
-You must be a  subscriber to .
+Tensorflow matrix multiplication is slower than numpy
 
-Subscribe Now
+3
 
-**Joined:** Jun 17, 2010
+Why is numpy.dot as fast as these GPU implementations of matrix
+multiplication?
 
-**Posts:** 140
+1
 
-User Profile
+Why is my CPU doing matrix operations faster than GPU instead?
 
-Private Message
+3
 
-Ignore User Stop Ignoring
+Why is my GPU slower than CPU in matrix operations?
 
-How long do you want to ignore this user?
+3
 
-24 hours One week Permanently Cancel
+Why multiplication on GPU is slower than on CPU?
 
-1:56p, 7/15/10
+2
 
-Welcome...I need to get over and eat at your place!**
+Tensorflow performance drop for second calculation
 
-Reply Quote
+####  Hot Network Questions
 
-0
+  * What is willful blindness? 
+  * How to compute a valid lower bound in column generation with heuristic pricing 
+  * How do I write only five-word sentences? 
+  * Grammar Error in Frank Herbert's Children of Dune? 
+  * Term for a book that is dedicated to listing other books about a certain topic 
+  * Does sphere eversion require the axiom of choice? 
+  * When reporting the scores of a game in the form of "X lost Y-Z to W", Should Y be the score of X or W? 
+  * Sefer Hatanya- Learning resources 
+  * Is it advisable for beginners to learn new piano music from falling notes notation? 
+  * Is it normal that a professor in a class I am taking asks to design a graduate course in return of 40% of the course grades? 
+  * mathematical metaphors in Alice's adventures 
+  * Double alignment in align environment 
+  * Speciation while populating a planet from a colony ship 
+  * The Cutting Room Floor 
+  * Can I remove these laptop fan parts? 
+  * Is there any problem with too much (or false) precision? 
+  * Why Does R Allow Omitting {} in Function Definitions? 
+  * Help identify this very early airplane, possibly filmed by Anthony Fokker circa 1905 
+  * When only three sides are shown, can a Rubik's Cube be impossible? 
+  * A cube somewhere around 
+  * Use of the Present Simple as instantaneous present when the listener is present physically 
+  * Apeman cryptic crossword 
+  * Highlighting a region on a unit ball 
+  * CPU number not equal to threads per core X cores per socket X sockets 
 
-MarineBQ04
+more hot questions
 
-You must be a  subscriber to .
+Question feed
 
-Subscribe Now
+#  Subscribe to RSS
 
-**Joined:** Dec 19, 2003
+Question feed
 
-**Posts:** 2,140
+To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
 
-User Profile Ignore User Stop Ignoring
+##### Stack Overflow
 
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-1:57p, 7/15/10
-
-AG
-
-The widowmaker sauce is sometimes variable. It depends upon who makes it.**
-
-Reply Quote
-
-0
-
-ScreenedImages
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jun 28, 2010
-
-**Posts:** 35
-
-User Profile
-
-Private Message
-
-Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-1:57p, 7/15/10
-
-Welcome!  
-  
-Sponsor Message: * Screened Images * 979-260-9891 *
-www.screenedimagesonline.com ***
-
-Reply Quote
-
-0
-
-csagyo
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Aug 19, 2008
-
-**Posts:** 3,621
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-2:26p, 7/15/10
-
-Eaten there 3 times. Loved it.  
-  
-Sonora dog once and tacos al carbon twice.  
-  
-trying the fish taco next times!**
-
-Reply Quote
-
-0
-
-BusAg
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Oct 25, 2001
-
-**Posts:** 2,541
-
-User Profile
-
-Private Message
-
-Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-3:10p, 7/15/10
-
-AG
-
-Tried a taco recommended by a friend-pulled rotisserie chicken and added beans
-and poblano queso. Tasty!  
-  
-Was crowded with a lunch crowd but I was there to get my order to go. Was in
-and out within 5 min. **
-
-Reply Quote
-
-0
-
-amadeob
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jul 15, 2010
-
-**Posts:** 44
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-3:48p, 7/15/10
-
-i eat at fuegos everyday sometimes several times a day. yesterday they ran out
-of chicken and i notice that on the weekends the rice tastes better (different
-cooks maybe) but overall they are better than any other mexican fast food
-restaurant in town by far. i just hope they keep it up and get the weekend
-cooks to work everyday**
-
-Reply Quote
-
-0
-
-OneGood2011Ag
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jun 16, 2010
-
-**Posts:** 3,224
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-3:56p, 7/15/10
-
-AG
-
-> quote:
->
-> * * *
->
-> several times a day
->
-> * * *
-
-  
-  
-You're either morbidly obese or you have one heckuva tapeworm if you eat out
-SEVERAL times per day. **
-
-Reply Quote
-
-0
-
-PhiAggie
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Feb 8, 2004
-
-**Posts:** 60,646
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-3:59p, 7/15/10
-
-AG
-
-Had breakfast there early this morning with a buddy of mine and had a nice
-visit with the owner. Great food and good people! I also like the concept
-behind the restaurant. Ill be going back often.  
-  
-The sausage and egg, chorizo and egg, and carne guisada tacos are delicious.  
-  
-**
-
-Reply Quote
-
-0
-
-BCS Native
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Apr 8, 2008
-
-**Posts:** 269
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-4:26p, 7/15/10
-
-YUMMY!  
-The best corn tortillas in town!!!  
-  
-My only problem is that I have troubles parking when people park along the
-curb directly behind the lined parking spaces. Any way to make that a no
-parking zone so cars don't get smashed by awful drivers such as myself??**
-
-Reply Quote
-
-0
-
-montegobay
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jan 19, 2007
-
-**Posts:** 3,229
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-6:58p, 7/15/10
-
-I went today. Had a hard time parking, but I was expecting it. Had the
-carnitas taco and guacamole. They were both good, but no big whoop! It's a
-good place but not quite the amazing experience I was expecting after reading
-this board.  
-  
-I actually like Fuzzy's better. They have beer and awesome tacos. **
-
-Reply Quote
-
-0
-
-pattybrhg
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Mar 30, 2002
-
-**Posts:** 2,370
-
-User Profile
-
-Private Message
-
-Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-7:39p, 7/15/10
-
-Most of the tacos are quite good, but they need cheese in a bad way. I'm not a
-big fan of the carnitas and the ridiculously fatty meat used on that one. I
-literally pulled out chunks from the taco that were entirely fat with no meat.
-My wife loved the fish taco, and the pastor taco is excellent.  
-  
-The breakfast menu is pretty much all amazing.**
-
-Reply Quote
-
-0
-
-ltaylor
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jul 2, 2009
-
-**Posts:** 178
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-8:41p, 7/15/10
-
-Besides the two very thin very sharp bones in my sons chicken taco, the
-manager spilling a whole new hot urn of tea all over my legs and feet, and
-that we waited more than 25 minutes to get our funnel cakes before leaving, it
-was pretty good . I must add the queso ROCKS!!!**
-
-Reply Quote
-
-0
-
-muledoggie
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Aug 23, 2004
-
-**Posts:** 69
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-8:43p, 7/15/10
-
-AG
-
-You can see the food is good from all these posts, but I like the prices as
-well!**
-
-Reply Quote
-
-0
-
-PhiAggie
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Feb 8, 2004
-
-**Posts:** 60,646
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-9:14p, 7/15/10
-
-AG
-
-I love how people base an entire experience on one single taco. How about you
-try a few and then decide? **
-
-Reply Quote
-
-0
-
-AggiePhil
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Dec 14, 2004
-
-**Posts:** 5,039
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-9:28p, 7/15/10
-
-AG
-
-You can request that feta or grated cheddar be added to your taco at time of
-order. I will warn you though that they use too much and you'll get enough for
-2-3 tacos.**
-
-Reply Quote
-
-0
-
-FuegoTortillaGrill
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jul 6, 2010
-
-**Posts:** 28
-
-User Profile
-
-Private Message
-
-Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-10:15p, 7/15/10
-
-On behalf of Fuego Tortilla Grill we would like to thank all for the kind
-words and support. We are very happy that we chose College Station to develop
-our new concept, it is a great community. The first six weeks have been a
-great success, but we understand that we have a long way to go and are always
-looking at ways to improve the concept and quality and realize that our
-greatest resource is our customers, your feedback is valued and appreciated.  
-  
-We have recently increased the punch of our Widow Maker Sauce to add at bit
-more burn while maintaining some flavor. For those looking for the crazy
-factor, I will always concoct something in the back that will surely open the
-glands.  
-  
-We used to serve the street corn with the mayo, chipotle, and chili lime, and
-it was pretty good, the way I remembered in Mexico. We made a batch of
-Chipotle cream corn about 3 weeks ago and had the lunch and dinner crowd
-compare, all chose the chipotle cream corn. Ilove the corn from Mexico but had
-to go with the customer response. If you come in though and I have time, I
-will be happy to whip up some roasted corn and do it street style.  
-  
-The Fuego Salsa has been a work in progress, sometimes the Arbol Chilies are
-hot and sometimes not so hot, the flavor of the arbols are what we want, so we
-have found a way to kick up the heat factor w/o compromising the flavor. I
-hope all will find on your next visit that the Fuego Salsa delivers the heat
-as needed.  
-  
-We will always do our best to deliver the best product, fresh and hot, at a
-good value. Once again thanks so much for all your support and encouragement.  
-  
-God Bless**
-
-Reply Quote
-
-0
-
-trouble
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jul 15, 2007
-
-**Posts:** 132,840
-
-User Profile
-
-Private Message
-
-Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-11:29p, 7/15/10
-
-AG
-
-We ordered from y'all Saturday night and it was simply delicious.  
-  
-I think there might be crack in the queso because I have been craving it all
-week.  
-  
-We got a variety of things and everything liked their tacos. I loved the corn.  
-  
-We will definitely be back.**
-
-Reply Quote
-
-0
-
-AggieBarstool
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jan 14, 2008
-
-**Posts:** 8,206
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-1:12a, 7/16/10
-
-Love this place! Can't say enough good things.**
-
-Reply Quote
-
-0
-
-gspiller
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jun 18, 2009
-
-**Posts:** 63
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-1:24a, 7/16/10
-
-I think the place is awesome but the salsa on the bar is lacking. I find
-myself leaning toward the hot sauces that they offer but I would love for you
-to develop one that I would actually put on my taco. Beyond that I am super
-excited that you are here and I will be back many times.**
-
-Reply Quote
-
-0
-
-Yuccadoo
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Feb 16, 2010
-
-**Posts:** 3,857
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-5:57a, 7/16/10
-
-We finally 'got to the food' and it was good. First 2 times we tried, too much
-in/out traffic and parking a block away. With me and the missus both
-recovering from broken ankles, we had to wait until we could at least reach
-the drive in, but we both enjoyed the food when we got home.  
-  
-**
-
-Reply Quote
-
-0
-
-aggiepaintrain
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Sep 27, 2004
-
-**Posts:** 18,418
-
-User Profile
-
-Private Message
-
-Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-10:21a, 7/16/10
-
-AG
-
-Great restaurant!  
-The flamed kissed tenderloin is the bomb..  
-**
-
-Reply Quote
-
-0
-
-Biggydoog
-
-You must be a  subscriber to .
-
-Subscribe Now
-
-**Joined:** Jul 20, 2002
-
-**Posts:** 1,486
-
-User Profile Ignore User Stop Ignoring
-
-How long do you want to ignore this user?
-
-24 hours One week Permanently Cancel
-
-2:02p, 7/16/10
-
-really really like this place, but one thing for the owner on the site, would
-absolutely love it if you would add shrimp tacos (grilled) to the menu. Would
-be awesome, but I understand it's more expensive than beef/chicken/pork.**
-
-Reply Quote
-
-0
-
-Skip to Last Page 1 Page 2
-
-Page 1 of 2
-
-Next Page
-
-Page 1 of 2 ▼
-
-Post Reply  Back to topics
-
-**This post has been flagged.**
-
-Click to display linked image.
-
-Live Show
-
-  * Home
-  * Account
-  * Advertise
+  * Questions
   * Help
-  * Contact
-  * Terms & Privacy
-  * Site Map
-  * Mobile Site
-  * App
+  * Chat
 
-Follow TexAgs
+##### Products
 
-TexAgs is an independent site and is not affiliated with Texas A&M University.
-(C)2025 Maroon & White LP and F5 Sports Media LLC. All rights reserved.
+  * Teams
+  * Advertising
+  * Talent
 
+##### Company
 
+  * About
+  * Press
+  * Work Here
+  * Legal
+  * Privacy Policy
+  * Terms of Service
+  * Contact Us
+  * Cookie Settings 
+  * Cookie Policy
 
-×
+##### Stack Exchange Network
 
-Subscribe subscribe Verify your student status Log In
+  * Technology 
+  * Culture & recreation 
+  * Life & arts 
+  * Science 
+  * Professional 
+  * Business 
+  * API 
+  * Data 
 
-See Subscription Benefits
+  * Blog
+  * Facebook
+  * Twitter
+  * LinkedIn
+  * Instagram
 
-Trial only available to users who have never subscribed or participated in a
-previous trial.
+Site design / logo © 2025 Stack Exchange Inc;  user contributions licensed
+under  CC BY-SA .  rev 2025.4.3.24777
 

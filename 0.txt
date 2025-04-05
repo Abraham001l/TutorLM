@@ -1,611 +1,332 @@
-
-
-Back to Search
-
-Yelp for Business
-
-Write a Review
-
-Start a Project
-
-Log In
-
-Sign Up
-
-  1. Restaurants
-     * Takeout
-
-     * Delivery
-
-     * Hot & Trendy
-
-     * New Restaurants
-
-     * Breakfast & Brunch
-
-     * Lunch
-
-     * Dinner
-
-     * Coffee & Cafes
-
-     * Pizza
-
-     * Chinese
-
-     * Mexican
-
-     * Bakeries
-
-     * Italian
-
-     * Food Trucks
-
-     * Sports Bars & Pubs
-
-  2. Home & Garden
-     * Contractors & Handymen
-
-     * Plumbers
-
-     * Electricians
-
-     * Heating & Cooling (HVAC)
-
-     * Appliance Store & Repair
-
-     * Roofing Companies
-
-     * Locksmiths
-
-     * Painters
-
-     * Landscaping
-
-     * Plant Nursery & Garden Centers
-
-     * Florists
-
-     * Tree Services & Arborists
-
-     * Cleaning Services
-
-     * Furniture Stores
-
-     * Movers
-
-  3. Auto Services
-     * Auto Repair & Mechanics
-
-     * Auto Body Shops
-
-     * Oil Change
-
-     * Tire Shop
-
-     * Towing & Roadside Assistance
-
-     * Car Wash
-
-     * Car Detailing
-
-     * Parking Lots & Garages
-
-     * Car Dealers
-
-     * Junkyards
-
-  4. Health & Beauty
-     * Dentists
-
-     * Doctors
-
-     * Chiropractors
-
-     * Optometrists
-
-     * Dermatologists
-
-     * Podiatrists
-
-     * Massage
-
-     * Hair Salons
-
-     * Nail Salons
-
-     * Barbershops
-
-     * Spas
-
-     * Physical Therapy
-
-  5. Travel & Activities
-     * Things to Do
-
-     * Kids Activities & Camps
-
-     * Venues & Events
-
-     * Places of Worship
-
-     * Shopping Malls & Centers
-
-     * Bookstores
-
-     * Mini Golf
-
-     * Bowling
-
-     * Hotels & Lodging
-
-     * Taxi Cabs
-
-     * Bike Shops
-
-     * Campgrounds
-
-     * Beaches
-
-     * Public Pools
-
-     * Bars & Nightlife
-
-  6. More
-     * Dry Cleaners
-
-     * Laundromats
-
-     * Tailors & Alterations
-
-     * Thrift Stores & Consignment
-
-     * Dispensaries
-
-     * Apartments
-
-     * Junk Removal
-
-     * Gyms
-
-     * Yoga & Pilates
-
-     * Dog Groomers
-
-     * Banks & Credit Unions
-
-     * Real Estate Agents
-
-  7. More
-
-# Fuego Tortilla Grill
-
-4.1 (897 reviews)
-
-Claimed
-
-$ Tex-Mex, Mexican
-
-Open12:00 AM - 11:59 PM
-
-See hours
-
-Updated 2 months ago
-
-See all 376 photos
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Loading...
-
-Write a review
-
-Add photo
-
-Share
-
-Save
-
-## Menu
-
-##### Popular Dishes
-
-View full menu
-
-$7.19
-
-El Presidente
-
-16 Photos 55 Reviews
-
-$7.91
-
-Fuego Steak
-
-12 Photos 48 Reviews
-
-$7.91
-
-Dr Pepper Cowboy
-
-13 Photos 55 Reviews
-
-$6.95
-
-Campeche Fish Taco
-
-10 Photos 32 Reviews
-
-$7.19
-
-Southern Comfort
-
-6 Photos 17 Reviews
-
-$7.91
-
-Classic Carne Guisada
-
-5 Photos 15 Reviews
-
-$6.59
-
-Chicken and Waffles
-
-7 Photos 10 Reviews
-
-$6.95
-
-South Padre
-
-7 Photos 15 Reviews
-
-$7.19
-
-Buffalo Bill
-
-4 Photos 10 Reviews
-
-$5.51
-
-Fuego Deluxe
-
-2 Photos 12 Reviews
-
-$7.19
-
-Loco Pollo
-
-2 Photos 9 Reviews
-
-Breakfast Tacos
-
-5 Photos 79 Reviews
-
-Roasted Poblano Queso
-
-4 Photos 22 Reviews
-
-Fuel for Fitness Bowl
-
-7 Photos 10 Reviews
-
-Rotisserie Chicken
-
-3 Photos 32 Reviews
-
-Fried Avocado
-
-3 Photos 19 Reviews
-
-Beef Steak Tacos
-
-2 Photos 27 Reviews
-
-Fried Chicken Taco
-
-1 Photo 11 Reviews
-
-Chicken Tortilla Soup
-
-2 Photos 10 Reviews
-
-Full menu
-
-## What's the vibe?
-
-See all 29
-
-Inside
-
-29 photos
-
-See all 10
-
-Outside
-
-10 photos
-
-See all 373
-
-All photos
-
-373 photos
-
-Moderate noise
-
-Casual
-
-Good for kids
-
-Good for groups
-
-Dogs allowed
-
-Outdoor seating
-
-## People also searched for
-
-Breakfast Burrito
-
-Drive Thru
-
-24 Hour Restaurant
-
-Fish Tacos
-
-Puffy Tacos
-
-Chips and Queso
-
-## Location & Hours
-
-Suggest an edit
-
-108 Poplar St
-
-College Station, TX 77840
-
-Get directions  
+# How to Multiply Matrices  
   
-Mon|
+A Matrix is an array of numbers:
 
-  * Closed
-
-|  
-Tue|
-
-  * 6:00 AM - 11:59 PM
-
-|  
-Wed|
-
-  * 12:00 AM - 11:59 PM
-
-|  
-Thu|
-
-  * 12:00 AM - 11:59 PM
-
-|  
-Fri|
-
-  * 12:00 AM - 11:59 PM
-
-| Open now  
-Sat|
-
-  * 12:00 AM - 11:59 PM
-
-|  
-Sun|
-
-  * 12:00 AM - 11:59 PM
-
-|  
   
-## Amenities and More
+A Matrix  
+(This one has 2 Rows and 3 Columns)
 
-Offers Delivery
+To multiply a matrix by a single number is easy:
 
-Offers Takeout
+These are the calculations:
 
-Takes Reservations
+2×4=8 | 2×0=0  
+---|---  
+2×1=2 | 2×-9=-18  
+  
+We call the number ("2" in this case) a **scalar** , so this is called "scalar
+multiplication".
 
-Vegan Options
+## Multiplying a Matrix by Another Matrix
 
-23 More Attributes
+But to multiply a matrix **by another matrix** we need to do the "dot product"
+of rows and columns ... what does that mean? Let us see with an example:
 
-## Ask the Community
+To work out the answer for the **1st row** and **1st column** :
 
-Ask a question
+The "Dot Product" is where we **multiply matching members** , then sum up:
 
-  * Q:
+(1, 2, 3) • (7, 9, 11) = 1×7 + 2×9 + 3×11  
+    = 58
 
-Did the corn tortillas get real flimsy recently?
+We match the 1st members (1 and 7), multiply them, likewise for the 2nd
+members (2 and 9) and the 3rd members (3 and 11), and finally sum them up.
 
-A:
+Want to see another example? Here it is for the 1st row and **2nd column** :
 
-No. Homemade fresh tortillas
+(1, 2, 3) • (8, 10, 12) = 1×8 + 2×10 + 3×12  
+    = 64
 
-Anna S.
+We can do the same thing for the **2nd row** and **1st column** :
 
-See 1 more answer
+(4, 5, 6) • (7, 9, 11) = 4×7 + 5×9 + 6×11  
+    = 139
 
-See all 2 questions
+And for the **2nd row** and **2nd column** :
 
-## Recommended Reviews
+(4, 5, 6) • (8, 10, 12) = 4×8 + 5×10 + 6×12  
+    = 154
 
-Loading...Loading...Loading...
+And we get:
 
-Business website
+DONE!
 
-fuegotortillagrill.com
+## Why Do It This Way?
 
-Phone number
+This may seem an odd and complicated way of multiplying, but it is necessary!
 
-(979) 703-1804
+I can give you a real-life example to illustrate why we multiply matrices in
+this way.
 
-Get Directions
+### Example: The local shop sells 3 types of pies.
 
-108 Poplar St College Station, TX 77840
+  * Apple pies cost **$3** each
+  * Cherry pies cost **$4** each
+  * Blueberry pies cost **$2** each
 
-Suggest an edit
+And this is how many they sold in 4 days:
 
-About
+Now think about this ... the **value of sales** for Monday is calculated this
+way:
 
-  * About Yelp
-  * Careers
-  * Press
-  * Investor Relations
-  * Trust & Safety
-  * Content Guidelines
-  * Accessibility Statement
-  * Terms of Service
-  * Privacy Policy
-  * Ad Choices
-  * Your Privacy Choices
+Apple pie value + Cherry pie value + Blueberry pie value
 
-Discover
+$3×13 + $4×8 + $2×6 = $83
 
-  * Yelp Project Cost Guides
-  * Collections
-  * Talk
-  * Events
-  * Yelp Blog
-  * Support
-  * Yelp Mobile
-  * Developers
-  * RSS
+So it is, in fact, the "dot product" of prices and how many were sold:
 
-Yelp for Business
+($3, $4, $2) • (13, 8, 6) = $3×13 + $4×8 + $2×6  
+    = $83
 
-  * Yelp for Business
-  * Business Owner Login
-  * Claim your Business Page
-  * Advertise on Yelp
-  * Yelp for Restaurant Owners
-  * Table Management
-  * Business Success Stories
-  * Business Support
-  * Yelp Blog for Business
-  * Yelp Data for B2B
-  * Yelp Data for B2C
+We **match** the price to how many sold, **multiply** each, then **sum** the
+result.
 
-Languages
 
-English
 
-Cities
+In other words:
 
-Explore a City
+  * The sales for Monday were: Apple pies: **$3×13=$39** , Cherry pies: **$4×8=$32** , and Blueberry pies: **$2×6=$12**. Together that is $39 + $32 + $12 = **$83**
+  * And for Tuesday: **$3×9 +** **$4×7 + $2****×4 =** **$63**
+  * And for Wednesday: **$3×7 +** **$4×4 + $2****×0 =** **$37**
+  * And for Thursday: **$3×15 +** **$4×6 + $2****×3 =** **$75**
 
-Austin
+So it is important to match each price to each quantity.
 
-Baltimore
 
-Charlotte
 
-Chicago
+Now you know why we use the "dot product".
 
-Colorado Springs
 
-Columbus
 
-Dallas
+And here is the full result in Matrix form:
 
-Denver
+They sold **$83** worth of pies on Monday, **$63** on Tuesday, etc.
 
-Detroit
+(You can put those values into the Matrix Calculator to see if they work.)
 
-El Paso
+## Rows and Columns
 
-Fort Worth
+To show how many rows and columns a matrix has we often write
+**rows×columns**.
 
-Houston
+Example: This matrix is **2×3** (2 rows by 3 columns):
 
-Indianapolis
+When we do multiplication:
 
-Jacksonville
+  * The number of **columns of the 1st matrix** must equal the number of **rows of the 2nd matrix**.
+  * And the result will have the same number of **rows as the 1st matrix** , and the same number of **columns as the 2nd matrix**.
 
-Las Vegas
+### Example from before:
 
-Los Angeles
+In that example we multiplied a 1×3 matrix by a 3×4 matrix (note the 3s are
+the same), and the result was a 1×4 matrix.
 
-Miami
+_In General:_
 
-Nashville
+To multiply an **m×n** matrix by an **n×p** matrix, the **n** s must be the
+same,  
+and the result is an **m×p** matrix.
 
-New York
 
-Oklahoma City
 
-Philadelphia
+So ... multiplying a **1×3** by a **3×1** gets a **1×1** result:
 
-Phoenix
+1
 
-Portland
+2
 
-Sacramento
+3
 
-San Antonio
+4
 
-San Diego
+5
 
-San Francisco
+6
 
-San Jose
+=
 
-Seattle
+1×4+2×5+3×6
 
-Washington
+=
 
-  * About
+32
 
-  * Blog
+But multiplying a **3×1** by a **1×3** gets a **3×3** result:
 
-  * Support
+4
 
-  * Terms
+5
 
-  * Privacy Policy
+6
 
-  * Your Privacy Choices
+1
 
-Copyright © 2004–2025 Yelp Inc. Yelp, Elite Squad,  ,  and related marks are
-registered trademarks of Yelp.
+2
+
+3
+
+=
+
+4×1
+
+4×2
+
+4×3
+
+5×1
+
+5×2
+
+5×3
+
+6×1
+
+6×2
+
+6×3
+
+=
+
+4
+
+8
+
+12
+
+5
+
+10
+
+15
+
+6
+
+12
+
+18
+
+## Identity Matrix
+
+The "Identity Matrix" is the matrix equivalent of the number "1":
+
+  
+A 3×3 Identity Matrix
+
+  * It is "square" (has same number of rows as columns)
+  * It can be large or small (2×2, 100×100, ... whatever)
+  * It has **1** s on the main diagonal and **0** s everywhere else
+  * Its symbol is the capital letter **I**
+
+It is a **special matrix** , because when we multiply by it, the original is
+unchanged:
+
+A × I = A  
+
+I × A = A  
+
+## Order of Multiplication
+
+In arithmetic we are used to:
+
+3 × 5 = 5 × 3  
+(The Commutative Law of Multiplication)
+
+But this is **not** generally true for matrices (matrix multiplication is
+**not commutative**):
+
+AB ≠ BA
+
+When we change the order of multiplication, the answer is (usually)
+**different**.
+
+### Example:
+
+See how changing the order affects this multiplication:
+
+1
+
+2
+
+3
+
+4
+
+2
+
+0
+
+1
+
+2
+
+=
+
+1×2+2×1
+
+1×0+2×2
+
+3×2+4×1
+
+3×0+4×2
+
+=
+
+4
+
+4
+
+10
+
+8
+
+  
+
+2
+
+0
+
+1
+
+2
+
+1
+
+2
+
+3
+
+4
+
+=
+
+2×1+0×3
+
+2×2+0×4
+
+1×1+2×3
+
+1×2+2×4
+
+=
+
+2
+
+4
+
+7
+
+10
+
+The answers are different!
+
+It **can** have the same result (such as when one matrix is the Identity
+Matrix) but not usually.
+
+
+
+714, 715, 716, 717, 2394, 2395, 2397, 2396, 8473, 8474, 8475, 8476
+
+Matrices Determinant of a Matrix Matrix Calculator Algebra 2 Index
+
+Copyright (C) 2023 Rod Pierce
 

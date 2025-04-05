@@ -1,1090 +1,250 @@
 Skip to main content
 
-Discover
+### We value your privacy
 
-Trips
+Reddit and its partners use cookies and similar technologies to provide you
+with a better experience. By accepting all cookies, you agree to our use of
+cookies to deliver and maintain our services and site, improve the quality of
+Reddit, personalize Reddit content and advertising, and measure the
+effectiveness of advertising. By rejecting non-essential cookies, Reddit may
+still use certain cookies to ensure the proper functionality of our platform.
+For more information, please see our Cookie Notice and our Privacy Policy.
 
-Review
+Open menu Open navigation Go to Reddit Home
 
-USD
+r/math  A chip A close button
 
-Sign in
+Get App Get the Reddit app  Log In Log in to Reddit
 
-San MarcosHotelsThings to DoRestaurantsFlightsVacation RentalsCruisesRental
-CarsForums
+Expand user menu Open settings menu
 
-United States
+Go to math
 
-Texas (TX)
+r/math
 
-San Marcos
+r/math
 
-San Marcos Restaurants
-
-Fuego Tortilla Grill
-
-# Fuego Tortilla Grill
-
-Claimed
-
-Someone from this business manages this listing.
-
-Learn More
-
-Share
-
-Review
-
-Save
-
-4.3
-
-4.3 of 5 bubbles
-
-(128 reviews)
-
-**#4** of 28 Quick Bites in San MarcosQuick Bites, Mexican, $
-
-30
-
-What is Travelers’ Choice?
-
-Tripadvisor gives a Travelers’ Choice award to accommodations, attractions and
-restaurants that consistently earn great reviews from travelers and are ranked
-within the top 10% of properties on Tripadvisor.
-
-Interior
-
-1
-
-Food
-
-23
-
-Menu
-
-1
-
-Fuego Tortilla Grill
-
-Share
-
-Review
-
-Save
-
-Order online
-
-At a glance
-
-Open until 11:59 PM
-
-See all hours
-
-913 N. I-35 Frontage Rd, San Marcos, TX 78666
-
-Website
-
-Menu
-
-+1 512-754-8226Improve this listing
-
-About
-
-Features
-
-CUISINES
-
-Mexican, Southwestern, Fast Food
-
-Meal types
-
-Breakfast, Lunch, Dinner, Brunch, Late Night
-
-Special Diets
-
-Vegetarian friendly
-
-FEATURES
-
-Accepts Credit Cards
-
-American Express
-
-Delivery
-
-Digital Payments
-
-Discover
-
-Drive Thru
-
-Free off-street parking
-
-Free Wifi
-
-Mastercard
-
-Non-smoking restaurants
-
-Parking Available
-
-Seating
-
-Serves Alcohol
-
-Takeout
-
-Visa
-
-Wheelchair Accessible
-
-Location
-
-913 N. I-35 Frontage Rd, San Marcos, TX 78666
-
-Free off-street parking, Parking Available
-
-Menu
+This subreddit is for discussion of mathematics. All posts and comments should
+be directly related to mathematics, including topics related to the practice,
+profession and community of mathematics.
 
 * * *
 
-* * *
+Members Online
 
-Show full menu
+•
 
-Does this restaurant accept reservations?
+disgolf
 
-Yes
+#  Intuitive way to write out Matrix Multiplication
 
-No
-
-Unsure
-
-Order delivery
-
-Order now
-
-* * *
-
-Save this restaurant
-
-Save
-
-Hours
-
-Suggest an edit
-
-Open until 11:59 PM
-
-Sunday
-
-12:00 AM - 11:59 PM
-
-Monday
-
-Closed
-
-Tuesday
-
-6:00 AM - 11:59 PM
-
-Wednesday
-
-12:00 AM - 11:59 PM
-
-Thursday
-
-12:00 AM - 11:59 PM
-
-Friday
-
-12:00 AM - 11:59 PM
-
-Saturday
-
-12:00 AM - 11:59 PM
-
-Contribute
-
-Write a review
-
-Upload a photo
-
-Ask a question
-
-ReviewsQ&A
-
-4.3
-
-4.3 of 5 bubbles
-
-(128)
-
-Excellent
-
-74
-
-Good
-
-31
-
-Average
-
-12
-
-Poor
-
-5
-
-Terrible
-
-6
-
-Filters
-
-English
-
-Most recent
-
-* * *
-
-Kat E
-
-2 contributions
-
-0
-
-5 of 5 bubbles
-
-Amazing Mexican Food
-
-Jan 2023 • family
-
-The food with charred chicken is authentic Mexican food. The menu price lists
-for one taco (you can obviously ask for more) but each one is an overfilled
-regular 9-inch tortilla. The bowls have twice the filling. I am in San Marcos
-for a week and I will visit a second time!
+I was never taught to write out matrix multiplication this way, maybe others
+have, but I came up with it independently recently when I was getting back
+into linear algebra. The key is that the top of the first matrix and the left
+side of the second matrix need to form a *square*. Writing out matrix
+multiplications like this makes them way more intuitive, including immediately
+knowing the dimensions of your output matrix, which is really useful in
+practice. It is also easy to extend for multiplying many matrices in sequence
+as well as left multiplying. Hopefully this helps you out as much as it did me
+https://blogs.ams.org/mathgradblog/2015/10/19/matrix-multiplication-easy/
 
 Read more
 
-Written January 9, 2023
+Archived post. New comments cannot be posted and votes cannot be cast.
 
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+New to Reddit?
 
-* * *
+Create your account and connect with a world of communities.
 
-Pamela O
+Continue with Email
 
-Coppell1 contribution
+Continue With Phone Number
 
-0
+By continuing, you agree to our User Agreement and acknowledge that you
+understand the Privacy Policy.
 
-5 of 5 bubbles
+**Top 1%** Rank by size
 
-Family loved it, good price for good food!
+Public
 
-Nov 2020 • none
+Anyone can view, post, and comment to this community
 
-Our family of seven (kids ranging in age from 6-14) enjoyed eating for
-basically the same price as it costs us to eat at ChickFilA or In-N-Out or
-Whataburger, but this was so much better! We ordered 6 of the favorite tacos,
-1 pint of Mac and cheese and the chips and quezon (with drinks) it was plenty
-to fill us up! Our youngest two still hand Mac and cheese left over! We are
-from Dallas, this is very similar in idea to The Velvet Taco...think gourmet,
-unique tacos. You get one taco but it is very filling! We dined in, good
-country music and decent atmosphere. There is a drive thru as well which is
-good to remember for next time.
-
-Read more
-
-Written November 21, 2020
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+##  Top Posts
 
 * * *
 
-John W
+  * Reddit 
 
-Houston17 contributions
-
-1
-
-5 of 5 bubbles
-
-Yum!
-
-Jun 2022 • none
-
-You order at the counter and condements and drinks to the side. I was hungry
-and ordered two different tacos. One was Carnita based and was Mexico tasty.
-The other was a fried fish taco that was huge and cooked perfectly. They even
-had a Horchata drink that was very nice. It was very tasty and well priced and
-filling.
-
-Read more
-
-Written July 5, 2022
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+reReddit: Top posts of November 19, 2020
 
 * * *
 
-Whitney R
+  * Reddit 
 
-1 contribution
-
-0
-
-1 of 5 bubbles
-
-Horrible and rude
-
-Jun 2023 • business
-
-The service completely sucked . They acted like they couldn't hear our order
-and obviously they didn't because our whole order was messed up . Got in
-contact finally the next day with the rudest store manager named starr who
-refused to own up to their mistakes and tried to act like we were begging for
-free food . Obviously as big as our bill was we weren't begging . It was the
-fact that it was 2 am and they couldn't help us but yet they are open all
-night . All we wanted was our order replaced not our money because we were
-wanting the same food but just done correctly and how we ordered it .
-
-Read more
-
-Written June 30, 2023
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+reReddit: Top posts of November 2020
 
 * * *
 
-Suzie H
+  * Reddit 
 
-Lake Ozark141 contributions
-
-0
-
-3 of 5 bubbles
-
-Fast food Mexican
-
-Feb 2023 • couples
-
-We walked in expecting a nice Mexican dinner but instead this is a go to the
-front to order then they bring it to you. Empty food baskets on uncleaned
-tables, plastic forks and spoons, condiment on a table, self service drinks.
-The food was ok but we won’t go back.
-
-Read more
-
-Written February 18, 2023
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+reReddit: Top posts of 2020
 
 * * *
 
-Sivan M
+Reddit Rules Privacy Policy User Agreement Reddit, Inc. © 2025. All rights
+reserved.
 
-Dallas547 contributions
+Expand Navigation Collapse Navigation
 
-0
-
-5 of 5 bubbles
-
-Large tacos!!
-
-Dec 2021 • family
-
-Similar to Torchy’s Tacos, Fuegos serves large tacos with various different
-toppings and meats. I enjoyed the hippie taco, but I’m sure there are all good
-options (chicken, beef, etc.). The chips and queso is also a solid option to
-have on the side. Average price per person ($8-13).
-
-Read more
-
-Written December 31, 2021
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+* &nbsp;
 
 * * *
 
-LaTiffany S
+* TOPICS
 
-Longview75 contributions
+* Internet Culture (Viral)
 
-0
+  * Amazing
 
-5 of 5 bubbles
+  * Animals & Pets
 
-Better than I anticipated
+  * Cringe & Facepalm
 
-Jan 2020 • family
+  * Funny
 
-I was visiting San Marcos and my daughter and her friends, recommended this
-restaurant. The food was delicious, there was a lot of variety to choose from
-and it was not very expensive. I had a bowl and my son had two tacos, which
-filled us up and we took the rest to go. Will definitely return here, when we
-visit San Marcos again.
+  * Interesting
 
-Read more
+  * Memes
 
-Written January 19, 2020
+  * Oddly Satisfying
 
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+  * Reddit Meta
 
-* * *
+  * Wholesome & Heartwarming
 
-countrybottoms
+* Games
 
-Hazel Green6 contributions
+  * Action Games
 
-0
+  * Adventure Games
 
-2 of 5 bubbles
+  * Esports
 
-Nacho's Mama
+  * Gaming Consoles & Gear
 
-Sep 2020 • couples
+  * Gaming News & Discussion
 
-Awful. I wanted chicken and the young man insisted it came with Brisket. I
-would not order it again. No taste, flavor. Called twice to order food and the
-music was so loud he couldn't hear me. Then we walked over to order from
-motel.
+  * Mobile Games
 
-Read more
+  * Other Games
 
-Written September 14, 2020
+  * Role-Playing Games
 
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+  * Simulation Games
 
-* * *
+  * Sports & Racing Games
 
-B D
+  * Strategy Games
 
-Seymour114 contributions
+  * Tabletop Games
 
-0
+* Q&As
 
-5 of 5 bubbles
+  * Q&As
 
-Great dinner
+  * Stories & Confessions
 
-Apr 2023 • couples
+* Technology
 
-Fast food, with slow cooked taste. Over stuffed tacos. One is more than
-enough! Absolutely delicious. Order at the counter, get your number and grab a
-table and enjoy! Really good queso, tons of chips!!!
+  * 3D Printing
 
-Read more
+  * Artificial Intelligence & Machine Learning
 
-Written April 19, 2023
+  * Computers & Hardware
 
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+  * Consumer Electronics
 
-* * *
+  * DIY Electronics
 
-Laurie F
+  * Programming
 
-1 contribution
+  * Software & Apps
 
-0
+  * Streaming Services
 
-1 of 5 bubbles
+  * Tech News & Discussion
 
-Saddest Taco Ever
+  * Virtual & Augmented Reality
 
-Mar 2025 • solo
+* Pop Culture
 
-I went for breakfast and was given the saddest taco I have ever been given in
-my life. The picture speaks for itself. The bacon was thicker than the egg.
+  * Celebrities
 
-Read more
+  * Creators & Influencers
 
-Written March 12, 2025
+  * Generations & Nostalgia
 
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+  * Podcasts
 
-* * *
+  * Streamers
 
-Carleen D
+  * Tarot & Astrology
 
-18 contributions
+* Movies & TV
 
-0
+  * Action Movies & Series
 
-5 of 5 bubbles
+  * Animated Movies & Series
 
-Delicious, as always
+  * Comedy Movies & Series
 
-Jul 2021 • solo
+  * Crime, Mystery, & Thriller Movies & Series
 
-I had the queso and the Veggie Monster. Always recommend!!! I've been coming
-to Fuego since starting at Texas A&M, and the 2nd restaurant in San Marcos
-does not disappoint.
+  * Documentary Movies & Series
 
-Read more
+  * Drama Movies & Series
 
-Written July 16, 2021
+  * Fantasy Movies & Series
 
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+  * Horror Movies & Series
+
+  * Movie News & Discussion
+
+  * Reality TV
+
+  * Romance Movies & Series
+
+  * Sci-Fi Movies & Series
+
+  * Superhero Movies & Series
+
+  * TV News & Discussion
 
 * * *
 
-brigittenelson75
+* RESOURCES
 
-Alvin4 contributions
+* About Reddit
 
-0
+* Advertise
 
-5 of 5 bubbles
+* Reddit Pro
 
-Awesome Tortilla
+BETA
 
-Jun 2019 • family
+* Help
 
-My nephews told us we had to try this place so we did and we were not
-disappointed. We went a little over board but none of the choose were
-disappointing. We tried the Southern Comfort, Sweet Caroline, Dr Pepper Cowboy
-and Frito Bandito. All were amazing!
+* Blog
 
-Read more
+* Careers
 
-Written June 18, 2019
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
+* Press
 
 * * *
 
-Bonnie
+* Communities
 
-Leander214 contributions
+* Best of Reddit
 
-0
-
-5 of 5 bubbles
-
-Cheap, Fast & Tasty
-
-May 2019 • friends
-
-Wonderful tacos, many varieties and very tasty. Really nice staff. The
-combinations were interesting, not your typical taco.
-
-Read more
-
-Written May 27, 2019
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Trinda L
-
-Amarillo59 contributions
-
-0
-
-5 of 5 bubbles
-
-Unique Twist to Tacos!!
-
-May 2019 • family
-
-This was a great find!! Very unique twist to tacos! If you are a picky or
-finicky eater, this might not be the place for you. I am an adventurous eater
-but sensitive to textures. Several tacos tend to have soft food items in them
-and there is some fat in the meat. Each taco is large and one fills you up!
-Overall, I really enjoyed this meal and would return if I ever crossed paths
-again.
-
-Read more
-
-Written May 26, 2019
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-Tiffany H
-
-San Marcos64 contributions
-
-0
-
-5 of 5 bubbles
-
-Worth it every time
-
-Apr 2019 • couples
-
-I have never been disappointed! For fast food, the quality of the food is
-surprisingly good. It is a little pricy, but you get more for your money
-because the tacos are huge!
-
-Read more
-
-Written April 5, 2019
-
-This review is the subjective opinion of a Tripadvisor member and not of
-Tripadvisor LLC. Tripadvisor performs checks on reviews as part of our
-industry-leading trust & safety standards. Read our transparency report to
-learn more.
-
-* * *
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-…
-
-Showing results 1-15 of 128
-
-Best quick bites
-
-See all
-
-In-N-Out Burger
-
-4.1
-
-4.1 of 5 bubbles
-
-(61 reviews)
-
-American • $
-
-Closed now
-
-Chick-fil-A
-
-4.7
-
-4.7 of 5 bubbles
-
-(35 reviews)
-
-American • $
-
-Open now
-
-Order
-
-Alvin Ord's Sandwich Shop
-
-4.3
-
-4.3 of 5 bubbles
-
-(37 reviews)
-
-American • $
-
-Open now
-
-Loli’s Café
-
-4.7
-
-4.7 of 5 bubbles
-
-(33 reviews)
-
-Mexican • $
-
-Open now
-
-Torchys Tacos
-
-4.0
-
-4 of 5 bubbles
-
-(64 reviews)
-
-Mexican • $
-
-Open now
-
-Gil's Broiler
-
-3.9
-
-3.9 of 5 bubbles
-
-(97 reviews)
-
-American • $
-
-Open now
-
-Order
-
-Tantra
-
-4.5
-
-4.5 of 5 bubbles
-
-(21 reviews)
-
-Cafe • $
-
-Open now
-
-Raising Cane's Chicken Fingers
-
-4.1
-
-4.1 of 5 bubbles
-
-(34 reviews)
-
-American • $
-
-Open now
-
-Firehouse Subs
-
-4.9
-
-4.9 of 5 bubbles
-
-(15 reviews)
-
-Fast Food • $
-
-Closed now
-
-Order
-
-Zaxby's
-
-4.0
-
-4 of 5 bubbles
-
-(28 reviews)
-
-American • $
-
-Closed now
-
-Order
-
-Best nearby
-
-We rank these hotels, restaurants, and attractions by balancing reviews from
-our members with how close they are to this location.
-
-Best nearby hotels
-
-See all
-
-Best Western San Marcos
-
-3.7
-
-3.7 of 5 bubbles
-
-(337)
-
-0.06 miles away
-
-Red Roof Inn San Marcos
-
-3.4
-
-3.4 of 5 bubbles
-
-(123)
-
-0.08 miles away
-
-White Rock Inn
-
-3.0
-
-3 of 5 bubbles
-
-(40)
-
-0.17 miles away
-
-Days Inn by Wyndham San Marcos
-
-2.9
-
-2.9 of 5 bubbles
-
-(266)
-
-0.12 miles away
-
-Best nearby restaurants
-
-See all
-
-Herbert's Taco Hut
-
-4.2
-
-4.2 of 5 bubbles
-
-(342)
-
-0.27 miles away
-
-The Root Cellar Cafe
-
-4.4
-
-4.4 of 5 bubbles
-
-(476)
-
-0.89 miles away
-
-Ivar's River Pub
-
-4.1
-
-4.1 of 5 bubbles
-
-(54)
-
-0.39 miles away
-
-Jason's Deli
-
-4.2
-
-4.2 of 5 bubbles
-
-(64)
-
-0.4 miles away
-
-Best nearby attractions
-
-See all
-
-The Meadows Center For Water And The Environment
-
-4.5
-
-4.5 of 5 bubbles
-
-(329)
-
-0.98 miles away
-
-Rio Vista Park
-
-5.0
-
-5 of 5 bubbles
-
-(3)
-
-0.42 miles away
-
-Bobcat stadium
-
-4.6
-
-4.6 of 5 bubbles
-
-(41)
-
-0.75 miles away
-
-Patio Dolcetto
-
-4.6
-
-4.6 of 5 bubbles
-
-(16)
-
-0.68 miles away
-
-Is This Your Listing?
-
-Own or manage this property? Claim your listing for free to respond to
-reviews, update your profile and much more.
-
-Claim Your Free Listing
-
-#
-
-FUEGO TORTILLA GRILL, San Marcos - Menu, Prices & Restaurant Reviews - Order
-Online Food Delivery - Tripadvisor
-
-San Marcos
-
-San Marcos TourismSan Marcos HotelsSan Marcos Bed and BreakfastSan Marcos
-Vacation RentalsFlights to San MarcosSan Marcos RestaurantsThings to Do in San
-MarcosSan Marcos Travel ForumSan Marcos PhotosSan Marcos Map
-
-Hotels
-
-All San Marcos HotelsSan Marcos Hotel DealsLast Minute Hotels in San
-MarcosHotels Near MeBy Hotel Type
-
-San Marcos MotelsSan Marcos CampgroundsSan Marcos Spa ResortsSan Marcos
-Business HotelsSan Marcos Green HotelsSan Marcos Family Hotels
-
-By Hotel Class
-
-3-Star Hotels in San Marcos
-
-By Hotel Brand
-
-Hilton Hotels in San MarcosLa Quinta Inns & Suites in San MarcosMotel 6 Hotels
-in San MarcosWyndham Hotels in San MarcosInterContinental (IHG) Hotels in San
-MarcosChoice Hotels in San MarcosMarriott Hotels in San Marcos
-
-Popular Amenities
-
-San Marcos Hotels with PoolsPet Friendly Hotels in San Marcos
-
-Popular Neighborhoods
-
-Hotels near Rio VistaHotels near Millview EastHotels near Victory
-GardensHotels near East GuadalupeHotels near Blanco GardensHotels near
-DunbarHotels near CoersHotels near HeritageHotels near Millview West
-
-Popular San Marcos Categories
-
-San Marcos Hotels with Hot TubsSan Marcos Hotels with Heated PoolSan Marcos
-Hotels with Room ServiceSan Marcos Golf HotelsSan Marcos Hotels with
-BarsHotels with Free Wifi in San MarcosHotels with Military Discounts in San
-MarcosSan Marcos Hotels with RestaurantsSan Marcos Pet Friendly MotelsSan
-Marcos Clean Hotels
-
-Near Landmarks
-
-Hotels near San Marcos RiverHotels near The Meadows Center For Water And The
-EnvironmentHotels near Wonder World Cave and ParkHotels near Air Carriage Over
-TexasHotels near Central Texas Wing of the Commemorative Air ForceHotels near
-Bobcat stadiumHotels near The Wittliff CollectionsHotels near Hays County
-Historic CourthouseHotels near Silo Gallery & Glass StudiosHotels near Strahan
-Coliseum
-
-Near Airports
-
-Hotels near Austin-Bergstrom Intl Airport (AUS)Hotels near San Antonio Intl
-Airport (SAT)Motels near San Antonio Intl Airport (SAT)Motels near Austin-
-Bergstrom Intl Airport (AUS)
-
-Near Colleges
-
-Hotels near Texas State University
-
-Popular Hotel Categories
-
-Popular All-Inclusive ResortsPopular Beach ResortsPopular Family
-ResortsPopular All-Inclusive HotelsPopular Hotels With WaterparksPopular
-Honeymoon ResortsPopular Luxury ResortsPopular All-Inclusive Family
-ResortsPopular Golf ResortsPopular Spa ResortsPopular Cheap Resorts
-
-Things to DoRestaurants
-
-All San Marcos RestaurantsRestaurants near Fuego Tortilla GrillPopular Types
-of Food
-
-Latin Restaurants in San MarcosHawaiian Restaurants in San MarcosLebanese
-Restaurants in San MarcosKorean Restaurants in San MarcosTaiwanese Restaurants
-in San MarcosFast Food Restaurants in San MarcosHealthy Restaurants in San
-MarcosVegan Restaurants in San MarcosGluten Free Restaurants in San
-MarcosVegetarian Restaurants in San MarcosBBQ Restaurants for Lunch in San
-MarcosSushi Restaurants for Lunch in San MarcosCafes for Lunch in San Marcos
-
-Popular Dishes
-
-Best French Toast in San MarcosBest Bangers And Mash in San MarcosBest Poutine
-in San MarcosBest Corned Beef in San MarcosBest Nachos in San MarcosBest
-Sandwiches in San MarcosBest Calamari in San MarcosBest Fajitas in San
-MarcosBest Queso in San MarcosBest Alfredo in San MarcosBest Cobb Salad in San
-MarcosBest Eggs Benedict in San MarcosBest Hummus in San MarcosBest Fish Taco
-in San MarcosBest Pancakes in San Marcos
-
-Popular Restaurant Categories
-
-Breakfast Restaurants in San MarcosLunch Restaurants in San MarcosDinner
-Restaurants in San MarcosPrivate Dining Restaurants in San MarcosFood Delivery
-Restaurants in San MarcosRestaurants for Special Occasions in San MarcosCheap
-Eats in San MarcosRestaurants with Outdoor Seating in San MarcosRomantic
-Restaurants in San MarcosKid Friendly Restaurants in San MarcosCoffee & Tea in
-San MarcosBakeries in San MarcosDesserts in San Marcos
-
-FlightsVacation RentalsTravel StoriesCruisesRental CarsMore
-
-ToursAdd a PlaceTravel ForumAirlinesTravelers' ChoiceHelp CenterTrip Planner
-
-© 2025 Tripadvisor LLC All rights reserved.
-
-Terms of UsePrivacy and Cookies StatementCookie consentSite MapHow the site
-worksContact us
-
-This is the version of our website addressed to speakers of English in the
-United States. If you are a resident of another country or region, please
-select the appropriate version of Tripadvisor for your country or region in
-the drop-down menu. Show more
-
-$ USD
-
-United States
+* Topics
 

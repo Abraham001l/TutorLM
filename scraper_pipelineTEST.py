@@ -4,12 +4,10 @@ import asyncio
 import crawl4ai
 import json
 
-content = asyncio.run(web_query_to_data('Fuego Tortilla Grill Reviews', [], 1))
-json_data = {}
+content = asyncio.run(web_query_to_data('how to do matrix multiplication', [], 1))
+
 for i in range(len(content)):
-    json_data[f'data{i}'] = content[i]
-json_string = json.dumps(json_data)
-print(json_string)
+    save_to_text(f'{i}.txt', content[i])
 
 
 
