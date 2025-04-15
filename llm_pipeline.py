@@ -5,7 +5,7 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from vectordb_pipeline import create_collection, add_data, query_data
 
 class llm_model():
-    def __init__(self, model, config_key):
+    def __init__(self, model, config_key, weaviate_client):
         self.next_doc_id = 0
         self.model = model
 
@@ -22,6 +22,10 @@ class llm_model():
 
         # Config Key for memory
         self.config = {"configurable":{"thread_id":config_key}}
+
+        # Initializing local vector DB
+        self.init_vdb_client(weaviate_client)
+        self.create_qd_vdb()
 
     # ---------- Call Model Function For Workflow ----------
     def call_model(self, state: MessagesState):
@@ -77,27 +81,36 @@ class llm_model():
         data (list<string>): data gathered from query
         """
         response = query_data(self.query_data_vdb, query, 4)
-        data = []
-        for obj in response.objects:
-            data.append(obj.properties['data'])
-        return data
+        return response
     
     # ---------- Prepare Data for System Message ----------
-    def prepare_info(self, data):
+    def prepare_info(self, docs):
         """
         Parameters:
-        data (list<string>): data being fed to llm as info on topic
+        docs (list<string>): docs being fed to llm as info on topic
 
         Returns:
         sys_msg (string): system message ready to be fed to llm
         """
         sys_msg = ""
         sys_msg += "This is info that may help you answer the question:\n"
-        for d in data:
+        for d in docs:
             sys_msg += f"Info 1: "+d+"\n"
         return sys_msg
+    
+    # ---------- Check Relevancy of Queried Data ----------
+    # TODO
 
 
-def make_ollama_model(config_key):
+def make_ollama_model(config_key, weaviate_client):
+    """
+    Prameters:
+    config_key (string): config key to allow model to keep memory
+    weaviate_client (WeaviateClient): weaviate client
+
+    Returns:
+    llm_model (llm_model): ollama llm_model
+    """
     model = ChatOllama(model="llama3", temperature=0)
-    return llm_model(model,config_key)
+    ollama_llm_model  = llm_model(model, config_key, weaviate_client)
+    return ollama_llm_model

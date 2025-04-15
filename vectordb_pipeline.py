@@ -4,6 +4,7 @@ import weaviate.classes as wvc
 from weaviate.classes.config import Configure
 from dotenv import load_dotenv
 import os, json
+from weaviate.classes.query import MetadataQuery
 
 # ---------- Loading ENV Variables ----------
 def load_env_vars():
@@ -14,6 +15,10 @@ def load_env_vars():
 
 # ---------- Connect To Client ----------
 def connect_to_client():
+    """
+    Returns:
+    client (WeaviateClient): weaviate client
+    """
     REST_url, wev_api_key = load_env_vars()
     client = weaviate.connect_to_weaviate_cloud(
         cluster_url=REST_url,
@@ -36,7 +41,9 @@ def create_collection(client, collection_name):
     """
     db = client.collections.create(
         name=collection_name,
-        vectorizer_config=Configure.Vectorizer.text2vec_weaviate(),
+        vectorizer_config=Configure.Vectorizer.text2vec_weaviate(
+            model="Snowflake/snowflake-arctic-embed-l-v2.0"
+        ),
         generative_config=Configure.Generative.cohere()
     )
     return db
@@ -79,7 +86,8 @@ def query_data(vdb, query, limit):
     """
     response = vdb.query.near_text(
         query=query,
-        limit=limit
+        limit=limit,
+        include_vector=True,
     )
     return response
 

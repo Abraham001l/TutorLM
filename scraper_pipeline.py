@@ -100,13 +100,13 @@ class Crawler:
             except Exception as e:
                 print(e)
                 return scraped_content
-
-            # # Check if content is valuable
-            # if not self.is_valuable(html):
-            #     return scraped_content
             
             # Scrape html
             scrape = self.html2text.handle(html)
+
+            # Check if content is valuable
+            if not self.is_valuable(scrape):
+                return scraped_content
 
             # Limiting generations
             if self.gen+1 >= 2:
