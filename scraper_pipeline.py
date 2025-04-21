@@ -103,10 +103,11 @@ class Crawler:
             
             # Scrape html
             scrape = self.html2text.handle(html)
+            print(scrape)
 
             # Check if content is valuable
-            if not self.is_valuable(scrape):
-                return scraped_content
+            # if not self.is_valuable(scrape):
+            #     return scraped_content
 
             # Limiting generations
             if self.gen+1 >= 2:

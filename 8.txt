@@ -1,571 +1,228 @@
 Skip to main content
 
-Stack Overflow
+### We value your privacy
 
-  1. About
-  2. Products 
-  3. OverflowAI
+Reddit and its partners use cookies and similar technologies to provide you
+with a better experience. By accepting all cookies, you agree to our use of
+cookies to deliver and maintain our services and site, improve the quality of
+Reddit, personalize Reddit content and advertising, and measure the
+effectiveness of advertising. By rejecting non-essential cookies, Reddit may
+still use certain cookies to ensure the proper functionality of our platform.
+For more information, please see our Cookie Notice and our Privacy Policy.
 
-  1. Stack Overflow for Teams Where developers & technologists share private knowledge with coworkers
-  2. Advertising & Talent Reach devs & technologists worldwide about your product, service or employer brand
-  3. OverflowAI GenAI features for Teams
-  4. OverflowAPI Train & fine-tune LLMs
-  5. Labs The future of collective knowledge sharing
-  6. About the company Visit the blog
+Open menu Open navigation Go to Reddit Home
 
-Loading…
+r/pokemonradicalred  A chip A close button
 
-  1. ###  current community
+Get App Get the Reddit app  Log In Log in to Reddit
 
-     * Stack Overflow 
+Expand user menu Open settings menu
 
-help chat
+Go to pokemonradicalred
 
-     * Meta Stack Overflow 
+r/pokemonradicalred
 
-###  your communities
+r/pokemonradicalred
 
-Sign up or log in to customize your list.
-
-### more stack exchange communities
-
-company blog
-
-  2.   3. Log in
-  4. Sign up
-
-  1.     1. Home
-
-    2. Questions
-
-    3. Tags
-
-    4.     5. Discussions Labs
-
-    6. Chat
-
-    7. Users
-
-    8.     9. Companies
-
-    10. Collectives
-
-    11. Communities for your favorite technologies. Explore all Collectives
-
-  2. Teams
-
-Ask questions, find answers and collaborate at work with Stack Overflow for
-Teams.
-
-Try Teams for free Explore Teams
-
-  3. Teams
-
-  4. Ask questions, find answers and collaborate at work with Stack Overflow for Teams. Explore Teams
-
-##### Collectives™ on Stack Overflow
-
-Find centralized, trusted content and collaborate around the technologies you
-use most.
-
-Learn more about Collectives
-
-**Teams**
-
-Q&A for work
-
-Connect and share knowledge within a single location that is structured and
-easy to search.
-
-Learn more about Teams
-
-# Why can GPU do matrix multiplication faster than CPU?
-
-Ask Question
-
-Asked 6 years, 8 months ago
-
-Modified 8 months ago
-
-Viewed 31k times
-
-20
-
-I've been using GPU for a while without questioning it but now I'm curious.
-
-Why can GPU do matrix multiplication much faster than CPU? Is it because of
-parallel processing? But I didn't write any parallel processing code. Does it
-do it automatically by itself?
-
-Any intuition / high-level explanation will be appreciated!
-
-  * tensorflow
-  * parallel-processing
-  * gpu
-  * matrix-multiplication
-  * pytorch
-
-Share
-
-Improve this question
-
-Follow
-
-edited Apr 13, 2020 at 13:14
-
-nbro
-
-15.9k3434 gold badges120120 silver badges214214 bronze badges
-
-asked Jul 14, 2018 at 22:58
-
-aerinaerin
-
-22.8k3333 gold badges113113 silver badges148148 bronze badges
-
-3
-
-  * 2
-
-Yes because of massively parallel computation. You might have not written any
-parallel code, but tf or torch built-in modules are optimized to run on gpu
-(parallelized)
-
-- Umang Gupta
-
-Commented Jul 15, 2018 at 0:01
-
-  * 6
-
-I really don't understand people who downvoted or wanted this question to be
-closed. It's an important question to ask for some people.
-
-- aerin
-
-Commented Jul 15, 2018 at 20:55
-
-  * @Aaron will leave it closed, because the answer explains it - and follow-up questions concerning CuDa programming would rather be appropriate for SO. it is not that it would be a "bad" question, "too broad" means, that one could write a book about it
-
-- Martin Zeitler
-
-Commented Oct 9, 2018 at 20:05
-
-Add a comment  | 
-
-##  4 Answers 4
-
-Sorted by:  Reset to default
-
-Highest score (default)  Trending (recent votes count more)  Date modified
-(newest first)  Date created (oldest first)
-
-24
-
-### How do you parallelize the computations?
-
-GPU's are able to do a lot of parallel computations. A Lot more than a CPU
-could do. Look at this example of vector addition of let's say 1M elements.
-
-Using a CPU let's say you have 100 maximum threads you can run : (100 is lot
-more but let's assume for a while)
-
-In a typical multi-threading example let's say you parallelized additions on
-all threads.
-
-Here is what I mean by it :
-
-    
-    
-    c[0] = a[0] + b[0] # let's do it on thread 0
-    c[1] = a[1] + b[1] # let's do it on thread 1
-    c[101] = a[101] + b[101] # let's do it on thread 1
-    
-
-We are able to do it because value of c[0], doesn't depend upon any other
-values except a[0] and b[0]. So each addition is independent of others. Hence,
-we were able to easily parallelize the task.
-
-As you see in above example that simultaneously all the addition of 100
-different elements take place saving you time. In this way it takes 1M/100 =
-10,000 steps to add all the elements.
+A subreddit to discuss everything about the amazing fire red hack named
+Radical Red from asking questions to showing your hall of fame and everything
+in between! Check the pinned posts before posting pls!!!
 
 * * *
 
-### How Efficient does GPU Parallelizes?
+Members Online
 
-Now consider today's GPU with about 2048 threads, all threads can
-independently do 2048 different operations in constant time. Hence giving a
-boost up.
+•
 
-In your case of matrix multiplication. You can parallelize the computations,
-Because GPU have much more threads and in each thread you have multiple
-blocks. So a lot of computations are parallelized, resulting quick
-computations.
+KobeBetterThenMJ
+
+#  How does photosynthesis work
+
+help
+
+No I’m not talking about the plants, but the Pokémon ability, Photosynthesis.
+I’m currently on my first play through, haven’t had to change my team up “too”
+much now but that has changed. Considering this, I wanted to focus down on my
+weaknesses and so I’ve considered changing my mons a bit. So I’ve been looking
+and I have a Walking Wake with the ability photosynthesis. This made me think,
+considering it’s base speed only being 109, if I put it out in the sun, and
+make the nature affect SpA, could I potentially have photosynthesis boost the
+speed ? Or since the SpA is the highest base, would photosynthesis boost it
+instead ?
+
+Read more
+
+New to Reddit?
+
+Create your account and connect with a world of communities.
+
+Continue with Email
+
+Continue With Phone Number
+
+By continuing, you agree to our User Agreement and acknowledge that you
+understand the Privacy Policy.
+
+**Top 3%** Rank by size
+
+Public
+
+Anyone can view, post, and comment to this community
+
+Reddit Rules Privacy Policy User Agreement Reddit, Inc. © 2025. All rights
+reserved.
+
+Expand Navigation Collapse Navigation
+
+  * &nbsp;
 
 * * *
 
-> But I didn't write any parallel processing for my GTX1080! Does it do it by
-> itself?
+  * TOPICS
 
-Almost all the framework for machine learning uses parallelized implementation
-of all the possible operations. This is achieved by CUDA programming, NVIDIA
-API to do parallel computations on NVIDIA GPU's. You don't write it
-explicitly, it's all done at low level, and you do not even get to know.
+  * Internet Culture (Viral)
 
-Yes it doesn't mean that a C++ program you wrote will automatically be
-parallelized, just because you have a GPU. No, you need to write it using
-CUDA, only then it will be parallelized, but most programming framework have
-it, So it is not required from your end.
+    * Amazing
 
-Share
+    * Animals & Pets
 
-Improve this answer
+    * Cringe & Facepalm
 
-Follow
+    * Funny
 
-edited Mar 2, 2020 at 11:21
+    * Interesting
 
-answered Jul 15, 2018 at 4:28
+    * Memes
 
-coder3101coder3101
+    * Oddly Satisfying
 
-4,17533 gold badges2828 silver badges3030 bronze badges
+    * Reddit Meta
 
-3
+    * Wholesome & Heartwarming
 
-  * 3
+  * Games
 
-I don't think your thread analogy is correct. Computations are CPU processor
-bound, not thread bound. Thus on a 4 core CPU with 2048 threads, you can only
-do 4 parallel mathematical operations _in parallel_. This goes up a bit with
-SIMD. However, a GPU is comprised of many many smaller processors, which means
-it can highly parallelise the computations.
+    * Action Games
 
-- Rambatino
+    * Adventure Games
 
-Commented Feb 11, 2021 at 16:54
+    * Esports
 
-  * x86 processor have 2 threads per core, so a 4 core processor has 8 threads and if utilised efficiently they can all run in parallel. The above analogy of 100 CPU threads is realistic, in 64 core processor, you can in fact run 128 parallel threads. You can create as many threads you want say 2048 in a CPU as well but only 128 (on 64 core) of them will run in parallel rest will be concurrently executed. So I think it is not processor bound but number of threads a processor run in parallel.
+    * Gaming Consoles & Gear
 
-- coder3101
+    * Gaming News & Discussion
 
-Commented Feb 13, 2021 at 2:40
+    * Mobile Games
 
-  * For instance, Apple M1 has 1 thread per core, so 8 Core M1 can run only 8 threads. Clearly computation is not Core bound but total threads a processor can run in parallel. For simplicity ignore SIMD instructions.
+    * Other Games
 
-- coder3101
+    * Role-Playing Games
 
-Commented Feb 13, 2021 at 2:45
+    * Simulation Games
 
-Add a comment  | 
+    * Sports & Racing Games
 
-13
+    * Strategy Games
 
-Actually this question led me to take Computer Architecture class from UW (Dr.
-Luis Ceze). Now I can answer this question.
+    * Tabletop Games
 
-To sum it up, it's because of the hardware specialization. We can tailor the
-chip architecture to balance between specialization and efficiency (more
-flexible vs more efficient). For example, GPU is highly specialized for
-parallel processing, while CPU is designed to handle many different kinds of
-operations.
+  * Q&As
 
-In addition, FPGA, ASIC are more specialized than GPU. (Do you see blocks for
-processing units?)
+    * Q&As
 
-Share
+    * Stories & Confessions
 
-Improve this answer
+  * Technology
 
-Follow
+    * 3D Printing
 
-edited Apr 10, 2021 at 16:37
+    * Artificial Intelligence & Machine Learning
 
-answered Apr 5, 2020 at 15:35
+    * Computers & Hardware
 
-aerinaerin
+    * Consumer Electronics
 
-22.8k3333 gold badges113113 silver badges148148 bronze badges
+    * DIY Electronics
 
-2
+    * Programming
 
-  * In my understanding, FPGAs are more flexible than CPUs or GPUs (you can literally re-program the gates and memory to perform any hardware function in the field), yet less efficient (re-programmability resources (extra muxes and wiring) consume extra chip area and also affect speed, as signals must pass through more gates / routing). E.g. an FPGA can be reprogrammed to include CPUs, GPUs (and even sometimes it will **reprogram itself**). Lovely infographics but IMO I think FPGAs should be on the far left of the last image.
+    * Software & Apps
 
-- Ralph
+    * Streaming Services
 
-Commented Jul 15, 2022 at 1:33
+    * Tech News & Discussion
 
-  * 1
+    * Virtual & Augmented Reality
 
-@Ralph Her infographic is referring to more flexibility of _types of
-instructions_ you can send the processing unit _after it 's been setup_. Using
-an FPGA as an accelerator means you have specific instructions you want it to
-be able to handle and you are stripping out any non-necessary logic in the
-accelerator use-case. Asic is simply the baking of that design in silicon. You
-are also correct that you _can_ reprogram an FPGA to be a soft-cpu, but that's
-not the specific application of FPGA use case here.
+  * Pop Culture
 
-- horta
+    * Celebrities
 
-Commented Jun 7, 2024 at 15:32
+    * Creators & Influencers
 
-Add a comment  | 
+    * Generations & Nostalgia
 
-2
+    * Podcasts
 
-GPU design traditionally focuses on maximizing floating point units and doing
-multidimensional array operations. They were originally designed for graphics,
-and linear math is useful.
+    * Streamers
 
-CPUs are optimized for general computing and single-threaded execution. Each
-execution unit is large and sophisticated.
+    * Tarot & Astrology
 
-Share
+  * Movies & TV
 
-Improve this answer
+    * Action Movies & Series
 
-Follow
+    * Animated Movies & Series
 
-answered Feb 20, 2021 at 15:38
+    * Comedy Movies & Series
 
-BrentBrent
+    * Crime, Mystery, & Thriller Movies & Series
 
-4,30344 gold badges3636 silver badges6767 bronze badges
+    * Documentary Movies & Series
 
-Add a comment  | 
+    * Drama Movies & Series
 
-1
+    * Fantasy Movies & Series
 
-The GPU has multiple hardware units that can operate on multiple matrices in
-parallel. For example, for performing 100 matrix multiplications on a CPU that
-has 4 multiplier units, it would take 25 iterations. On the other hand, a GPU
-with 128 multiplier units would get them done in one iteration. This is what
-all responses so far have addressed.
+    * Horror Movies & Series
 
-I would state that in addition to that, each matrix can be further partitioned
-into sub matrices and the multiplication of these submatrices could be done in
-parallel. The GPU can leverage this feature and generate a faster response.
-Further, certain matrices can be calculated much faster when broken down into
-submatrices and the GPU will excel there as well.
+    * Movie News & Discussion
 
-Share
+    * Reality TV
 
-Improve this answer
+    * Romance Movies & Series
 
-Follow
+    * Sci-Fi Movies & Series
 
-answered Jul 12, 2024 at 1:33
+    * Superhero Movies & Series
 
-HyakutakeHyakutake
+    * TV News & Discussion
 
-1111 bronze badge
+* * *
 
-Add a comment  | 
+  * RESOURCES
 
-##  Your Answer
+  * About Reddit
 
-Thanks for contributing an answer to Stack Overflow!
+  * Advertise
 
-  * Please be sure to _answer the question_. Provide details and share your research!
+  * Reddit Pro
 
-But _avoid_ …
+BETA
 
-  * Asking for help, clarification, or responding to other answers.
-  * Making statements based on opinion; back them up with references or personal experience.
-
-To learn more, see our tips on writing great answers.
-
-Draft saved
-
-Draft discarded
-
-### Sign up or log in
-
-Sign up using Google
-
-Sign up using Email and Password
-
-Submit
-
-### Post as a guest
-
-Name
-
-Email
-
-Required, but never shown
-
-### Post as a guest
-
-Name
-
-Email
-
-Required, but never shown
-
-Post Your Answer  Discard
-
-By clicking “Post Your Answer”, you agree to our terms of service and
-acknowledge you have read our privacy policy.
-
-Start asking to get answers
-
-Find the answer to your question by asking.
-
-Ask question
-
-Explore related questions
-
-  * tensorflow
-  * parallel-processing
-  * gpu
-  * matrix-multiplication
-  * pytorch
-
-See similar questions with these tags.
-
-  * The Overflow Blog 
-  * Not all AI is generative: Efficient scheduling with mathematics
-
-  * From training to inference: The new role of web data in LLMs
-
-  * Featured on Meta 
-  * Changes to reporting for the [status-review] escalation process
-
-  * Policy: Generative AI (e.g., ChatGPT) is banned
-
-  * Exploring content beyond Q&A: A discussion about closed (and potentially...
-
-Visit chat
-
-#### Linked
-
-565
-
-What do the terms "CPU bound" and "I/O bound" mean?
-
-#### Related
-
-1
-
-CUDA 8.0, GTX 1080, why is vector addition slower than matrix multiplication
-by 5x?
-
-8
-
-Speedup GPU vs CPU for matrix operations
-
-7
-
-Basic multi GPU parallelization of matrix multiplication
-
-2
-
-PyTorch Slow Batch matrix multiplication on GPU
-
-2
-
-Tensorflow matrix multiplication is slower than numpy
-
-3
-
-Why is numpy.dot as fast as these GPU implementations of matrix
-multiplication?
-
-1
-
-Why is my CPU doing matrix operations faster than GPU instead?
-
-3
-
-Why is my GPU slower than CPU in matrix operations?
-
-3
-
-Why multiplication on GPU is slower than on CPU?
-
-2
-
-Tensorflow performance drop for second calculation
-
-####  Hot Network Questions
-
-  * What is willful blindness? 
-  * How to compute a valid lower bound in column generation with heuristic pricing 
-  * How do I write only five-word sentences? 
-  * Grammar Error in Frank Herbert's Children of Dune? 
-  * Term for a book that is dedicated to listing other books about a certain topic 
-  * Does sphere eversion require the axiom of choice? 
-  * When reporting the scores of a game in the form of "X lost Y-Z to W", Should Y be the score of X or W? 
-  * Sefer Hatanya- Learning resources 
-  * Is it advisable for beginners to learn new piano music from falling notes notation? 
-  * Is it normal that a professor in a class I am taking asks to design a graduate course in return of 40% of the course grades? 
-  * mathematical metaphors in Alice's adventures 
-  * Double alignment in align environment 
-  * Speciation while populating a planet from a colony ship 
-  * The Cutting Room Floor 
-  * Can I remove these laptop fan parts? 
-  * Is there any problem with too much (or false) precision? 
-  * Why Does R Allow Omitting {} in Function Definitions? 
-  * Help identify this very early airplane, possibly filmed by Anthony Fokker circa 1905 
-  * When only three sides are shown, can a Rubik's Cube be impossible? 
-  * A cube somewhere around 
-  * Use of the Present Simple as instantaneous present when the listener is present physically 
-  * Apeman cryptic crossword 
-  * Highlighting a region on a unit ball 
-  * CPU number not equal to threads per core X cores per socket X sockets 
-
-more hot questions
-
-Question feed
-
-#  Subscribe to RSS
-
-Question feed
-
-To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
-
-##### Stack Overflow
-
-  * Questions
   * Help
-  * Chat
-
-##### Products
-
-  * Teams
-  * Advertising
-  * Talent
-
-##### Company
-
-  * About
-  * Press
-  * Work Here
-  * Legal
-  * Privacy Policy
-  * Terms of Service
-  * Contact Us
-  * Cookie Settings 
-  * Cookie Policy
-
-##### Stack Exchange Network
-
-  * Technology 
-  * Culture & recreation 
-  * Life & arts 
-  * Science 
-  * Professional 
-  * Business 
-  * API 
-  * Data 
 
   * Blog
-  * Facebook
-  * Twitter
-  * LinkedIn
-  * Instagram
 
-Site design / logo © 2025 Stack Exchange Inc;  user contributions licensed
-under  CC BY-SA .  rev 2025.4.3.24777
+  * Careers
+
+  * Press
+
+* * *
+
+  * Communities
+
+  * Best of Reddit
+
+  * Topics
 

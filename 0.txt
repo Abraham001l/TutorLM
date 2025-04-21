@@ -1,332 +1,636 @@
-# How to Multiply Matrices  
-  
-A Matrix is an array of numbers:
+Skip to content
+
+###  It’s a wonderful world — and universe — out there.
+
+**Come explore with us!**
+
+Subscribe / Renew Now
+
+Menu
+
+    * All Topics
+      * Life
+      * Humans
+      * Earth
+      * Space
+      * Tech
+    * Science News
+    * Menu
+      * All Stories
+      * Collections
+      * Explainers
+      * Word of the Week
+      * Experiments
+      * Analyze This
+      * Technically Fiction
+      * Action for Earth
+      * Cool Jobs
+      * Invention & Innovation
+      * Classroom Questions
+    * About Us
+    * Education Resources
+
+Donate
+
+## Science News Explores
+
+Search
+
+Open search Close search
 
-  
-A Matrix  
-(This one has 2 Rows and 3 Columns)
+## Science News Explores
 
-To multiply a matrix by a single number is easy:
+    * All Topics 
+      * Earth 
+        * Environment 
+        * Climate 
+        * Oceans 
+        * Agriculture 
+      * Humans 
+        * Health & Medicine 
+        * Psychology 
+        * Archaeology 
+      * Life 
+        * Animals 
+        * Brain 
+        * Plants 
+        * Fossils 
+        * Ecosystems 
+        * Microbes 
+        * Genetics 
+      * Physics 
+        * Materials Science 
+      * Space 
+        * Planets 
+      * Tech 
+        * Computing 
+        * Artificial Intelligence 
+      * Chemistry 
+      * Math 
+      * Science & Society 
+All Topics
 
-These are the calculations:
+    * Life
+      * Life 
+        * Animals 
+        * Brain 
+        * Plants 
+        * Fossils 
+        * Ecosystems 
+        * Microbes 
+        * Genetics 
+      * ## Recent posts in Life
 
-2×4=8 | 2×0=0  
----|---  
-2×1=2 | 2×-9=-18  
-  
-We call the number ("2" in this case) a **scalar** , so this is called "scalar
-multiplication".
+        * Animals 
 
-## Multiplying a Matrix by Another Matrix
+###  Butts of these fly larvae mimic a termite’s face
 
-But to multiply a matrix **by another matrix** we need to do the "dot product"
-of rows and columns ... what does that mean? Let us see with an example:
+By Gennaro Tomma7 hours ago
 
-To work out the answer for the **1st row** and **1st column** :
+        * Microbes 
 
-The "Dot Product" is where we **multiply matching members** , then sum up:
+###  Living lenses? Glass-coated microbes might take better photos
 
-(1, 2, 3) • (7, 9, 11) = 1×7 + 2×9 + 3×11  
-    = 58
+By Katie CottinghamApril 18, 2025
 
-We match the 1st members (1 and 7), multiply them, likewise for the 2nd
-members (2 and 9) and the 3rd members (3 and 11), and finally sum them up.
+        * Health & Medicine 
 
-Want to see another example? Here it is for the 1st row and **2nd column** :
+###  Scratching an itch has both good effects and bad
 
-(1, 2, 3) • (8, 10, 12) = 1×8 + 2×10 + 3×12  
-    = 64
+By Laura SandersApril 16, 2025
 
-We can do the same thing for the **2nd row** and **1st column** :
+    * Humans
+      * Humans 
+        * Health & Medicine 
+        * Psychology 
+        * Archaeology 
+      * ## Recent posts in Humans
 
-(4, 5, 6) • (7, 9, 11) = 4×7 + 5×9 + 6×11  
-    = 139
+        * Chemistry 
 
-And for the **2nd row** and **2nd column** :
+###  Scientists Say: Vitamin
 
-(4, 5, 6) • (8, 10, 12) = 4×8 + 5×10 + 6×12  
-    = 154
+By Katie Grace Carpenter7 hours ago
 
-And we get:
+        * Health & Medicine 
 
-DONE!
+###  Scratching an itch has both good effects and bad
 
-## Why Do It This Way?
+By Laura SandersApril 16, 2025
 
-This may seem an odd and complicated way of multiplying, but it is necessary!
+        * Health & Medicine 
 
-I can give you a real-life example to illustrate why we multiply matrices in
-this way.
+###  Explainer: What is asthma and how is it treated?
 
-### Example: The local shop sells 3 types of pies.
+By Sejal ParekhApril 14, 2025
 
-  * Apple pies cost **$3** each
-  * Cherry pies cost **$4** each
-  * Blueberry pies cost **$2** each
+    * Earth
+      * Earth 
+        * Environment 
+        * Climate 
+        * Oceans 
+        * Agriculture 
+      * ## Recent posts in Earth
 
-And this is how many they sold in 4 days:
+        * Earth 
 
-Now think about this ... the **value of sales** for Monday is calculated this
-way:
+###  Let’s learn about the carbon cycle
 
-Apple pie value + Cherry pie value + Blueberry pie value
+By Maria TemmingApril 15, 2025
 
-$3×13 + $4×8 + $2×6 = $83
+        * Environment 
 
-So it is, in fact, the "dot product" of prices and how many were sold:
+###  More and more, microplastics are collecting in our brains
 
-($3, $4, $2) • (13, 8, 6) = $3×13 + $4×8 + $2×6  
-    = $83
+By Laura Sanders and Janet RaloffApril 9, 2025
 
-We **match** the price to how many sold, **multiply** each, then **sum** the
-result.
+        * Tech 
 
+###  Scientists Say: Agrivoltaics
 
+By Katie Grace CarpenterApril 7, 2025
 
-In other words:
+    * Space
+      * Space 
+        * Planets 
+      * ## Recent posts in Space
 
-  * The sales for Monday were: Apple pies: **$3×13=$39** , Cherry pies: **$4×8=$32** , and Blueberry pies: **$2×6=$12**. Together that is $39 + $32 + $12 = **$83**
-  * And for Tuesday: **$3×9 +** **$4×7 + $2****×4 =** **$63**
-  * And for Wednesday: **$3×7 +** **$4×4 + $2****×0 =** **$37**
-  * And for Thursday: **$3×15 +** **$4×6 + $2****×3 =** **$75**
+        * Space 
 
-So it is important to match each price to each quantity.
+###  The universe: How will it end?
 
+By Stephen OrnesApril 17, 2025
 
+        * Chemistry 
 
-Now you know why we use the "dot product".
+###  Scientists Say: Nucleosynthesis
 
+By Katie Grace CarpenterMarch 24, 2025
 
+        * Planets 
 
-And here is the full result in Matrix form:
+###  Pluto and its moon Charon may have paired up with a kiss
 
-They sold **$83** worth of pies on Monday, **$63** on Tuesday, etc.
+By Lisa GrossmanMarch 10, 2025
 
-(You can put those values into the Matrix Calculator to see if they work.)
+    * Tech
+      * Tech 
+        * Computing 
+        * Artificial Intelligence 
+      * ## Recent posts in Tech
 
-## Rows and Columns
+        * Microbes 
 
-To show how many rows and columns a matrix has we often write
-**rows×columns**.
+###  Living lenses? Glass-coated microbes might take better photos
 
-Example: This matrix is **2×3** (2 rows by 3 columns):
+By Katie CottinghamApril 18, 2025
 
-When we do multiplication:
+        * Tech 
 
-  * The number of **columns of the 1st matrix** must equal the number of **rows of the 2nd matrix**.
-  * And the result will have the same number of **rows as the 1st matrix** , and the same number of **columns as the 2nd matrix**.
+###  Scientists Say: Agrivoltaics
 
-### Example from before:
+By Katie Grace CarpenterApril 7, 2025
 
-In that example we multiplied a 1×3 matrix by a 3×4 matrix (note the 3s are
-the same), and the result was a 1×4 matrix.
+        * Tech 
 
-_In General:_
+###  Experiment: Make the fastest rubber band paddleboat
 
-To multiply an **m×n** matrix by an **n×p** matrix, the **n** s must be the
-same,  
-and the result is an **m×p** matrix.
+By Science BuddiesApril 1, 2025
 
+Plants
 
+#  Explainer: How photosynthesis works
 
-So ... multiplying a **1×3** by a **3×1** gets a **1×1** result:
+Plants make sugar and oxygen with the power of water, carbon dioxide and
+sunlight
 
-1
+Green plants take in light from the sun and turn water and carbon dioxide into
+the oxygen we breathe and the sugars we eat.
 
-2
+Jeja/E+/Getty Images
 
-3
+### Share this:
 
-4
+    * Email
+    * Facebook
+    * Twitter
+    * Pinterest
+    * Reddit
+    * Google Classroom
+    * Print
 
-5
+By Bethany Brookshire
 
-6
+October 28, 2020 at 6:30 am
 
-=
+Take a deep breath. Then thank a plant. If you eat fruit, vegetables, grains
+or potatoes, thank a plant too.  Plants and algae provide us with the oxygen
+we need to survive, as well as the carbohydrates we use for energy. They do it
+all through photosynthesis.
 
-1×4+2×5+3×6
+Photosynthesis is the process of creating sugar and oxygen from carbon
+dioxide, water and sunlight. It happens through a long series of chemical
+reactions. But it can be summarized like this: Carbon dioxide, water and light
+go in. Glucose, water and oxygen come out. (Glucose is a simple sugar.)
 
-=
+Photosynthesis can be split into two processes. The “photo” part refers to
+reactions triggered by light. “Synthesis” — the making of the sugar — is a
+separate process called the Calvin cycle.
 
-32
+Both processes happen inside a chloroplast. This is a specialized structure,
+or organelle, in a plant cell. The structure contains stacks of membranes
+called thylakoid membranes. That’s where the light reaction begins.
 
-But multiplying a **3×1** by a **1×3** gets a **3×3** result:
+Chloroplasts are found in plant cells. This is where photosynthesis takes
+place. The chlorophyll molecules that take in energy from sunlight are located
+in the stacks called thylakoid membranes. blueringmedia/iStock/Getty Images
+Plus
 
-4
+#### Let the light shine in
 
-5
+When light hits a plant’s leaves, it shines on chloroplasts and into their
+thylakoid membranes. Those membranes are filled with chlorophyll, a green
+pigment. This pigment absorbs light energy. Light travels as electromagnetic
+waves. The wavelength — distance between waves — determines energy level. Some
+of those wavelengths are visible to us as the colors we see. If a molecule,
+such as chlorophyll, has the right shape, it can absorb the energy from some
+wavelengths of light.
 
-6
+Chlorophyll can absorb light we see as blue and red. That’s why we see plants
+as green. Green is the wavelength plants reflect, not the color they absorb.
 
-1
+While light travels as a wave, it also can be a particle called a photon.
+Photons have no mass. They do, however, have a small amount of light energy.
 
-2
+When a photon of light from the sun bounces into a leaf, its energy excites a
+chlorophyll molecule. That photon starts a process that splits a molecule of
+water. The oxygen atom that splits off from the water instantly bonds with
+another, creating a molecule of oxygen, or O2. The chemical reaction also
+produces a molecule called ATP and another molecule called NADPH. Both of
+these allow a cell to store energy. The ATP and NADPH also will take part in
+the synthesis part of photosynthesis.
 
-3
+Notice that the light reaction makes no sugar. Instead, it supplies energy —
+stored in the ATP and NADPH — that gets plugged into the Calvin cycle. This is
+where sugar is made.
 
-=
+But the light reaction does produce something we use: oxygen. All the oxygen
+we breathe is the result of this step in photosynthesis, carried out by plants
+and algae (which are not plants) the world over.
 
-4×1
+#### Give me some sugar
 
-4×2
+The next step takes the energy from the light reaction and applies it to a
+process called the Calvin cycle. The cycle is named for Melvin Calvin, the man
+who discovered it.
 
-4×3
+The Calvin cycle is sometimes also called the dark reaction because none of
+its steps require light. But it still happens during the day. That’s because
+it needs the energy produced by the light reaction that comes before it.
 
-5×1
+While the light reaction takes place in the thylakoid membranes, the ATP and
+NADPH it produces end up in the stroma. This is the space inside the
+chloroplast but outside the thylakoid membranes.
 
-5×2
+#### The Calvin cycle has four major steps:
 
-5×3
+    1. **carbon fixation** : Here, the plant brings in CO2 and attaches it to another carbon molecule, using rubisco. This is an enzyme, or chemical that makes reactions move faster. This step is so important that rubisco is the most common protein in a chloroplast — and on Earth. Rubisco attaches the carbon in CO2 to a five-carbon molecule called ribulose 1,5-bisphosphate (or RuBP). This creates a six-carbon molecule, which immediately splits into two chemicals, each with three carbons.  
 
-6×1
+    2. **reduction** : The ATP and NADPH from the light reaction pop in and transform the two three-carbon molecules into two small sugar molecules. The sugar molecules are called G3P. That’s short for glyceraldehyde 3-phosphate (GLIH- sur-AAL-duh-hide 3-FOS-fayt).  
 
-6×2
+    3. **carbohydrate formation** : Some of that G3P leaves the cycle to be converted into bigger sugars such as glucose (C6H12O6).  
 
-6×3
+    4. **regeneration** : With more ATP from the continuing light reaction, leftover G3P picks up two more carbons to become RuBP. This RuBP pairs up with rubisco again. They are now ready to start the Calvin cycle again when the next molecule of CO2 arrives.
 
-=
+At the end of photosynthesis, a plant ends up with glucose (C6H12O6), oxygen
+(O2) and water (H2O). The glucose molecule goes on to bigger things. It can
+become part of a long-chain molecule, such as cellulose; that’s the chemical
+that makes up cell walls. Plants also can store the energy packed in a glucose
+molecule within larger starch molecules. They can even put the glucose into
+other sugars — such as fructose — to make a plant’s fruit sweet.
 
-4
+All of these molecules are carbohydrates — chemicals containing carbon, oxygen
+and hydrogen. (CarbOHydrate makes it easy to remember.) The plant uses the
+bonds in these chemicals to store energy. But we use the these chemicals too.
+Carbohydrates are an important part of the foods we eat, particularly grains,
+potatoes, fruits and vegetables.
 
-8
+We eat plants for food. But plants make their own food. This video explains
+how.
 
-12
+###  Power Words
 
-5
+More About Power Words
 
-10
+**algae** : Single-celled organisms, once considered plants (they aren’t). As
+aquatic organisms, they grow in water. Like green plants, they depend on
+sunlight to make their food.
 
-15
+**atom** : The basic unit of a chemical element. Atoms are made up of a dense
+nucleus that contains positively charged protons and uncharged neutrons. The
+nucleus is orbited by a cloud of negatively charged electrons.
 
-6
+**ATP** : Short for adenosine triphosphate. Cells make this molecule to power
+almost all of their activities. Cells use oxygen and simple sugars to create
+this molecule, the main source of their energy. The small structures in cells
+that carry out this energy-storing process are known as mitochondria. Like a
+battery, ATP stores a bit of usable energy. Once the cell uses it up,
+mitochondria must recharge the cell by making more ATP using energy harvested
+from the cell’s nutrients.
 
-12
+**bond** : (in chemistry) A semi-permanent attachment between atoms — or
+groups of atoms — in a molecule. It’s formed by an attractive force between
+the participating atoms. Once bonded, the atoms will work as a unit. To
+separate the component atoms, energy must be supplied to the molecule as heat
+or some other type of radiation.
 
-18
+**Calvin cycle** : Named for Melvin Calvin, the man who discovered it, this
+cycle is the process by which plants and algae turn carbon dioxide into basic
+carbohydrates.
 
-## Identity Matrix
+**carbohydrates** : Any of a large group of compounds occurring in foods and
+living tissues, including sugars, starch and cellulose. They contain hydrogen
+and oxygen in the same ratio as water (2:1) and typically can be broken down
+in an animal’s body to release energy.
 
-The "Identity Matrix" is the matrix equivalent of the number "1":
+**carbon dioxide** : (or CO2) A colorless, odorless gas produced by all
+animals when the oxygen they inhale reacts with the carbon-rich foods that
+they’ve eaten. Carbon dioxide also is released when organic matter burns
+(including fossil fuels like oil or gas). Carbon dioxide acts as a greenhouse
+gas, trapping heat in Earth’s atmosphere. Plants convert carbon dioxide into
+oxygen during photosynthesis, the process they use to make their own food.
 
-  
-A 3×3 Identity Matrix
+**cell** : The smallest structural and functional unit of an organism.
+Typically too small to see with the unaided eye, it consists of a watery fluid
+surrounded by a membrane or wall. Depending on their size, animals are made of
+anywhere from thousands to trillions of cells. Most organisms, such as yeasts,
+molds, bacteria and some algae, are composed of only one cell.
 
-  * It is "square" (has same number of rows as columns)
-  * It can be large or small (2×2, 100×100, ... whatever)
-  * It has **1** s on the main diagonal and **0** s everywhere else
-  * Its symbol is the capital letter **I**
+**cellulose** : A type of fiber found in plant cell walls. It is formed by
+chains of glucose molecules.
 
-It is a **special matrix** , because when we multiply by it, the original is
-unchanged:
+**chemical** : A substance formed from two or more atoms that unite (bond) in
+a fixed proportion and structure. For example, water is a chemical made when
+two hydrogen atoms bond to one oxygen atom. Its chemical formula is H2O.
+Chemical also can be an adjective to describe properties of materials that are
+the result of various reactions between different compounds.
 
-A × I = A  
+**chemical reaction** : A process that involves the rearrangement of the
+molecules or structure of a substance, as opposed to a change in physical form
+(as from a solid to a gas).
 
-I × A = A  
+**chlorophyll** : Any of several green pigments found in plants that perform
+photosynthesis — creating sugars (foods) from carbon dioxide and water.
 
-## Order of Multiplication
+**chloroplast** : A tiny structure in the cells of green algae and green
+plants that contain chlorophyll and creates glucose through photosynthesis.
 
-In arithmetic we are used to:
+**electromagnetic** : An adjective referring to light radiation, to magnetism
+or to both.
 
-3 × 5 = 5 × 3  
-(The Commutative Law of Multiplication)
+**excite** : (in chemistry and physics) To transfer energy to one or more
+outer electrons in an atom. They remain in this higher energy state until they
+shed the extra energy through the emission of some type of radiation, such as
+light.
 
-But this is **not** generally true for matrices (matrix multiplication is
-**not commutative**):
+**fructose** : A simple sugar. Along with glucose, fructose makes up half of
+each molecule of sucrose (also known as table sugar).
 
-AB ≠ BA
+**glucose** : A simple sugar that is an important energy source in living
+organisms. As an energy source moving through the bloodstream, it is known as
+“blood sugar.” It is half of the molecule that makes up table sugar (also
+known as sucrose).
 
-When we change the order of multiplication, the answer is (usually)
-**different**.
+**glyceraldehyde 3-phosphate** or **G3P** : A molecule created as part of the
+chemical steps that form simple carbohydrates. Two molecules of G3P are made
+in plants and algae as part of the Calvin cycle of photosynthesis. Animals and
+bacteria also create G3P as part of their own steps of making carbohydrate.
 
-### Example:
+**hydrogen** : The lightest element in the universe. As a gas, it is
+colorless, odorless and highly flammable. It’s an integral part of many fuels,
+fats and chemicals that make up living tissues. It’s made of a single proton
+(which serves as its nucleus) orbited by a single electron.
 
-See how changing the order affects this multiplication:
+**mass** : A number that shows how much an object resists speeding up and
+slowing down — basically a measure of how much matter that object is made
+from.
 
-1
+**membrane** : A barrier which blocks the passage (or flow through) of some
+materials depending on their size or other features. Membranes are an integral
+part of filtration systems. Many serve that same function as the outer
+covering of cells or organs of a body.
 
-2
+**molecule** : An electrically neutral group of atoms that represents the
+smallest possible amount of a chemical compound. Molecules can be made of
+single types of atoms or of different types. For example, the oxygen in the
+air is made of two oxygen atoms (O2), but water is made of two hydrogen atoms
+and one oxygen atom (H2O).
 
-3
+**NADPH or NADP+** : Short for nicotinamide adenine dinucleotide phosphate
+(but no one calls it that). This molecule is a way for cells to store and
+transfer energy. When the NADP+ molecule is transformed to NADPH, it contains
+energy, which it can then use to power other reactions in a cell.
 
-4
+**organelle** : Specialized structures, such as mitochondria, found within a
+cell.
 
-2
+**oxygen** : A gas that makes up about 21 percent of Earth's atmosphere. All
+animals and many microorganisms need oxygen to fuel their growth (and
+metabolism).
 
-0
+**particle** : A minute amount of something.
 
-1
+**photon** : A particle representing the smallest possible amount of light or
+other type of electromagnetic radiation.
 
-2
+**photosynthesis** : (verb: photosynthesize) The process by which green plants
+and some other organisms use sunlight to produce foods from carbon dioxide and
+water.
 
-=
+**protein** : A compound made from one or more long chains of amino acids.
+Proteins are an essential part of all living organisms. They form the basis of
+living cells, muscle and tissues; they also do the work inside of cells. Among
+the better-known, stand-alone proteins are the hemoglobin (in blood) and the
+antibodies (also in blood) that attempt to fight infections. Medicines
+frequently work by latching onto proteins.
 
-1×2+2×1
+**reduction** : (v. reduce) A chemical reaction that adds one or more
+electrons. It’s also viewed as the opposite of oxidation. As rust oxidizes
+iron, the process reduces those nearby oxygen atoms. That means that they gain
+electrons, which have a negative charge.
 
-1×0+2×2
+**ribulose 1,5-bisphosphate** : (RuBP) A molecule that completes the first and
+last steps of the Calvin cycle, which creates sugar out of carbon dioxide.
+This molecule contains five carbons and binds to the enzyme rubisco. Rubisco
+hooks up RuBP with carbon dioxide from the air, the first step in making a
+carbohydrate.
 
-3×2+4×1
+**rubisco** : This acronym stands for ribulose bisphosphate
+carboxylase/oxygenase. It is the most common protein on Earth. In its role as
+an enzyme, it plays a pivotal role in photosynthesis.
 
-3×0+4×2
+**starch** : A soft white chemical made by all green plants. It’s a relatively
+long molecule made from linking together a lot of smaller, identical building
+blocks — all of them glucose, a simple sugar. Plants and animals use glucose
+as an energy source. Plants store that glucose, in the form of starch, as a
+reserve supply of energy. Animals that consume starch can break down the
+starch into glucose molecules to extract the useful energy.
 
-=
+**stroma** : (in botany) The colorless fluid inside a chloroplast, where the
+Calvin cycle portion of photosynthesis takes place. (in anatomy) The
+supportive structure surrounding an organ. It includes the connective tissue
+that holds the organ in place and the blood vessels that bring the organ
+oxygen and sugars.
 
-4
+**synthesis** : (v. synthesize) The production of a substance by the combining
+of simpler chemical building blocks.
 
-4
+**thylakoid membranes** : An internal system of connected membranes inside a
+chloroplast. The membranes contain not only the green pigment chlorophyll, but
+also proteins. These membranes are where the light reaction portion of
+photosynthesis takes place, producing oxygen and energy to power the sugar-
+making portions of photosynthesis.
 
-10
+**wavelength** : The distance between one peak and the next in a series of
+waves, or the distance between one trough and the next. It’s also one of the
+“yardsticks” used to measure radiation. Visible light — which, like all
+electromagnetic radiation, travels in waves — includes wavelengths between
+about 380 nanometers (violet) and about 740 nanometers (red). Radiation with
+wavelengths shorter than visible light includes gamma rays, X-rays and
+ultraviolet light. Longer-wavelength radiation includes infrared light,
+microwaves and radio waves.
 
-8
+### Citations
 
-  
+**Book:​** ​​N.A. Campbell, J.B. Reese and L.G. Mitchell. Biology, 5th
+Edition. Benjamin-Cummings Publication Co., 1999.
 
-2
+### About Bethany Brookshire
 
-0
+    * X
 
-1
+Bethany Brookshire was a longtime staff writer at  _Science News Explores_ and
+is the author of the book  _Pests: How Humans Create Animal Villains_. She has
+a Ph.D. in physiology and pharmacology and likes to write about neuroscience,
+biology, climate and more. She thinks Porgs are an invasive species.
 
-2
+###  Classroom Resources for This Article
 
-1
+    * Power Words 
 
-2
+Readability Score: 7
 
-3
+####  NGSS Codes:
 
-4
+HS-LS1-5, MS-LS1-6
 
-=
+###  Related Stories
 
-2×1+0×3
+    1. Chemistry 
 
-2×2+0×4
+###  Scientists look to hack photosynthesis for a ‘greener’ planet
 
-1×1+2×3
+By Lindsay PattersonDecember 5, 2019
 
-1×2+2×4
+    2. Physics 
 
-=
+###  How to turn a greenhouse into a powerhouse
 
-2
+By Alexandra TaylorFebruary 25, 2019
 
-4
+    3. Chemistry 
 
-7
+###  Sunlight might have put oxygen in Earth’s early air
 
-10
+By Stephen OrnesOctober 20, 2014
 
-The answers are different!
+##  More Stories from Science News Explores on Plants
 
-It **can** have the same result (such as when one matrix is the Identity
-Matrix) but not usually.
+    1. Plants 
 
+###  Could trees ever get up and walk away?
 
+By Sophie HartleyMarch 31, 2025
 
-714, 715, 716, 717, 2394, 2395, 2397, 2396, 8473, 8474, 8475, 8476
+    2. Plants 
 
-Matrices Determinant of a Matrix Matrix Calculator Algebra 2 Index
+###  Microbes give plants a way to make ‘meaty’ nutrients
 
-Copyright (C) 2023 Rod Pierce
+By Skyler WareFebruary 18, 2025
+
+    3. Chemistry 
+
+###  Let’s learn about chocolate
+
+By Maria TemmingFebruary 11, 2025
+
+    4. Plants 
+
+###  Plant and fungi parts help robots level up
+
+By Aaron TremperJanuary 15, 2025
+
+    5. Plants 
+
+###  Explainer: How to identify tree species in the winter
+
+By Sophie HartleyJanuary 6, 2025
+
+    6. Climate 
+
+###  Trees may be even bigger climate heroes than we thought
+
+By Laura AllenDecember 9, 2024
+
+    7. Plants 
+
+###  Catapulting pollen helps this flower beat out its rivals
+
+By Nala RogersNovember 25, 2024
+
+    8. Plants 
+
+###  Are plants intelligent? It seems to depend on how you define it
+
+By Avery Elizabeth HurtNovember 21, 2024
+
+## Science News Explores
+
+Founded in 2003, Science News Explores is a free, award-winning online
+publication dedicated to providing age-appropriate science news to learners,
+parents and educators. The publication, as well as Science News magazine, are
+published by the Society for Science, a nonprofit 501(c)(3) membership
+organization dedicated to public engagement in scientific research and
+education.
+
+    * Science News
+    * Science News Learning
+
+###  Subscriber Services
+
+    * Subscribe 
+    * Renew 
+    * Give a Gift Subscription 
+    * Customer Service 
+    * Follow Science News on Facebook
+    * Follow Science News on X
+    * Follow Science News via RSS
+    * Follow Science News on Instagram
+
+###  More Information
+
+    * Using Science News Explores in the Classroom 
+    * Rights & Permissions 
+    * Newsletters 
+
+###  Society for Science
+
+    * About the Society 
+    * Donate 
+    * Careers 
+
+(C) Society for Science & the Public 2000–2025. All rights reserved.
+
+1719 N St. NW, Washington, DC 20036 202.785.2255 Terms of Service Privacy
+Policy
 

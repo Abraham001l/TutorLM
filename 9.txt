@@ -1,139 +1,571 @@
-The Stan Forums
+Skip to Content
 
-#  Converting simplex arrays to do matrix multiplication
+eLife home page
 
-Modeling
+    * Menu 
+    * Home 
+    * Browse 
+    * Magazine 
+    * Community 
+    * About 
 
-kgori August 23, 2017, 5:26pm  1
+    * Search 
+    * Alerts 
+    * Submit your research
 
-Hi,  
-In my Stan model I sample two arrays of simplexes, and then do matrix
-multiplication with them. The way I do it is to copy the arrays into
-intermediate matrices, and multiply the intermediates. I wondered if there was
-a better way?
+Search by keyword or author Reset form Search Limit my search to Structural
+Biology and Molecular Biophysics
 
-Relevant part of my model:
+    * Magazine
+    * Insight
+    1. Structural Biology and Molecular Biophysics
+    2. Plant Biology
 
-    
-    
-    parameters {
-        simplex[S] weights[G];
-        simplex[C] signatures[S];
-    }
-    transformed parameters {
-        matrix<lower=0>[G, C] probs;  // matrix product of weights * signatures
-        {
-            matrix[G, S] weights_mat;
-            matrix[S, C] signatures_mat;
-        
-            for (g in 1:G) {
-                for (s in 1:S) {
-                    weights_mat[g, s] = weights[g, s];
-                }
-            }
-            
-            for (s in 1:S) {
-                for (c in 1:C) {
-                    signatures_mat[s, c] = signatures[s, c];
-                }
-            }
-            probs = weights_mat * signatures_mat;
-        }
-    }
+# Photosynthesis: The internal plumbing of algal chloroplasts
 
-1 Like
+Jan 13, 2015
 
-bbbales2 August 23, 2017, 9:39pm  2
+https://doi.org/10.7554/eLife.05983
 
-Best I could come up with on the spot. I transposed the matrices so that the
-copies are columnwise:
+    * Open access
+    * Copyright information
 
-    
-    
-    matrix[S, G] weights_mat_t;
-    matrix[C, S] signatures_mat_t;
-    
-    for (g in 1:G) {
-      weights_mat_t[:, g] = weights[g];
-    }
-    
-    for (s in 1:S) {
-      signatures_mat_t[:, s] = signatures[s];
-    }
-    
-    probs = (signatures_mat_t * weights_mat_t)';
-    
+    * Download 
+    * Cite
+    * Comment Open annotations (there are currently 0 annotations on this page). 
+    * Share
 
-Bob_Carpenter August 23, 2017, 11:57pm  3
+    *     *     *     *     *     *     * 4,026 views
+    * 235 downloads
+    * 5 citations
 
-kgori:
+###### Share this article
 
-> The way I do it is to copy the arrays into intermediate matrices, and
-> multiply the intermediates. I wondered if there was a better way?
+Doi
 
-Nope. We could always write more conversion algorithms to make it a one-liner.
-Loops that just copy elements are efficient in Stan, so it’s not an efficiency
-thing, just convenience. The efficiency derives from using matrix ops. So
-overall, it should be a win.
+Copy to clipboard
 
-I would suggest putting it in a function so it doesn’t clutter up your model.
+    *     *     *     *     *     * ###### Cite this article
 
-The easiest way to do this is as follows (assuming the matrix doesn’t have
-zero rows or zero columns):
+    1. Moritz Meyer
+    2. Howard Griffiths
+(2015)
 
-    
-    
-    matrix vector_array_to_matrix(vector[] x) {
-      matrix[size(x), rows(x[1])] y;
-      for (m in 1:size(x))
-        y[m] = x[m]';
-      return y;
-    }
-    
+Photosynthesis: The internal plumbing of algal chloroplasts
 
-1 Like
+_eLife_ **4** :e05983.
 
-kgori August 24, 2017, 10:35am  4
+https://doi.org/10.7554/eLife.05983
 
-Great, thank you. I didn’t realise you could assign directly to matrix columns
-like that. Would this be more efficient because it aligns better with the way
-the data is stored in the underlying Eigen objects, i.e. column-major for
-matrices, row major for arrays?
+    1. Copy to clipboard
+    2. Download BibTeX
+    3. Download .RIS
 
-Thanks again for taking the time to respond!
+    1. Moritz Meyer
+    2. Howard Griffiths 
+    1. Cambridge University, United Kingdom;
 
-kgori August 24, 2017, 10:39am  5
+A soil-dwelling single-celled green alga called Chlamydomonas might not seem
+the most promising species to study when exploring the details of
+photosynthesis. There are more prominent groups of phytoplankton that can
+photosynthesize, but Chlamydomonas has become a ‘model’ eukaryotic microbe
+because it is simple to transform genetically and the genome has recently been
+sequenced.
 
-Thanks for the clarification, Bob. I suspected that I couldn’t avoid copying,
-but also thought that my way of doing it with nested loops wasn’t the neatest
-solution. I’ll adopt your suggestion to write it as a function.
+In algal and plant cells, photosynthesis occurs within chloroplasts. Inside
+the double membrane that surrounds the chloroplast—known as the chloroplast
+envelope—light is harvested and converted into biochemical energy by
+pigment–protein complexes and associated proteins found in membrane structures
+called thylakoids. Loops of thylakoids merge to form an internal, acidified
+compartment known as the thylakoid lumen. The thylakoids are bathed in a fluid
+called the stroma, which contains enzymes that are involved in the fixation of
+carbon dioxide. Each Chlamydomonas cell has a single, cup-shaped chloroplast.
 
-Thanks again!
+An enzyme called Rubisco catalyzes the crucial first step in carbon fixation
+and is found in all photosynthetic organisms. The rate of photosynthesis is
+limited by the amount of CO2 available to Rubisco: this is a particular
+problem in water because CO2 diffuses more slowly in water than in air and it
+is mostly found in the form of bicarbonate (HCO3−). To combat this problem,
+most microalgae—including Chlamydomonas—have evolved processes called carbon
+concentrating mechanisms that increase the amount of CO2 around Rubisco (Raven
+et al., 2014). These mechanisms enhance the efficiency of photosynthesis in
+three ways: the active transport of bicarbonate into the chloroplast; the
+conversion of bicarbonate back to CO2 by an enzyme called carbonic anhydrase;
+and the packaging of Rubisco into a small area to minimize the leakage of CO2.
 
-1 Like
+How does a carbon concentrating mechanism manage to accumulate CO2
+concentrations some 50–1000 times higher than are found in the environment? In
+the past this was a difficult question to answer because details of
+chloroplast structure were missing. Now, in eLife, Benjamin Engel, Miroslava
+Schaffer, Wolfgang Baumeister and co-workers at the Max Planck Institute of
+Biochemistry have combined cryo-focussed ion beam milling and cryo-electron
+tomography to provide a high-resolution 3D reconstruction of the internal
+architecture of the Chlamydomonas chloroplast in a near-native state (Engel et
+al., 2015).
 
-bbbales2 August 24, 2017, 3:57pm  6
+The observations show in exquisite detail how, at the base of the chloroplast,
+the tips of thylakoid membranes fuse with the inner membrane of the
+chloroplast envelope. This may allow proteins from outside the chloroplast to
+enter the thylakoids more easily. Also, openings through the stacks of
+thylakoids allow the stroma to be continuous throughout the chloroplast. Other
+insights include details of a structure called the eyespot, which enables the
+alga to move in response to light.
 
-Yup, the underlying objects are just Eigen matrices. Only reason I did things
-with the column major copies was I couldn’t really figure out any other way to
-make it better :D. Bob’s right though. The copies there won’t matter compared
-to the matrix multiplies.
+We already knew that most of the Rubisco was confined to a small area within
+the stroma—called the pyrenoid—in Chlamydomonas. The pyrenoid is usually
+surrounded by a dense sheath of non-overlapping starch plates. Extensions of
+thylakoid membranes, called tubules, pass through the pyrenoid (Figure 1A).
+This is quite different to the structures in cyanobacteria where Rubisco is
+found: these structures, which are known as carboxysomes, are separated from
+the membranes that harvest light, and they have a protein coat and internal
+scaffold to support the Rubisco and the carbonic anhydrase.
 
-###  Related topics
+Figure 1
 
-Topic |  | Replies | Views | Activity  
----|---|---|---|---  
-Copying arrays of vectors into matrices to make use of to_vector Modeling |  2 |  467 |  January 28, 2022   
-Scalar-Matrix multiplication Modeling rstan |  3 |  983 |  October 20, 2020   
-Stan transformed parameters question General |  5 |  402 |  October 13, 2020   
-Cruising the simplex Algorithms |  8 |  1178 |  December 5, 2018   
-How to convert a matrix to an array of vectors? Modeling |  6 |  3915 |  November 19, 2021   
-  
-  * Home 
-  * Categories 
-  * Guidelines 
-  * Terms of Service 
-  * Privacy Policy 
+Download asset Open asset
 
-Powered by Discourse, best viewed with JavaScript enabled
+###### An updated carbon concentrating mechanism for Chlamydomonas.
+
+(**A**) Existing models of CO2 uptake in Chlamydomonas (Wang et al., 2011)
+allow for the diffusive entry of CO2, a process facilitated by a carbonic
+anhydrase, CAH1 (dark blue circle), in the periplasm. There is also a carbon
+concentrating mechanism that involves the transport of bicarbonate (HCO3−)
+across the plasma membrane (PM), possibly via the inorganic carbon pumps LCI1
+and HLA3 (yellow barrel), and across the chloroplast envelope (CE), possibly
+via the inorganic carbon pump LCIA (orange barrel). The conversion of
+bicarbonate to CO2 occurs via CAH3 (light blue circles), a carbonic anhydrase
+thought to be located inside the lumen of thylakoid tubules (green). When CAH3
+is phosphorylated it could relocate within the pyrenoid (light grey). The pump
+that transfers bicarbonate from the stroma to the lumen (red barrel) has not
+yet been found. CO2 is prevented from leaking out of the pyrenoid by the
+starch sheath (dark grey) and LCIB/C protein complexes (triangles). (**B**)
+Observations made by Engel et al. demonstrate that minitubules (white) provide
+a direct route between the stroma and the pyrenoid. This resolves how RuBP,
+which is the substrate for Rubisco (see text), is channelled to the enzyme,
+and how 3PGA, which is a product of the reaction between RuBP and CO2, is
+channelled away. It also raises the intriguing possibility that CAH3 could be
+external to the thylakoid lumen. When phosphorylated, CAH3 could relocate
+close to or within the minitubules, also allowing CO2 to be delivered via the
+minitubules to Rubisco without the need for an additional bicarbonate
+transporter.
+
+The three-dimensional reconstructions of the pyrenoid show how the tubules
+extend from thylakoids at the interface of two starch plates, and how they
+fuse and then merge at the centre of the pyrenoid. Some of these features were
+visible in early electron micrograph images (Sager and Palade, 1957), but
+Engel et al. reveal how additional features called minitubules are organised
+within the tubules that cross the pyrenoid (Figure 1B). The minitubules
+contain stroma and the latest work clearly shows that they could provide
+routes for molecules to move from the stroma directly into the centre of the
+pyrenoid. This would allow substrates and products to move between Rubisco and
+the other enzymes involved in photosynthesis (Süss et al., 1995), and could
+reduce the need to transport bicarbonate across the thylakoid membranes, as is
+required in existing models (Wang et al., 2011).
+
+Engel et al. also reveal how Rubisco is packaged in the pyrenoid. If their
+proposed model of close-packing in hexagonal shapes is exact, the spacing of
+Rubisco complexes leaves room for molecules of between 5 kDa and ~50 kDa,
+depending on the packaging scenario. The latter is sufficient space for a
+Rubisco linker protein like the one needed inside the carboxysomes of
+bacteria, but it is not clear whether such proteins also exist in algae (Long
+et al., 2007).
+
+We can now superimpose these fine details onto existing models of how the
+carbon concentrating mechanism in Chlamydomonas is organized (Figure 1A). When
+the mechanism is switched on, bicarbonate could be converted by a stromal
+carbonic anhydrase within or adjacent to the minitubules (Figure 1B) to allow
+CO2 to be released at the heart of the pyrenoid.
+
+This new model poses a number of questions. How does Rubisco move to the
+pyrenoid when the carbon concentrating mechanism is switched on? What is the
+trigger that modifies the thylakoid membranes to make the tubules as well as
+multiple minitubules? Why do the starch plates form and surround the pyrenoid?
+Efforts are being made to engineer elements of the carbon concentrating
+mechanism from cyanobacteria into higher plants (Lin et al., 2014; McGrath and
+Long, 2014), but what modifications would be needed to incorporate a mechanism
+from algae instead?
+
+Undoubtedly, the many genetic techniques that can be used to study
+Chlamydomonas (Zhang et al., 2014) will soon resolve these questions in the
+case of this particular alga. However, in the best traditions of product
+placement, other forms of pyrenoid are available in different species,
+including phytoplankton and one lineage of primitive land plants.
+Understanding the structure of chloroplasts and the regulation of carbon
+concentrating mechanisms in these organisms will continue to provide
+additional challenges for the future.
+
+Add a comment + Open annotations. The current annotation count on this page is
+being calculated.
+
+## References
+
+    1.       1. Engel B
+      2. Schaffer M
+      3. Cuellar LK
+      4. Villa E
+      5. Plitzko J
+      6. Baumeister W
+(2015) Native architecture of the Chlamydomonas chloroplast revealed by in
+situ cryo-electron tomography
+
+_eLife_ **4** :e04889.
+
+https://doi.org/10.7554/eLife.04889
+
+       * Google Scholar
+
+    2.       1. Lin MT
+      2. Occhialini A
+      3. Andralojc PJ
+      4. Parry MA
+      5. Hanson MR
+(2014) A faster Rubisco with potential to increase photosynthesis in crops
+
+_Nature_ **513** :547–550.
+
+https://doi.org/10.1038/nature13776
+
+       * Google Scholar
+
+    3.       1. Long BM
+      2. Badger MR
+      3. Whitney SM
+      4. Price GD
+(2007) Analysis of carboxysomes from the Synechococcus PCC7942 reveals
+multiple Rubisco complexes within carboxysomal proteins CcmM and CcaA
+
+_Journal of Biological Chemistry_ **282** :29323–29335.
+
+https://doi.org/10.1074/jbc.M703896200
+
+       * Google Scholar
+
+    4.       1. McGrath JM
+      2. Long SP
+(2014) Can the cyanobacterial carbon-concentrating mechanism increase
+photosynthesis in crop species? A theoretical analysis
+
+_Plant Physiology_ **164** :2247–2261.
+
+https://doi.org/10.1104/pp.113.232611
+
+       * Google Scholar
+
+    5.       1. Raven JA
+      2. Beardall J
+      3. Gordiano M
+(2014) Energy costs of carbon dioxide concentrating mechanisms in aquatic
+organisms
+
+_Photosynthesis Research_ **121** :111–124.
+
+https://doi.org/10.1007/s11120-013-9962-7
+
+       * Google Scholar
+
+    6.       1. Sager R
+      2. Palade GE
+(1957) Structure and development of the chloroplast in Chlamydomonas I. The
+normal green cell
+
+_Journal Biophysical and Biochemical Cytology_ **3** :463–488.
+
+https://doi.org/10.1083/jcb.3.3.463
+
+       * Google Scholar
+
+    7.       1. Süss K-H
+      2. Prokhorenko I
+      3. Adler K
+(1995) In Situ Association of Calvin Cycle Enzymes, Ribulose-1,5-Bisposphate
+Carboxyalsae/Oxygenase Activase, Ferredoxin-NADP+ Reductase, and Nitrite
+Reductase with Thylakoid and Pyrenoid Membranes of Chlamydomonas reinhardtii
+Chloroplasts as Revealed by Immunoelectron Microscopy
+
+_Plant Physiology_ **107** :1387–1397.
+
+https://doi.org/10.1104/pp.107.4.1387
+
+       * Google Scholar
+
+    8.       1. Wang Y
+      2. Duanmu D
+      3. Spalding MH
+(2011) Carbon dioxide concentrating mechanism in Chlamydomonas reinhardtii:
+inorganic carbon transport and CO2 recapture
+
+_Photosynthesis Research_ **109** :115–122.
+
+https://doi.org/10.1007/s11120-011-9643-3
+
+       * Google Scholar
+
+    9.       1. Zhang R
+      2. Patena W
+      3. Armbruster U
+      4. Gang SS
+      5. Blum SR
+      6. Jonikas MC
+(2014) High-Throughput Genotyping of Green Algal Mutants Reveals Random
+Distribution of Mutagenic Insertion Sites and Endonuclolytic Cleavage of
+Transforming DNA
+
+_The Plant Cell_ **26** :1398–1409.
+
+https://doi.org/10.1105/tpc.114.124099
+
+       * Google Scholar
+
+## Article and author information
+
+### Author details
+
+    1. #### Moritz Meyer
+
+Department of Plant Sciences, Cambridge University, Cambridge, United Kingdom
+
+##### Competing interests
+
+The authors declare that no competing interests exist.
+
+    2. #### Howard Griffiths
+
+Department of Plant Sciences, Cambridge University, Cambridge, United Kingdom
+
+##### For correspondence
+
+hg230@cam.ac.uk
+
+##### Competing interests
+
+The authors declare that no competing interests exist.
+
+### Publication history
+
+    1. Version of Record published: January 13, 2015
+
+### Copyright
+
+© 2015, Meyer and Griffiths
+
+This article is distributed under the terms of the Creative Commons
+Attribution License, which permits unrestricted use and redistribution
+provided that the original author and source are credited.
+
+## Metrics
+
+    *      4,026  
+
+views
+
+    *      235  
+
+downloads
+
+    *      5  
+
+citations
+
+Views, downloads and citations are aggregated across all versions of this
+paper published by eLife.
+
+## Download links
+
+A two-part list of links to download the article, or parts of the article, in
+various formats.
+
+### Downloads (link to download the article as PDF)
+
+    * Article PDF
+
+### Open citations (links to open the citations from this article in various
+online reference manager services)
+
+    * Mendeley
+    * ### Cite this article (links to download the citations from this article in formats compatible with various reference manager tools)
+
+    1. Moritz Meyer
+    2. Howard Griffiths
+(2015)
+
+Photosynthesis: The internal plumbing of algal chloroplasts
+
+_eLife_ **4** :e05983.
+
+https://doi.org/10.7554/eLife.05983
+
+    * Download BibTeX
+    * Download .RIS
+
+#### Categories and tags
+
+    * Insight
+    * Structural Biology and Molecular Biophysics
+    * Plant Biology
+    * Chlamydomonas
+    * focused ion beam
+    * cryo-electron tomography
+    * chloroplast
+    * thylakoid
+    * Rubisco
+
+    1.       1. Related to
+
+####  Native architecture of the _Chlamydomonas_ chloroplast revealed by in
+situ cryo-electron tomography
+
+Benjamin D Engel, Miroslava Schaffer ... Wolfgang Baumeister
+
+Research Article Jan 13, 2015
+
+    2. Further reading
+
+### Further reading
+
+    1.       1. Structural Biology and Molecular Biophysics
+      2. Plant Biology
+
+#  Native architecture of the _Chlamydomonas_ chloroplast revealed by in situ
+cryo-electron tomography
+
+Benjamin D Engel, Miroslava Schaffer ... Wolfgang Baumeister
+
+Research Article Jan 13, 2015
+
+Chloroplast function is orchestrated by the organelle's intricate
+architecture. By combining cryo-focused ion beam milling of vitreous
+_Chlamydomonas_ cells with cryo-electron tomography, we acquired three-
+dimensional structures of the chloroplast in its native state within the cell.
+Chloroplast envelope inner membrane invaginations were frequently found in
+close association with thylakoid tips, and the tips of multiple thylakoid
+stacks converged at dynamic sites on the chloroplast envelope, implicating
+lipid transport in thylakoid biogenesis. Subtomogram averaging and nearest
+neighbor analysis revealed that RuBisCO complexes were hexagonally packed
+within the pyrenoid, with ∼15 nm between their centers. Thylakoid stacks and
+the pyrenoid were connected by cylindrical pyrenoid tubules, physically
+bridging the sites of light-dependent photosynthesis and light-independent
+carbon fixation. Multiple parallel minitubules were bundled within each
+pyrenoid tubule, possibly serving as conduits for the targeted one-dimensional
+diffusion of small molecules such as ATP and sugars between the chloroplast
+stroma and the pyrenoid matrix.
+
+    2.       1. Biochemistry and Chemical Biology
+      2. Structural Biology and Molecular Biophysics
+
+#  Kinetic regulation of kinesin’s two motor domains coordinates its stepping
+along microtubules
+
+Yamato Niitani, Kohei Matsuzaki ... Michio Tomishige
+
+Research Article Apr 17, 2025
+
+The two identical motor domains (heads) of dimeric kinesin-1 move in a hand-
+over-hand process along a microtubule, coordinating their ATPase cycles such
+that each ATP hydrolysis is tightly coupled to a step and enabling the motor
+to take many steps without dissociating. The neck linker, a structural element
+that connects the two heads, has been shown to be essential for head–head
+coordination; however, which kinetic step(s) in the chemomechanical cycle is
+‘gated’ by the neck linker remains unresolved. Here, we employed pre-steady-
+state kinetics and single-molecule assays to investigate how the neck-linker
+conformation affects kinesin’s motility cycle. We show that the backward-
+pointing configuration of the neck linker in the front kinesin head confers
+higher affinity for microtubule, but does not change ATP binding and
+dissociation rates. In contrast, the forward-pointing configuration of the
+neck linker in the rear kinesin head decreases the ATP dissociation rate but
+has little effect on microtubule dissociation. In combination, these
+conformation-specific effects of the neck linker favor ATP hydrolysis and
+dissociation of the rear head prior to microtubule detachment of the front
+head, thereby providing a kinetic explanation for the coordinated walking
+mechanism of dimeric kinesin.
+
+    3.       1. Structural Biology and Molecular Biophysics
+
+#  Distinct activation mechanisms of CXCR4 and ACKR3 revealed by single-
+molecule analysis of their conformational landscapes
+
+Christopher T Schafer, Raymond F Pauszek III ... David P Millar
+
+Research Article Apr 15, 2025
+
+The canonical chemokine receptor CXCR4 and atypical receptor ACKR3 both
+respond to CXCL12 but induce different effector responses to regulate cell
+migration. While CXCR4 couples to G proteins and directly promotes cell
+migration, ACKR3 is G-protein-independent and scavenges CXCL12 to regulate
+extracellular chemokine levels and maintain CXCR4 responsiveness, thereby
+indirectly influencing migration. The receptors also have distinct activation
+requirements. CXCR4 only responds to wild-type CXCL12 and is sensitive to
+mutation of the chemokine. By contrast, ACKR3 recruits GPCR kinases (GRKs) and
+β-arrestins and promiscuously responds to CXCL12, CXCL12 variants, other
+peptides and proteins, and is relatively insensitive to mutation. To
+investigate the role of conformational dynamics in the distinct
+pharmacological behaviors of CXCR4 and ACKR3, we employed single-molecule FRET
+to track discrete conformational states of the receptors in real-time. The
+data revealed that apo-CXCR4 preferentially populates a high-FRET inactive
+state, while apo-ACKR3 shows little conformational preference and high
+transition probabilities among multiple inactive, intermediate and active
+conformations, consistent with its propensity for activation. Multiple active-
+like ACKR3 conformations are populated in response to agonists, compared to
+the single CXCR4 active-state. This and the markedly different conformational
+landscapes of the receptors suggest that activation of ACKR3 may be achieved
+by a broader distribution of conformational states than CXCR4. Much of the
+conformational heterogeneity of ACKR3 is linked to a single residue that
+differs between ACKR3 and CXCR4. The dynamic properties of ACKR3 may underly
+its inability to form productive interactions with G proteins that would drive
+canonical GPCR signaling.
+
+## Be the first to read new articles from eLife
+
+Sign up for email alerts
+
+Privacy notice
+
+Skip to Content
+
+eLife home page
+
+### Menu
+
+    * Home
+    * Browse
+    * Magazine
+    * Community
+    * About
+    * Research categories
+    * Inside eLife
+    * Search
+    * Subscribe to alerts
+    * Submit your research
+    * Author guide
+    * Reviewer guide
+Back to top
+
+    1.     2.     3.     4.     * About
+    * Jobs
+    * Who we work with
+    * Alerts
+    * Contact
+    * Terms and conditions
+    * Privacy notice
+    * Inside eLife
+    * Monthly archive
+    * For the press
+    * Resources
+    * XML and Data
+
+    *     *     *     *     *     * Find us on GitHub
+
+eLife is a non-profit organisation inspired by research funders and led by
+scientists. Our mission is to help scientists accelerate discovery by
+operating a platform for research communication that encourages and recognises
+the most responsible behaviours in science. eLife Sciences Publications, Ltd
+is a limited liability non-profit non-stock corporation incorporated in the
+State of Delaware, USA, with company number 5030732, and is registered in the
+UK with company number FC030576 and branch number BR015634 at the address:
+eLife Sciences Publications, Ltd  
+95 Regent Street  
+Cambridge CB2 1AW  
+UK
+
+© 2025 eLife Sciences Publications Ltd. Subject to a Creative Commons
+Attribution license, except where otherwise noted. ISSN: 2050-084X
 

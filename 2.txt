@@ -1,43 +1,347 @@
-This website is made of javascript on 90% and doesn't work without it. You
-need to enable it.
+This page has been archived and is no longer updated
 
-  * Instructions
-  * Support the project
-  * News
-  * Feedback
+
+
+Aa Aa Aa
+
+#  Photosynthetic Cells
+
+##  
+
+Cells get nutrients from their environment, but where do those nutrients come
+from? Virtually all organic material on Earth has been produced by cells that
+convert energy from the Sun into energy-containing macromolecules. This
+process, called photosynthesis, is essential to the global carbon cycle and
+organisms that conduct photosynthesis represent the lowest level in most food
+chains (Figure 1).
 
   
----  
+
+Figure 1: Photosynthetic plants synthesize carbon-based energy molecules from
+the energy in sunlight. Consequently, they provide an abundance of energy for
+other organisms.
+
+Plants exist in a wide variety of shapes and sizes. (A) _Coleochaete
+orbicularis_ (Charophyceae) gametophyte; magnification x 75 (photograph
+courtesy of L. E. Graham). (B) Chara (Charophyceae) gametophyte; magnification
+x 1.5 (photograph courtesy of M. Feist). (C) Riccia (liverwort) gametophyte
+showing sporangia (black) embedded in the thallus; magnification x 5
+(photograph courtesy of A. N. Drinnan). (D) Anthoceros (hornwort) gametophyte
+showing unbranched sporophytes; magnification x 2.5 (photograph courtesy of A.
+N. Drinnan). (E) Mnium (moss) gametophyte showing unbranched sporophytes with
+terminal sporangia (capsule); magnification x 4.5 (photograph courtesy of W.
+Burger). (F) Huperzia (clubmoss) sporophyte with leaves showing sessile yellow
+sporangia; magnification x 0.8. (G) Dicranopteris (fern) sporophyte showing
+leaves with circinate vernation; magnification x 0.08. (H) Psilotum (whisk
+fern) sporophyte with reduced leaves and spherical synangia (three fused
+sporangia); magnification x 0.4. (I) Equisetum (horsetail) sporophyte with
+whorled branches, reduced leaves, and a terminal cone; magnification x 0.4.
+(J) Cycas (seed plant) sporophyte showing leaves and terminal cone with seeds;
+magnification x 0.05 (photograph courtesy of W. Burger).
+
+(C) 1993 Elsevier Part A: Graham, L. E. _Origin of land plants_. New York: J.
+Wiley and Sons, 1993. All rights reserved. Part B: courtesy of M. Feist,
+University of Montpellier. Parts C and D: courtesy of Andrew Drinnan,
+Univeristy of Melbourne, School of Botany. Parts E, F and J: Courtesy of
+William Burger, Field Museum, Chicago.
+
+Figure Detail
+
+##  What Is Photosynthesis? Why Is it Important?
+
+Most living things depend on photosynthetic cells to manufacture the complex
+organic molecules they require as a source of energy. Photosynthetic cells are
+quite diverse and include cells found in green plants, phytoplankton, and
+cyanobacteria. During the process of photosynthesis, cells use carbon dioxide
+and energy from the Sun to make sugar molecules and oxygen. These sugar
+molecules are the basis for more complex molecules made by the photosynthetic
+cell, such as glucose. Then, via respiration processes, cells use oxygen and
+glucose to synthesize energy-rich carrier molecules, such as ATP, and carbon
+dioxide is produced as a waste product. Therefore, the synthesis of glucose
+and its breakdown by cells are opposing processes.
+
   
-  * Gauss-Jordan Elimination
-  * Cramer's Rule
-  * Inverse Matrix Method
-  * Matrix Rank
-  * Determinant
-  * Inverse Matrix
-  * Matrix Power
-  * Matrix Transpose
-  * Matrix Multiplication
-  * Matrix Addition/Subtraction
 
-|
+Figure 2
 
-# Matrix Multiplication Calculator
+Figure Detail
 
-Here you can perform **matrix multiplication** with complex numbers online for
-free. However matrices can be not only two-dimensional, but also one-
-dimensional (vectors), so that you can multiply vectors, vector by matrix and
-vice versa.  
-After calculation you can multiply the result by another matrix right
-there!Have questions? Read the instructions.Matrix A dimension:XMatrix B
-dimension:XSet matrices
+The building and breaking of carbon-based material -- from carbon dioxide to
+complex organic molecules (photosynthesis) then back to carbon dioxide
+(respiration) -- is part of what is commonly called the **global carbon
+cycle**. Indeed, the fossil fuels we use to power our world today are the
+ancient remains of once-living organisms, and they provide a dramatic example
+of this cycle at work. The carbon cycle would not be possible without
+photosynthesis, because this process accounts for the "building" portion of
+the cycle (Figure 2).
 
-### About the method
+However, photosynthesis doesn't just drive the carbon cycle -- it also creates
+the oxygen necessary for respiring organisms. Interestingly, although green
+plants contribute much of the oxygen in the air we breathe, phytoplankton and
+cyanobacteria in the world's oceans are thought to produce between one-third
+and one-half of atmospheric oxygen on Earth.
 
-  1. The main condition of matrix multiplication is that the number of columns of the 1st matrix must equal to the number of rows of the 2nd one.
-  2. As a result of multiplication you will get a new matrix that has the same quantity of rows as the 1st one has and the same quantity of columns as the 2nd one.
-  3. For example if you multiply a matrix of 'n' x 'k' by 'k' x 'm' size you'll get a new one of 'n' x 'm' dimension.
+##  What Cells and Organelles Are Involved in Photosynthesis?
 
-To understand matrix multiplication better input any example and examine the
-solution.▲ Up© reshish.com 2011 - 2025Mobile versionPrivacy Policy|
+  
+
+Figure 3: Structure of a chloroplast
+
+(C) 2010 Nature Education All rights reserved.
+
+Photosynthetic cells contain special pigments that absorb light energy.
+Different pigments respond to different wavelengths of visible light.
+**Chlorophyll** , the primary pigment used in photosynthesis, reflects green
+light and absorbs red and blue light most strongly. In plants, photosynthesis
+takes place in chloroplasts, which contain the chlorophyll. Chloroplasts are
+surrounded by a double membrane and contain a third inner membrane, called the
+**thylakoid membrane** , that forms long folds within the organelle. In
+electron micrographs, thylakoid membranes look like stacks of coins, although
+the compartments they form are connected like a maze of chambers. The green
+pigment chlorophyll is located within the thylakoid membrane, and the space
+between the thylakoid and the chloroplast membranes is called the **stroma**
+(Figure 3, Figure 4).
+
+Chlorophyll A is the major pigment used in photosynthesis, but there are
+several types of chlorophyll and numerous other pigments that respond to
+light, including red, brown, and blue pigments. These other pigments may help
+channel light energy to chlorophyll A or protect the cell from photo-damage.
+For example, the photosynthetic protists called dinoflagellates, which are
+responsible for the "red tides" that often prompt warnings against eating
+shellfish, contain a variety of light-sensitive pigments, including both
+chlorophyll and the red pigments responsible for their dramatic coloration.
+
+  
+
+Figure 4: Diagram of a chloroplast inside a cell, showing thylakoid stacks
+
+Shown here is a chloroplast inside a cell, with the outer membrane (OE) and
+inner membrane (IE) labeled. Other features of the cell include the nucleus
+(N), mitochondrion (M), and plasma membrane (PM). At right and below are
+microscopic images of thylakoid stacks called grana. Note the relationship
+between the granal and stromal membranes.
+
+(C) 2004 Nature Publishing Group Soll, J. & Schleiff, E. Protein import into
+chloroplasts. _Nature Reviews Molecular Cell Biology_ **5,** 198-208 (2004)
+doi:10.1038/nrm1333. All rights reserved.
+
+Figure Detail
+
+##  What Are the Steps of Photosynthesis?
+
+Photosynthesis consists of both **light-dependent reactions** and **light-
+independent reactions**. In plants, the so-called "light" reactions occur
+within the chloroplast thylakoids, where the aforementioned chlorophyll
+pigments reside. When light energy reaches the pigment molecules, it energizes
+the electrons within them, and these electrons are shunted to an electron
+transport chain in the thylakoid membrane. Every step in the electron
+transport chain then brings each electron to a lower energy state and
+harnesses its energy by producing ATP and NADPH. Meanwhile, each chlorophyll
+molecule replaces its lost electron with an electron from water; this process
+essentially splits water molecules to produce oxygen (Figure 5).
+
+  
+
+Figure 5: The light and dark reactions in the chloroplast
+
+The chloroplast is involved in both stages of photosynthesis. The light
+reactions take place in the thylakoid. There, water (H2O) is oxidized, and
+oxygen (O2) is released. The electrons that freed from the water are
+transferred to ATP and NADPH. The dark reactions then occur outside the
+thylakoid. In these reactions, the energy from ATP and NADPH is used to fix
+carbon dioxide (CO2). The products of this reaction are sugar molecules and
+various other organic molecules necessary for cell function and metabolism.
+Note that the dark reaction takes place in the stroma (the aqueous fluid
+surrounding the stacks of thylakoids) and in the cytoplasm.
+
+(C) 2010 Nature Education All rights reserved.
+
+Figure Detail
+
+Once the light reactions have occurred, the light-independent or "dark"
+reactions take place in the chloroplast stroma. During this process, also
+known as carbon fixation, energy from the ATP and NADPH molecules generated by
+the light reactions drives a chemical pathway that uses the carbon in carbon
+dioxide (from the atmosphere) to build a three-carbon sugar called
+glyceraldehyde-3-phosphate (G3P). Cells then use G3P to build a wide variety
+of other sugars (such as glucose) and organic molecules. Many of these
+interconversions occur outside the chloroplast, following the transport of G3P
+from the stroma. The products of these reactions are then transported to other
+parts of the cell, including the mitochondria, where they are broken down to
+make more energy carrier molecules to satisfy the metabolic demands of the
+cell. In plants, some sugar molecules are stored as sucrose or starch.
+
+##  Conclusion
+
+Photosynthetic cells contain chlorophyll and other light-sensitive pigments
+that capture solar energy. In the presence of carbon dioxide, such cells are
+able to convert this solar energy into energy-rich organic molecules, such as
+glucose. These cells not only drive the global carbon cycle, but they also
+produce much of the oxygen present in atmosphere of the Earth. Essentially,
+nonphotosynthetic cells use the products of photosynthesis to do the
+_opposite_ of photosynthesis: break down glucose and release carbon dioxide.
+
+eBooks
+
+This page appears in the following eBook
+
+Essentials of Cell Biology, Unit 1.4
+
+Cell Biology for Seminars, Unit 1.4
+
+## Topic rooms within Cell Biology
+
+Close
+
+**No topic rooms are there.**
+
+Loading ...  
+  
+
+Within this Subject (25)
+
+  * Basic (25)
+
+Or  Browse Visually
+
+Other Topic Rooms
+
+Genetics
+
+  * Gene Inheritance and Transmission 
+  * Gene Expression and Regulation 
+  * Nucleic Acid Structure and Function 
+  * Chromosomes and Cytogenetics 
+  * Evolutionary Genetics 
+  * Population and Quantitative Genetics 
+  * Genomics 
+  * Genes and Disease 
+  * Genetics and Society 
+
+Cell Biology
+
+  * Cell Origins and Metabolism 
+  * Proteins and Gene Expression 
+  * Subcellular Compartments 
+  * Cell Communication 
+  * Cell Cycle and Cell Division 
+
+Scientific Communication
+
+Career Planning
+
+  
+
+Loading ...  
+  
+
+  
+
+    * Student Voices 
+
+    * Creature Cast 
+
+    * NatureEdCast 
+
+    * Simply Science 
+
+    * Green Screen 
+
+    * ConferenceCast 
+
+    * Green Science 
+
+    * Bio 2.0 
+
+    * Viruses101 
+
+    * ScholarCast 
+
+    * The Success Code 
+
+    * Why Science Matters 
+
+    * Earthbound 
+
+    * The Beyond 
+
+    * Plant ChemCast 
+
+    * Pop 
+
+    * SciBytes 
+
+    * Postcards from the Universe 
+
+    * Brain Metrics 
+
+    * Mind Read 
+
+    * Eyes on Environment 
+
+    * Accumulating Glitches 
+
+    * Saltwater Science 
+
+    * Microbe Matters 
+
+  
+« Prev « Prev Next » Next »
+
+  
+
+  
+
+LearnCast
+
+You have authorized LearnCasting of your reading list in Scitable. Do you want
+to LearnCast this session?  
+
+Yes
+
+No
+
+This article has been posted to your Facebook page via Scitable LearnCast.
+
+Close
+
+
+
+Change LearnCast Settings
+
+(C) 2014 Nature Education
+
+    * About|
+    * Contact|
+    * Press Room|
+    * Sponsors|
+    * Terms of Use|
+    * Privacy Notice|
+    * Glossary|
+    * Catalog|
+    * Home|
+    * Library|
+    * Blogs
+
+Scitable Chat
+
+    *     *     * 
+
+  
+
+* * *
+
+  
+  
+  
+
+    *     *     *     *     *     *     *     *     *     *     * Register
+    * |
+    * Sign In
+
+* * *
+
+## Visual Browse
+
+Close
 

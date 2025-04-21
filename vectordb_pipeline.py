@@ -93,8 +93,15 @@ def query_data(vdb, query, limit):
 
 # ---------- Print Data ----------
 def print_data(data):
+    """
+    Parameter:
+    data (response): response from weaviate query
+
+    Prints:
+    data in objects in response
+    """
     for obj in data.objects:
-        print(obj.properties['content'])
+        print(obj.properties['data'])
         print(json.dumps(obj.properties, indent=2))
 
 # ---------- Close Client ----------

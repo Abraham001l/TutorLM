@@ -1,261 +1,222 @@
-Skip to main content
+Education
 
-### We value your privacy
+Sign In
 
-Reddit and its partners use cookies and similar technologies to provide you
-with a better experience. By accepting all cookies, you agree to our use of
-cookies to deliver and maintain our services and site, improve the quality of
-Reddit, personalize Reddit content and advertising, and measure the
-effectiveness of advertising. By rejecting non-essential cookies, Reddit may
-still use certain cookies to ensure the proper functionality of our platform.
-For more information, please see our Cookie Notice and our Privacy Policy.
+Menu
 
-Open menu Open navigation Go to Reddit Home
+Donate
 
-r/askmath  A chip A close button
+## ENCYCLOPEDIC ENTRY
 
-Get App Get the Reddit app  Log In Log in to Reddit
+Open Educational Resource
 
-Expand user menu Open settings menu
+Open Educational Resource
 
-Go to askmath
+## ENCYCLOPEDIC ENTRY
 
-r/askmath
+OER
 
-r/askmath
+OER
 
-This subreddit is for questions of a mathematical nature. Please read the
-subreddit rules below before posting.
+# Photosynthesis
 
-* * *
+# Photosynthesis
 
-Members Online
+Photosynthesis is the process by which plants use sunlight, water, and carbon
+dioxide to create oxygen and energy in the form of sugar.
 
-•
+### Grades
 
-Euphoric_Ad6235
+5 - 8
 
-#  How does multiplying matrices work?
+### Subjects
 
-Linear Algebra
+Biology
 
-I made some notes on multiplying matrices based off online resources, could
-someone please check if it’s correct?
+‌  
 
-The problem is the formula for 2 x 2 Matrix Multiplication does not work for
-the question I’ve linked in the second slide. So is there a general formula I
-can follow? I did try looking for one online, but they all seem to use some
-very complicated notation, so I’d appreciate it if someone could tell me what
-the general formula is in simple notation.
+  
 
-Read more
+‌  
+‌  
+‌  
 
-  *   * 
+  
 
-Archived post. New comments cannot be posted and votes cannot be cast.
+‌  
+‌  
+‌  
+‌  
+‌  
+‌  
+‌  
+‌  
+‌  
+‌  
 
-New to Reddit?
+###### Loading ...
 
-Create your account and connect with a world of communities.
+ArticleVocabulary
 
-Continue with Email
+## Learning materials
 
-Continue With Phone Number
+### Instructional Links
 
-By continuing, you agree to our User Agreement and acknowledge that you
-understand the Privacy Policy.
+    * View this resource on OER Comons
+    * View this resource as a Google Doc
 
-**Top 1%** Rank by size
+Most life on Earth depends on photosynthesis.The process is carried out by
+plants, algae, and some types of bacteria, which capture energy from sunlight
+to produce oxygen (O2) and chemical energy stored in glucose (a sugar).
+Herbivores then obtain this energy by eating plants, and carnivores obtain it
+by eating herbivores.
 
-Public
+**The process**
 
-Anyone can view, post, and comment to this community
+During photosynthesis, plants take in carbon dioxide (CO2) and water (H2O)
+from the air and soil. Within the plant cell, the water is oxidized, meaning
+it loses electrons, while the carbon dioxide is reduced, meaning it gains
+electrons. This transforms the water into oxygen and the carbon dioxide into
+glucose. The plant then releases the oxygen back into the air, and stores
+energy within the glucose molecules.
 
-##  Top Posts
+**Chlorophyll**
 
-* * *
+Inside the plant cell are small organelles called chloroplasts, which store
+the energy of sunlight. Within the thylakoid membranes of the chloroplast is a
+light-absorbing pigment called chlorophyll, which is responsible for giving
+the plant its green color. During photosynthesis, chlorophyll absorbs energy
+from blue- and red-light waves, and reflects green-light waves, making the
+plant appear green.
 
-  * Reddit 
+**Light-dependent Reactions vs. Light-independent Reactions**
 
-reReddit: Top posts of May 19, 2024
+While there are many steps behind the process of photosynthesis, it can be
+broken down into two major stages: light-dependent reactions and light-
+independent reactions. The light-dependent reaction takes place within the
+thylakoid membrane and requires a steady stream of sunlight, hence the name
+light-_dependent_ reaction. The chlorophyll absorbs energy from the light
+waves, which is converted into chemical energy in the form of the molecules
+ATP and NADPH. The light-independent stage, also known as the Calvin cycle,
+takes place in the stroma, the space between the thylakoid membranes and the
+chloroplast membranes, and does not require light, hence the name light-
+_independent_ reaction. During this stage, energy from the ATP and NADPH
+molecules is used to assemble carbohydrate molecules, like glucose, from
+carbon dioxide.
 
-* * *
+**C3 and C4 Photosynthesis**
 
-  * Reddit 
+Not all forms of photosynthesis are created equal, however. There are
+different types of photosynthesis, including C3 photosynthesis and C4
+photosynthesis. C3 photosynthesis is used by the majority of plants. It
+involves producing a three-carbon compound called 3-phosphoglyceric acid
+during the Calvin Cycle, which goes on to become glucose. C4 photosynthesis,
+on the other hand, produces a four-carbon intermediate compound, which splits
+into carbon dioxide and a three-carbon compound during the Calvin Cycle. A
+benefit of C4 photosynthesis is that by producing higher levels of carbon, it
+allows plants to thrive in environments without much light or water.  
+  
+_The National Geographic Society is making this content available under a
+Creative Commons CC-BY-NC-SAlicense. The License excludes the National
+Geographic Logo (meaning the words National Geographic + the Yellow Border
+Logo) and any images that are included as part of each content piece. For
+clarity the Logo and images may not be removed, altered, or changed in any
+way._
 
-reReddit: Top posts of May 2024
+##### Credits
 
-* * *
+###### Media Credits
 
-  * Reddit 
+The audio, illustrations, photos, and videos are credited beneath the media
+asset, except for promotional images, which generally link to another page
+that contains the media credit. The Rights Holder for media is the person or
+group credited.
 
-reReddit: Top posts of 2024
+###### Director
 
-* * *
+Tyson Brown, National Geographic Society
 
-Reddit Rules Privacy Policy User Agreement Reddit, Inc. © 2025. All rights
-reserved.
+###### Author
 
-Expand Navigation Collapse Navigation
+National Geographic Society
 
-* &nbsp;
+###### Production Managers
 
-* * *
+Gina Borgia, National Geographic Society
 
-* TOPICS
+Jeanna Sullivan, National Geographic Society
 
-* Internet Culture (Viral)
+###### Program Specialists
 
-  * Amazing
+Sarah Appleton, National Geographic Society, National Geographic Society
 
-  * Animals & Pets
+Margot Willis, National Geographic Society
 
-  * Cringe & Facepalm
+###### Producer
 
-  * Funny
+Clint Parks
 
-  * Interesting
+###### Intern
 
-  * Memes
+Roza Kavak
 
-  * Oddly Satisfying
+###### other
 
-  * Reddit Meta
+###### Last Updated
 
-  * Wholesome & Heartwarming
+February 26, 2025
 
-* Games
+##### User Permissions
 
-  * Action Games
+For information on user permissions, please read our Terms of Service. If you
+have questions about how to cite anything on our website in your project or
+classroom presentation, please contact your teacher. They will best know the
+preferred format. When you reach out to them, you will need the page title,
+URL, and the date you accessed the resource.
 
-  * Adventure Games
+###### **Media**
 
-  * Esports
+If a media asset is downloadable, a download button appears in the corner of
+the media viewer. If no button appears, you cannot download or save the media.
 
-  * Gaming Consoles & Gear
+###### **Text**
 
-  * Gaming News & Discussion
+Text on this page is printable and can be used according to our Terms of
+Service.
 
-  * Mobile Games
+###### **Interactives**
 
-  * Other Games
+Any interactives on this page can only be played while you are visiting our
+website. You cannot download interactives.
 
-  * Role-Playing Games
+### Related Resources
 
-  * Simulation Games
+National Geographic Headquarters  
+1145 17th Street NW  
+Washington, DC 20036
 
-  * Sports & Racing Games
+###### ABOUT
 
-  * Strategy Games
+National Geographic SocietyNatGeo.comNews and ImpactContact Us
 
-  * Tabletop Games
+###### Explore
 
-* Q&As
+Our ExplorersOur ProgramsEducationNat Geo LiveStorytellers CollectiveTraveling
+Exhibitions
 
-  * Q&As
+###### Join Us
 
-  * Stories & Confessions
+Ways to GiveApply for a GrantCareers
 
-* Technology
+donate
 
-  * 3D Printing
+get updates
 
-  * Artificial Intelligence & Machine Learning
+###### Connect
 
-  * Computers & Hardware
+National Geographic Society is a 501 (c)(3) organization. © 1996 - 2025
+National Geographic Society. All rights reserved.
 
-  * Consumer Electronics
-
-  * DIY Electronics
-
-  * Programming
-
-  * Software & Apps
-
-  * Streaming Services
-
-  * Tech News & Discussion
-
-  * Virtual & Augmented Reality
-
-* Pop Culture
-
-  * Celebrities
-
-  * Creators & Influencers
-
-  * Generations & Nostalgia
-
-  * Podcasts
-
-  * Streamers
-
-  * Tarot & Astrology
-
-* Movies & TV
-
-  * Action Movies & Series
-
-  * Animated Movies & Series
-
-  * Comedy Movies & Series
-
-  * Crime, Mystery, & Thriller Movies & Series
-
-  * Documentary Movies & Series
-
-  * Drama Movies & Series
-
-  * Fantasy Movies & Series
-
-  * Horror Movies & Series
-
-  * Movie News & Discussion
-
-  * Reality TV
-
-  * Romance Movies & Series
-
-  * Sci-Fi Movies & Series
-
-  * Superhero Movies & Series
-
-  * TV News & Discussion
-
-* * *
-
-* RESOURCES
-
-* About Reddit
-
-* Advertise
-
-* Reddit Pro
-
-BETA
-
-* Help
-
-* Blog
-
-* Careers
-
-* Press
-
-* * *
-
-* Communities
-
-* Best of Reddit
-
-* Topics
-
-officialsquarespace • Promoted
-
-Squarespace tools make it easy to create a beautiful and unique website,
-allowing you to control every step of the design process. Sign up now.
-
-Sign Up
-
-squarespace.com
+Code of Ethics|State Disclosures|Terms of Service|Privacy Notice|Your Privacy
+Choices
 
