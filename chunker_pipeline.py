@@ -25,7 +25,7 @@ class chunker():
         self.embedder = embedder
         self.text_splitter = SemanticChunker(self.embedder)
     
-    def chunk(self, docs):
+    def semantic_chunk(self, docs):
         """
         Parameters:
         text (string): text which will be split into chunks
@@ -37,32 +37,46 @@ class chunker():
         # Split the text into semantically similar chunks
         docs = self.text_splitter.create_documents(docs)
         print(docs)
-        docs = [chunk.page_content for chunk in docs]
-        return docs
+        chunks = [chunk.page_content for chunk in docs]
+        return chunks
 
-# ---------- Chunker Function ----------
-def chunk(text, embeddings):
-    """
-    Parameters:
-    text (string): text which will be split into chunks
-    embeddings (embeddings function): embedding function like say OllamaEmbeddings()
+    def simple_chunk(self, docs):
+        chunks = []
+        for doc in docs:
+            new_chunks = self.word_count_split(doc)
+            chunks.extend(new_chunks)
+        return chunks
+    
+    def word_count_split(self, text, chunk_size=300):
+        words = text.split()
+        return [
+            ' '.join(words[i:i+chunk_size])
+            for i in range(0, len(words), chunk_size)
+        ]
 
-    Returns:
-    docs (list<string>): A list of chunks(strings) which the text has been split into
-    """
+# # ---------- Chunker Function ----------
+# def chunk(text, embeddings):
+#     """
+#     Parameters:
+#     text (string): text which will be split into chunks
+#     embeddings (embeddings function): embedding function like say OllamaEmbeddings()
 
-    # Create the SemanticChunker with Ollama embeddings
-    text_splitter = SemanticChunker(embeddings=embeddings)
+#     Returns:
+#     docs (list<string>): A list of chunks(strings) which the text has been split into
+#     """
 
-    # Split the text into semantically similar chunks
-    docs = text_splitter.create_documents([text])
-    docs = [doc.page_content for doc in docs]
-    return docs
+#     # Create the SemanticChunker with Ollama embeddings
+#     text_splitter = SemanticChunker(embeddings=embeddings)
 
-# ---------- Adding Chunks To DB ----------
-def chunks_to_db(db, chunks):
-    chunks = [{'data':chunk} for chunk in chunks]
-    add_data(db, chunks, ['content'])
+#     # Split the text into semantically similar chunks
+#     docs = text_splitter.create_documents([text])
+#     docs = [doc.page_content for doc in docs]
+#     return docs
+
+# # ---------- Adding Chunks To DB ----------
+# def chunks_to_db(db, chunks):
+#     chunks = [{'data':chunk} for chunk in chunks]
+#     add_data(db, chunks, ['content'])
 
 
 # c_chunker = chunker(SentenceTransformerEmbeddings(SentenceTransformer('Snowflake/snowflake-arctic-embed-l-v2.0')))

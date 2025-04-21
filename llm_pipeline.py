@@ -2,7 +2,7 @@ from langchain_ollama import ChatOllama
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import START, MessagesState, StateGraph
 from langchain_core.messages import HumanMessage, SystemMessage
-from vectordb_pipeline import create_collection, add_data, query_data
+from vectordb_pipeline import create_collection, add_data, query_data, get_collection
 
 class llm_model():
     def __init__(self, model, config_key, weaviate_client):
@@ -59,7 +59,10 @@ class llm_model():
         """
         Creates query data vector data base
         """
-        self.query_data_vdb = create_collection(self.client,'query_data_vdb')
+        try:
+            self.query_data_vdb = create_collection(self.client,'query_data_vdb')
+        except:
+            self.query_data_vdb = get_collection(self.client,'query_data_vdb')
     
     # ---------- Add Data to Query Data ----------
     def add_data_to_qd_vdb(self, docs):
