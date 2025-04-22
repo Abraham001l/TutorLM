@@ -28,7 +28,7 @@ class rag():
         print('4')
         self.main_vdb = get_collection(self.weaviate_client, 'tutorlm_main')
     
-    def question_answer(self, question):
+    def question_answer_rag(self, question):
         # Compress question to topic
         query, keywords = self.question_to_topic(question)
         print('5')
@@ -48,7 +48,7 @@ class rag():
             print('8g')
 
             # Feed question and context to llm
-            llm_response = self.llm.query_model(question, context)
+            llm_response = self.llm.query_model_memory(question, context)
             print(llm_response)
             print('9g')
         else:
@@ -76,8 +76,13 @@ class rag():
             print('11o')
 
             # Feed question and context to llm
-            llm_response = self.llm.query_model(question, context)
+            llm_response = self.llm.query_model_memory(question, context)
             print('12o')
+            print(llm_response)
+
+    def question_answer_raw(self, question):
+        llm_response = self.llm.query_model_raw(question)
+        print(llm_response)
         
     # ---------- Angle Calculator ----------
     def extract_text(self, chunks):
@@ -86,7 +91,7 @@ class rag():
     # ---------- Question to Optimized Query ----------
     def question_to_topic(self, question):
         keywords = []
-        return 'photosyntesis', keywords
+        return question, keywords
     
     # ---------- Evaluate Quality of Vector DB Results ----------
     def evaluate_results(self, query, chunks):

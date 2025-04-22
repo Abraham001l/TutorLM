@@ -33,7 +33,7 @@ class llm_model():
         return {"messages": response}
     
     # ---------- Query Model Function For Application Use ----------
-    def query_model(self, query, context):
+    def query_model_memory(self, query, context):
         # Setting Up Message
         system_message = SystemMessage(content=context)
         human_message = HumanMessage(content=query)
@@ -42,6 +42,17 @@ class llm_model():
         # Invoking model_instance
         output = self.model_instance.invoke({"messages":input_messages}, self.config)
         return output["messages"][-1].content
+    
+    # ---------- Query Model Function For Application Use ----------
+    def query_model_raw(self, query):
+        # Setting Up Message
+        human_message = HumanMessage(content=query)
+        input_messages = [human_message]
+
+        # Invoking model_instance
+        response = self.model.invoke(input_messages)
+        return response.content
+    
     
     # ---------- Compress Previouse Context ----------
     # TODO
