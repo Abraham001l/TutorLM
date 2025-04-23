@@ -80,9 +80,14 @@ class rag():
             print('12o')
             print(llm_response)
 
+    # ---------- Raw Model Usage ----------
     def question_answer_raw(self, question):
         llm_response = self.llm.query_model_raw(question)
         print(llm_response)
+
+    # ---------- Graph Architecture Generator ----------
+    # def words_to_graph(self):
+
         
     # ---------- Angle Calculator ----------
     def extract_text(self, chunks):
